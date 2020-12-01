@@ -51,9 +51,15 @@ npdata$NP<-npdata$N*npdata$P
 
 ###plot
 
+#colnoP<-"#FF0000"
+#colP<-"#00A08A"
+
+colnoP<-"darkgray"
+colP<-"black"
+
 pdf(file="Figures/npanova.pdf", height=4.5, width = 6)
 
-p <- ggplot(data = npdata, aes(x = N, y = chl, color = as.factor(P))) +  scale_color_manual( values=c("0"="#FF0000", "1"="#00A08A"), labels=c("0", "+P"), name="") + geom_smooth(method="lm", aes(group = P), fill=NA) + geom_point() + scale_y_continuous(trans='log10',limits=c(0.5,8))+ 
+p <- ggplot(data = npdata, aes(x = N, y = chl, color = as.factor(P))) +  scale_color_manual( values=c("0"=colnoP, "1"=colP), labels=c("0", "+P"), name="") + geom_smooth(method="lm", aes(group = P), fill=NA) + geom_point() + scale_y_continuous(trans='log10',limits=c(0.5,8))+ 
 theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
 panel.background = element_blank(), axis.line = element_line(colour = "black"), legend.position = "null") +
 scale_x_continuous( name="", limits=c(-0.25,1.25), breaks=c(0,1), labels=c("0", "+N")) + ylab("Chlorophyll (µg/L)")
@@ -71,7 +77,7 @@ sumNP$ebup<-exp(sumNP$logchl+ sumNP$propsd)
 sumNP$ebdown<-exp(sumNP$logchl-sumNP$propsd)
 
   
-sp <- ggplot(data = sumNP, aes(x = N, y = chl, color = as.factor(P))) +  scale_color_manual( values=c("0"="#FF0000", "1"="#00A08A"), labels=c("0", "+P"), name="") + geom_line(size=1.2) + geom_pointrange(aes(ymin=ebdown, ymax=ebup))+
+sp <- ggplot(data = sumNP, aes(x = N, y = chl, color = as.factor(P))) +  scale_color_manual( values=c("0"=colnoP, "1"=colP), labels=c("0", "+P"), name="") + geom_line(size=1.2) + geom_pointrange(aes(ymin=ebdown, ymax=ebup))+
   scale_y_continuous(trans='log10', limits=c(0.5,8))+ theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
 panel.background = element_blank(), axis.line = element_line(colour = "black"), axis.title.y = element_blank(), legend.position = c(0.5,0.8) ) +
 scale_x_continuous( name="", limits=c(-0.25,1.25), breaks=c(0,1), labels=c("0", "+N")) 
