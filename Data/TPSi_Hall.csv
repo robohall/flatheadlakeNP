@@ -1,0 +1,2581 @@
+﻿SampleNumber,Site,CollectDate,SiO2,TP,Si_corrected
+FMP00007,"Flathead Lake, Midlake Deep",1984-02-01,5.48,4.28,0
+FMP00017,"Flathead Lake, Midlake Deep",1984-03-05,4.98,2.95,0
+FMP00027,"Flathead Lake, Midlake Deep",1984-04-03,4.97,2.80,0
+FMP00045,"Flathead Lake, Midlake Deep",1984-04-30,4.45,4.82,0
+FMP00055,"Flathead Lake, Midlake Deep",1984-05-15,4.51,2.99,0
+FMP00065,"Flathead Lake, Midlake Deep",1984-05-21,4.81,5.20,0
+FMP00069,"Flathead Lake, Midlake Deep",1984-05-24,NA,4.01,0
+FMP00075,"Flathead Lake, Midlake Deep",1984-06-25,4.30,6.66,0
+FMP00082,"Flathead Lake, Midlake Deep",1984-07-25,4.59,2.94,0
+FMP00091,"Flathead Lake, Midlake Deep",1984-08-07,5.31,3.01,0
+FMP00102,"Flathead Lake, Midlake Deep",1984-09-05,4.49,3.56,0
+FMP00113,"Flathead Lake, Midlake Deep",1984-10-02,4.82,3.38,0
+FMP00123,"Flathead Lake, Midlake Deep",1984-11-12,5.49,5.03,0
+FMP00134,"Flathead Lake, Midlake Deep",1984-12-12,5.53,3.39,0
+FMP00145,"Flathead Lake, Midlake Deep",1985-01-07,5.45,3.01,0
+FMP00157,"Flathead Lake, Midlake Deep",1985-02-10,3.68,5.33,0
+FMP00168,"Flathead Lake, Midlake Deep",1985-03-04,5.09,3.86,0
+FMP00203,"Flathead Lake, Midlake Deep",1985-04-25,5.18,6.63,0
+FMP00213,"Flathead Lake, Midlake Deep",1985-05-12,5.15,8.16,0
+FMP00226,"Flathead Lake, Midlake Deep",1985-05-27,4.25,3.84,0
+FMP00238,"Flathead Lake, Midlake Deep",1985-06-11,5.10,10.75,0
+FMP00255,"Flathead Lake, Midlake Deep",1985-07-01,3.07,4.53,0
+FMP00266,"Flathead Lake, Midlake Deep",1985-07-29,5.15,6.10,0
+FMP00277,"Flathead Lake, Midlake Deep",1985-08-26,3.75,3.42,0
+FMP00288,"Flathead Lake, Midlake Deep",1985-09-09,4.11,2.87,0
+FMP00307,"Flathead Lake, Midlake Deep",1985-10-08,2.10,4.81,0
+FMP00318,"Flathead Lake, Midlake Deep",1985-11-11,4.50,3.52,0
+FMP00331,"Flathead Lake, Midlake Deep",1985-12-09,4.85,4.48,0
+FMP00342,"Flathead Lake, Midlake Deep",1986-01-06,5.06,4.67,0
+FMP00355,"Flathead Lake, Midlake Deep",1986-02-03,4.92,4.13,0
+FMP00371,"Flathead Lake, Midlake Deep",1986-03-03,6.02,5.12,0
+FMP00384,"Flathead Lake, Midlake Deep",1986-03-31,5.00,4.53,0
+FMP00396,"Flathead Lake, Midlake Deep",1986-04-14,5.27,5.58,0
+FMP00408,"Flathead Lake, Midlake Deep",1986-04-28,5.22,4.51,0
+FMP00422,"Flathead Lake, Midlake Deep",1986-05-12,5.52,5.18,0
+FMP00434,"Flathead Lake, Midlake Deep",1986-06-03,5.82,5.52,0
+FMP00453,"Flathead Lake, Midlake Deep",1986-06-17,4.71,6.01,0
+FMP00463,"Flathead Lake, Midlake Deep",1986-06-30,4.38,4.93,0
+FMP00474,"Flathead Lake, Midlake Deep",1986-07-28,6.25,4.14,0
+FMP00491,"Flathead Lake, Midlake Deep",1986-09-02,4.64,3.05,0
+FMP00509,"Flathead Lake, Midlake Deep",1986-10-08,4.63,4.68,0
+FMP00530,"Flathead Lake, Midlake Deep",1986-11-04,4.44,3.47,0
+FMP00542,"Flathead Lake, Midlake Deep",1986-12-09,5.46,4.05,0
+FMP00555,"Flathead Lake, Midlake Deep",1987-01-19,5.12,4.48,0
+FMP00569,"Flathead Lake, Midlake Deep",1987-03-02,5.37,5.30,0
+FMP00582,"Flathead Lake, Midlake Deep",1987-03-23,4.99,3.86,0
+FMP00593,"Flathead Lake, Midlake Deep",1987-04-13,5.68,4.81,0
+FMP00612,"Flathead Lake, Midlake Deep",1987-05-04,5.11,5.84,0
+FMP00624,"Flathead Lake, Midlake Deep",1987-05-18,5.56,5.13,0
+FMP00636,"Flathead Lake, Midlake Deep",1987-06-03,5.26,5.77,0
+FMP00648,"Flathead Lake, Midlake Deep",1987-06-16,4.74,4.58,0
+FMP00667,"Flathead Lake, Midlake Deep",1987-06-28,4.92,3.44,0
+FMP00687A,"Flathead Lake, Midlake Deep",1987-08-12,4.84,5.06,0
+FMP00687B,"Flathead Lake, Midlake Deep",1987-08-12,4.92,4.20,0
+FMP00701,"Flathead Lake, Midlake Deep",1987-08-31,4.92,5.55,0
+FMP00711,"Flathead Lake, Midlake Deep",1987-09-21,4.73,4.05,0
+FMP00722A,"Flathead Lake, Midlake Deep",1987-10-28,NA,3.15,0
+FMP00722B,"Flathead Lake, Midlake Deep",1987-10-28,NA,1.90,0
+FMP00722C,"Flathead Lake, Midlake Deep",1987-10-28,NA,2.70,0
+FMP00736,Roys Creek @ Springhead,1987-10-30,15.44,11.04,0
+FMP00740,"Flathead Lake, Midlake Deep",1987-11-23,4.49,3.47,0
+FMP00748,Roys Creek @ Springhead,1987-11-24,15.19,9.80,0
+FMP00768,"Flathead Lake, Midlake Deep",1987-12-22,4.98,3.41,0
+FMP00775,Roys Creek @ Springhead,1987-12-23,14.81,10.65,0
+FMP00783,"Flathead Lake, Midlake Deep",1988-01-18,4.80,6.56,0
+FMP00792,Roys Creek @ Springhead,1988-01-19,14.67,9.58,0
+FMP00828,"Flathead Lake, Midlake Deep",1988-02-22,4.95,3.09,0
+FMP00842,Roys Creek @ Springhead,1988-02-23,14.30,10.67,0
+FMP00876,Roys Creek @ Springhead,1988-03-22,14.61,11.10,0
+FMP00886,"Flathead Lake, Midlake Deep",1988-03-24,4.84,3.50,0
+FMP00898,"Flathead Lake, Midlake Deep",1988-04-11,4.74,4.14,0
+FMP00920,Roys Creek @ Springhead,1988-04-12,14.16,13.07,0
+FMP00932,Roys Creek @ Springhead,1988-04-19,14.00,11.68,0
+FMP00934,"Flathead Lake, Midlake Deep",1988-04-25,4.74,5.03,0
+FMP00956,Roys Creek @ Springhead,1988-05-09,13.48,14.05,0
+FMP00960,"Flathead Lake, Midlake Deep",1988-05-12,4.50,4.01,0
+FMP00992,Roys Creek @ Springhead,1988-05-19,14.48,12.36,0
+FMP00996,"Flathead Lake, Midlake Deep",1988-05-26,4.55,3.02,0
+FMP01013,Roys Creek @ Springhead,1988-05-31,14.50,8.86,0
+FMP01028,"Flathead Lake, Midlake Deep",1988-06-14,4.43,2.49,0
+FMP01050,Roys Creek @ Springhead,1988-06-15,14.40,9.75,0
+FMP01055,"Flathead Lake, Midlake Deep",1988-06-30,4.28,3.12,0
+FMP01072,Roys Creek @ Springhead,1988-07-07,14.39,20.88,0
+FMP01081,"Flathead Lake, Midlake Deep",1988-07-25,4.44,3.93,0
+FMP01097,Roys Creek @ Springhead,1988-07-29,14.75,14.39,0
+FMP01100,"Flathead Lake, Midlake Deep",1988-08-16,4.50,4.96,0
+FMP01116,Roys Creek @ Springhead,1988-08-19,14.42,16.04,0
+FMP01129,Roys Creek @ Springhead,1988-09-13,14.31,19.05,0
+FMP01136,"Flathead Lake, Midlake Deep",1988-09-15,4.39,4.25,0
+FMP01149,"Flathead Lake, Midlake Deep",1988-11-16,4.57,4.76,0
+FMP01164,Roys Creek @ Springhead,1988-11-17,15.65,19.49,0
+FMP01177,"Flathead Lake, Midlake Deep",1989-02-21,4.74,4.76,0
+FMP01191,"Flathead Lake, Midlake Deep",1989-03-13,5.06,6.98,0
+FMP01214,"Flathead Lake, Midlake Deep",1989-04-18,4.82,3.97,0
+FMP01232,"Flathead Lake, Midlake Deep",1989-05-01,4.86,4.88,0
+FMP01256,"Flathead Lake, Midlake Deep",1989-05-26,4.72,4.63,0
+FMP01271,"Flathead Lake, Midlake Deep",1989-06-14,4.57,7.20,0
+FMP01286,"Flathead Lake, Midlake Deep",1989-07-11,4.43,6.34,0
+FMP01295,"Flathead Lake, Midlake Deep",1989-08-14,4.13,5.07,0
+FMP01318,"Flathead Lake, Midlake Deep",1989-09-25,4.19,7.21,0
+FMP01331,"Flathead Lake, Midlake Deep",1989-10-31,5.43,4.39,0
+FMP01339,"Flathead Lake, Midlake Deep",1989-11-27,4.78,5.33,0
+FMP01365,"Flathead Lake, Midlake Deep",1990-01-12,5.03,6.37,0
+FMP01372,"Flathead Lake, Midlake Deep",1990-02-21,5.04,10.15,0
+FMP01386,"Flathead Lake, Midlake Deep",1990-03-19,4.93,5.46,0
+FMP01407,"Flathead Lake, Midlake Deep",1990-04-06,4.98,5.24,0
+FMP01421,"Flathead Lake, Midlake Deep",1990-04-19,5.00,5.18,0
+FMP01428,"Flathead Lake, Midlake Deep",1990-05-01,4.83,5.11,0
+FMP01446,"Flathead Lake, Midlake Deep",1990-05-14,5.05,8.72,0
+FMP01463,"Flathead Lake, Midlake Deep",1990-05-30,4.78,3.02,0
+FMP01481,"Flathead Lake, Midlake Deep",1990-06-15,5.46,6.35,0
+FMP01500,"Flathead Lake, Midlake Deep",1990-07-17,4.75,7.58,0
+FMP01525,"Flathead Lake, Midlake Deep",1990-08-15,4.50,7.46,0
+FMP01540,"Flathead Lake, Midlake Deep",1990-09-19,4.57,5.80,0
+FMP01558,"Flathead Lake, Midlake Deep",1990-10-23,4.77,12.13,0
+FMP01575,"Flathead Lake, Midlake Deep",1990-11-28,5.15,4.62,0
+FMP01601,"Flathead Lake, Midlake Deep",1991-01-15,5.26,5.44,0
+FMP01613,"Flathead Lake, Midlake Deep",1991-03-14,5.46,1.77,0
+FMP01636,"Flathead Lake, Midlake Deep",1991-04-29,4.96,6.18,0
+FMP01654,"Flathead Lake, Midlake Deep",1991-05-15,4.92,5.48,0
+FMP01674,"Flathead Lake, Midlake Deep",1991-06-10,4.74,6.22,0
+FMP01697,"Flathead Lake, Midlake Deep",1991-07-01,4.84,6.72,0
+FMP01713,"Flathead Lake, Midlake Deep",1991-07-29,4.55,3.36,0
+FMP01730,"Flathead Lake, Midlake Deep",1991-08-26,4.44,4.37,0
+FMP01741,"Flathead Lake, Midlake Deep",1991-08-29,4.44,4.75,0
+FMP01753,"Flathead Lake, Midlake Deep",1991-09-23,4.58,4.30,0
+FMP01776,"Flathead Lake, Midlake Deep",1991-11-04,4.90,4.49,0
+FMP01795,"Flathead Lake, Midlake Deep",1991-12-13,5.13,5.24,0
+FMP01821,"Flathead Lake, Midlake Deep",1992-01-27,5.27,5.59,0
+FMP01828,"Flathead Lake, Midlake Deep",1992-02-13,4.98,5.60,0
+FMP01856,"Flathead Lake, Midlake Deep",1992-03-20,5.05,4.15,0
+FMP01872,"Flathead Lake, Midlake Deep",1992-04-16,5.09,5.59,0
+FMP01891,"Flathead Lake, Midlake Deep",1992-05-14,4.60,8.33,0
+FMP01909,"Flathead Lake, Midlake Deep",1992-06-04,5.14,4.52,0
+FMP01923,"Flathead Lake, Midlake Deep",1992-07-16,4.23,5.70,0
+FMP01940,"Flathead Lake, Midlake Deep",1992-08-20,4.69,3.60,0
+FMP01954,"Flathead Lake, Midlake Deep",1992-09-09,5.16,4.74,0
+FMP01972,"Flathead Lake, Midlake Deep",1992-10-19,4.50,4.85,0
+FMP02046,"Flathead Lake, Midlake Deep",1992-11-12,4.63,5.16,0
+FMP02079,"Flathead Lake, Midlake Deep",1993-01-29,NA,4.21,0
+FMP02089A,"Flathead Lake, Midlake Deep",1993-03-23,5.08,8.36,0
+FMP02089B,"Flathead Lake, Midlake Deep",1993-03-23,99.53,5.69,0
+FMP02105,"Flathead Lake, Midlake Deep",1993-04-13,4.89,4.75,0
+FMP02129,"Flathead Lake, Midlake Deep",1993-05-10,5.34,6.39,0
+FMP02151,"Flathead Lake, Midlake Deep",1993-06-03,4.92,11.64,0
+FMP02183,"Flathead Lake, Midlake Deep",1993-06-24,4.87,4.28,0
+FMP02186,"Flathead Lake, Midlake Deep",1993-07-21,4.39,4.52,0
+FMP02202,"Flathead Lake, Midlake Deep",1993-08-05,4.44,3.18,0
+FMP02217,"Flathead Lake, Midlake Deep",1993-09-17,5.18,3.31,0
+FMP02232,"Flathead Lake, Midlake Deep",1993-10-25,4.85,6.06,0
+FMP02241,"Flathead Lake, Midlake Deep",1993-12-10,4.95,4.51,0
+FMP02257,"Flathead Lake, Midlake Deep",1994-02-01,4.98,4.93,0
+FMP02272,"Flathead Lake, Midlake Deep",1994-03-09,4.81,3.73,0
+FMP02287,"Flathead Lake, Midlake Deep",1994-04-12,4.67,4.33,0
+FMP02312,"Flathead Lake, Midlake Deep",1994-05-16,4.78,7.01,0
+FMP02329,"Flathead Lake, Midlake Deep",1994-06-06,5.24,5.90,0
+FMP02344,"Flathead Lake, Midlake Deep",1994-06-17,4.80,3.68,0
+FMP02351,"Flathead Lake, Midlake Deep",1994-06-29,4.00,5.63,0
+FMP02366,"Flathead Lake, Midlake Deep",1994-07-26,3.98,3.80,0
+FMP02389,"Flathead Lake, Midlake Deep",1994-08-25,3.81,4.07,0
+FMP02398,"Flathead Lake, Midlake Deep",1994-09-22,3.68,8.99,0
+FMP02479,"Flathead Lake, Midlake Deep",1994-10-24,3.86,7.27,0
+FMP02507,"Flathead Lake, Midlake Deep",1994-11-22,4.58,3.05,0
+FMP02525A,"Flathead Lake, Midlake Deep",1995-01-19,4.55,3.74,0
+FMP02525B,"Flathead Lake, Midlake Deep",1995-01-19,4.55,2.64,0
+FMP02542,"Flathead Lake, Midlake Deep",1995-03-10,4.16,3.42,0
+FMP02560,"Flathead Lake, Midlake Deep",1995-04-11,4.27,4.46,0
+FMP02576,"Flathead Lake, Midlake Deep",1995-05-04,4.25,4.19,0
+FMP02599,"Flathead Lake, Midlake Deep",1995-05-25,4.17,5.92,0
+FMP02617,"Flathead Lake, Midlake Deep",1995-06-15,3.81,3.98,0
+FMP02626,"Flathead Lake, Midlake Deep",1995-07-06,3.78,3.73,0
+FMP02645,"Flathead Lake, Midlake Deep",1995-08-09,3.64,3.71,0
+FMP02661A,"Flathead Lake, Midlake Deep",1995-09-11,3.72,2.78,0
+FMP02661B,"Flathead Lake, Midlake Deep",1995-09-11,3.78,2.68,0
+FMP02679,"Flathead Lake, Midlake Deep",1995-10-13,4.07,6.49,0
+FMP02699,"Flathead Lake, Midlake Deep",1995-11-20,4.50,4.25,0
+FMP02717,"Flathead Lake, Midlake Deep",1995-12-27,4.41,4.36,0
+FMP02742,"Flathead Lake, Midlake Deep",1996-02-13,4.97,2.84,0
+FMP02758,"Flathead Lake, Midlake Deep",1996-03-26,4.50,3.81,0
+FMP02774,"Flathead Lake, Midlake Deep",1996-04-25,4.51,5.48,0
+FMP02793A,"Flathead Lake, Midlake Deep",1996-06-20,4.49,8.35,0
+FMP02793B,"Flathead Lake, Midlake Deep",1996-06-20,4.61,9.06,0
+FMP02801,"Flathead Lake, Midlake Deep",1996-09-09,5.04,4.19,0
+FMP02817,"Flathead Lake, Midlake Deep",1996-10-17,5.42,5.99,0
+FMP02836,"Flathead Lake, Midlake Deep",1996-12-04,5.86,4.63,0
+FMP02861,"Flathead Lake, Midlake Deep",1997-02-03,6.38,5.67,0
+FMP02876,"Flathead Lake, Midlake Deep",1997-04-18,5.46,4.09,0
+FMP02890,"Flathead Lake, Midlake Deep",1997-05-09,5.80,8.53,0
+FMP02923,"Flathead Lake, Midlake Deep",1997-06-13,5.57,9.58,0
+FMP02938,"Flathead Lake, Midlake Deep",1997-07-21,4.95,4.02,0
+FMP02953,"Flathead Lake, Midlake Deep",1997-08-19,4.83,6.66,0
+FMP02978A,"Flathead Lake, Midlake Deep",1997-09-25,4.93,4.98,0
+FMP02978B,"Flathead Lake, Midlake Deep",1997-09-25,4.90,4.89,0
+FMP03154,"Flathead Lake, Midlake Deep",1997-11-04,5.29,5.15,0
+FMP03169,"Flathead Lake, Midlake Deep",1997-12-10,5.47,4.62,0
+FMP03185,"Flathead Lake, Midlake Deep",1998-01-23,5.78,5.53,0
+FMP03202,"Flathead Lake, Midlake Deep",1998-03-13,NA,4.50,0
+FMP03226,"Flathead Lake, Midlake Deep",1998-04-09,NA,4.26,0
+FMP03250,"Flathead Lake, Midlake Deep",1998-05-11,NA,5.68,0
+FMP03275,"Flathead Lake, Midlake Deep",1998-05-28,NA,6.85,0
+FMP03297,"Flathead Lake, Midlake Deep",1998-06-17,NA,6.77,0
+FMP03315,"Flathead Lake, Midlake Deep",1998-07-24,NA,5.05,0
+FMP03323A,"Flathead Lake, Midlake Deep",1998-08-24,NA,4.10,0
+FMP03323B,"Flathead Lake, Midlake Deep",1998-08-24,NA,4.49,0
+FMP03340,"Flathead Lake, Midlake Deep",1998-09-11,NA,4.32,0
+FMP03356,"Flathead Lake, Midlake Deep",1998-09-29,NA,5.24,0
+FMP03373,"Flathead Lake, Midlake Deep",1998-11-23,5.27,6.78,0
+FMP03390,"Flathead Lake, Midlake Deep",1999-01-06,5.53,4.33,0
+FMP03409A,"Flathead Lake, Midlake Deep",1999-02-24,5.33,98.78,0
+FMP03409B,"Flathead Lake, Midlake Deep",1999-02-24,5.06,6.70,0
+FMP03425,"Flathead Lake, Midlake Deep",1999-03-24,0.00,3.90,0
+FMP03447,"Flathead Lake, Midlake Deep",1999-05-06,6.77,6.14,0
+FMP03470,"Flathead Lake, Midlake Deep",1999-05-26,5.87,4.13,0
+FMP03486,"Flathead Lake, Midlake Deep",1999-06-10,4.74,5.74,0
+FMP03509,"Flathead Lake, Midlake Deep",1999-07-02,0.00,4.73,0
+FMP03524,"Flathead Lake, Midlake Deep",1999-07-20,4.40,5.48,0
+FMP03530,"Flathead Lake, Midlake Deep",1999-08-03,4.34,6.31,0
+FMP03551,"Flathead Lake, Midlake Deep",1999-08-17,4.59,4.47,0
+FMP03566,"Flathead Lake, Midlake Deep",1999-09-16,4.52,5.45,0
+FMP03582A,"Flathead Lake, Midlake Deep",1999-10-21,4.66,0.70,0
+FMP03582B,"Flathead Lake, Midlake Deep",1999-10-21,4.90,0.70,0
+FMP03598,"Flathead Lake, Midlake Deep",1999-11-15,4.96,4.43,0
+FMP03614,"Flathead Lake, Midlake Deep",1999-12-17,5.07,6.29,0
+FMP03633,"Flathead Lake, Midlake Deep",2000-01-31,5.13,4.99,0
+FMP03659,"Flathead Lake, Midlake Deep",2000-03-02,5.38,3.27,0
+FMP03678,"Flathead Lake, Midlake Deep",2000-03-29,5.14,5.14,0
+FMP03695,"Flathead Lake, Midlake Deep",2000-04-19,5.19,6.29,0
+FMP03719,"Flathead Lake, Midlake Deep",2000-05-14,5.38,4.00,0
+FMP03729,"Flathead Lake, Midlake Deep",2000-06-02,5.32,5.22,0
+FMP03745,"Flathead Lake, Midlake Deep",2000-06-20,5.02,5.61,0
+FMP03765A,"Flathead Lake, Midlake Deep",2000-07-12,5.23,2.63,0
+FMP03765B,"Flathead Lake, Midlake Deep",2000-07-12,5.05,2.12,0
+FMP03779,"Flathead Lake, Midlake Deep",2000-08-02,4.85,2.72,0
+FMP03795,"Flathead Lake, Midlake Deep",2000-08-18,5.16,4.50,0
+FMP03811,"Flathead Lake, Midlake Deep",2000-09-20,4.82,3.39,0
+FMP03827,"Flathead Lake, Midlake Deep",2000-10-17,5.10,3.61,0
+FMP03836,"Flathead Lake, Midlake Deep",2000-11-17,5.16,4.21,0
+FMP03853,"Flathead Lake, Midlake Deep",2000-12-28,5.49,4.89,0
+FMP03868,"Flathead Lake, Midlake Deep",2001-02-01,5.11,4.79,0
+FMP03886,"Flathead Lake, Midlake Deep",2001-03-05,5.11,4.30,0
+FMP03904,"Flathead Lake, Midlake Deep",2001-04-06,5.44,5.82,0
+FMP03919A,"Flathead Lake, Midlake Deep",2001-04-26,5.50,5.24,0
+FMP03919B,"Flathead Lake, Midlake Deep",2001-04-26,6.00,5.12,0
+FMP03952,"Flathead Lake, Midlake Deep",2001-05-18,5.85,3.44,0
+FMP03965,"Flathead Lake, Midlake Deep",2001-06-01,5.03,5.93,0
+FMP03991,"Flathead Lake, Midlake Deep",2001-06-19,4.91,4.75,0
+FMP03998,"Flathead Lake, Midlake Deep",2001-06-29,4.39,6.32,0
+FMP04015A,"Flathead Lake, Midlake Deep",2001-07-30,4.29,5.02,0
+FMP04015B,"Flathead Lake, Midlake Deep",2001-07-30,4.33,4.52,0
+FMP04022,"Flathead Lake, Midlake Deep",2001-08-21,4.35,3.35,0
+FMP04029,"Flathead Lake, Midlake Deep",2001-09-20,NA,6.82,0
+FMP04038,"Flathead Lake, Midlake Deep",2001-10-27,NA,6.24,0
+FMP04048,"Flathead Lake, Midlake Deep",2001-11-19,NA,3.13,0
+FMP04056,"Flathead Lake, Midlake Deep",2001-12-18,NA,5.08,0
+FMP04066,"Flathead Lake, Midlake Deep",2002-02-05,NA,4.86,0
+FMP04077,"Flathead Lake, Midlake Deep",2002-03-26,NA,5.08,0
+FMP04088,"Flathead Lake, Midlake Deep",2002-04-18,NA,22.42,0
+FMP04097,"Flathead Lake, Midlake Deep",2002-05-01,NA,6.86,0
+FMP04102,"Flathead Lake, Midlake Deep",2002-05-15,NA,10.01,0
+FMP04109A,"Flathead Lake, Midlake Deep",2002-05-30,NA,7.51,0
+FMP04109B,"Flathead Lake, Midlake Deep",2002-05-30,NA,7.47,0
+FMP04117,"Flathead Lake, Midlake Deep",2002-06-07,NA,4.70,0
+FMP04124,"Flathead Lake, Midlake Deep",2002-06-17,NA,7.81,0
+FMP04133,"Flathead Lake, Midlake Deep",2002-06-26,NA,6.46,0
+FMP04139,"Flathead Lake, Midlake Deep",2002-07-25,3.95,4.58,0
+FMP04151,"Flathead Lake, Midlake Deep",2002-08-09,4.10,6.16,0
+FMP04159,"Flathead Lake, Midlake Deep",2002-08-30,3.60,3.69,0
+FMP04174,"Flathead Lake, Midlake Deep",2002-09-26,4.65,5.32,0
+FMP04188,"Flathead Lake, Midlake Deep",2002-10-15,4.50,6.12,0
+FMP04203,"Flathead Lake, Midlake Deep",2002-11-15,4.81,9.28,0
+FMP04226,"Flathead Lake, Midlake Deep",2002-12-09,5.59,8.64,0
+FMP04243A,"Flathead Lake, Midlake Deep",2003-01-07,5.11,4.77,0
+FMP04243B,"Flathead Lake, Midlake Deep",2003-01-07,5.00,6.35,0
+FMP04252,"Flathead Lake, Midlake Deep",2003-02-06,4.97,6.30,0
+FMP04277A,"Flathead Lake, Midlake Deep",2003-03-14,5.26,6.77,0
+FMP04277B,"Flathead Lake, Midlake Deep",2003-03-14,5.35,9.05,0
+FMP04294,"Flathead Lake, Midlake Deep",2003-04-04,5.09,4.72,0
+FMP04309,"Flathead Lake, Midlake Deep",2003-04-22,4.80,2.32,0
+FMP04325,"Flathead Lake, Midlake Deep",2003-05-13,4.92,4.59,0
+FMP04350,"Flathead Lake, Midlake Deep",2003-06-03,4.77,3.77,0
+FMP04378,"Flathead Lake, Midlake Deep",2003-06-25,4.40,6.37,0
+FMP04385,"Flathead Lake, Midlake Deep",2003-07-15,4.45,4.48,0
+FMP04405A,"Flathead Lake, Midlake Deep",2003-08-08,4.50,4.05,0
+FMP04405B,"Flathead Lake, Midlake Deep",2003-08-08,4.75,2.89,0
+FMP04421,"Flathead Lake, Midlake Deep",2003-08-19,4.45,4.01,0
+FMP04428,"Flathead Lake, Midlake Deep",2003-09-01,4.35,5.84,0
+FMP04443,"Flathead Lake, Midlake Deep",2003-10-06,4.47,6.60,0
+FMP04458,"Flathead Lake, Midlake Deep",2003-10-27,4.82,4.38,0
+FMP04476,"Flathead Lake, Midlake Deep",2003-12-01,4.77,4.21,0
+FMP04501,"Flathead Lake, Midlake Deep",2004-01-09,4.90,4.41,0
+FMP04517,"Flathead Lake, Midlake Deep",2004-02-03,4.97,6.33,0
+FMP04530,"Flathead Lake, Midlake Deep",2004-03-10,5.20,5.31,0
+FMP04554,"Flathead Lake, Midlake Deep",2004-04-06,4.87,5.48,0
+FMP04570A,"Flathead Lake, Midlake Deep",2004-04-29,5.14,5.64,0
+FMP04570B,"Flathead Lake, Midlake Deep",2004-04-29,5.33,6.19,0
+FMP04586,"Flathead Lake, Midlake Deep",2004-05-17,4.71,4.66,0
+FMP04610,"Flathead Lake, Midlake Deep",2004-06-15,4.81,5.12,0
+FMP04624,"Flathead Lake, Midlake Deep",2004-06-28,4.60,5.48,0
+FMP04634A,"Flathead Lake, Midlake Deep",2004-07-14,4.33,4.82,0
+FMP04634B,"Flathead Lake, Midlake Deep",2004-07-14,4.38,4.30,0
+FMP04649,"Flathead Lake, Midlake Deep",2004-07-29,4.30,3.73,0
+FMP04659,"Flathead Lake, Midlake Deep",2004-08-13,4.20,4.67,0
+FMP04676,"Flathead Lake, Midlake Deep",2004-08-30,4.60,6.03,0
+FMP04693,"Flathead Lake, Midlake Deep",2004-09-23,4.61,7.41,0
+FMP04701,"Flathead Lake, Midlake Deep",2004-10-13,4.64,7.90,0
+FMP04716,"Flathead Lake, Midlake Deep",2004-11-15,5.42,5.47,0
+FMP04732A,"Flathead Lake, Midlake Deep",2004-12-21,5.02,4.47,0
+FMP04732B,"Flathead Lake, Midlake Deep",2004-12-21,4.84,4.47,0
+FMP04756,"Flathead Lake, Midlake Deep",2005-01-31,5.13,4.42,0
+FMP04762,"Flathead Lake, Midlake Deep",2005-02-24,5.05,6.02,0
+FMP04786,"Flathead Lake, Midlake Deep",2005-04-06,5.14,2.70,0
+FMP04794,"Flathead Lake, Midlake Deep",2005-04-21,5.05,3.53,0
+FMP04832,"Flathead Lake, Midlake Deep",2005-05-18,4.76,8.33,0
+FMP04840,"Flathead Lake, Midlake Deep",2005-05-30,4.65,5.89,0
+FMP04863,"Flathead Lake, Midlake Deep",2005-06-14,4.84,8.36,0
+FMP04873A,"Flathead Lake, Midlake Deep",2005-07-07,4.47,3.94,0
+FMP04873B,"Flathead Lake, Midlake Deep",2005-07-07,4.53,2.92,0
+FMP04889,"Flathead Lake, Midlake Deep",2005-07-26,4.54,6.40,0
+FMP04910,"Flathead Lake, Midlake Deep",2005-08-25,4.47,4.07,0
+FMP04928,"Flathead Lake, Midlake Deep",2005-09-22,4.60,3.79,0
+FMP04946A,"Flathead Lake, Midlake Deep",2005-10-28,4.62,5.84,0
+FMP04946B,"Flathead Lake, Midlake Deep",2005-10-28,4.67,7.99,0
+FMP04966,"Flathead Lake, Midlake Deep",2005-12-12,5.09,4.68,0
+FMP04993,"Flathead Lake, Midlake Deep",2006-01-19,5.19,5.58,0
+FMP05000,"Flathead Lake, Midlake Deep",2006-02-14,5.40,3.90,0
+FMP05023,"Flathead Lake, Midlake Deep",2006-03-21,5.04,4.32,0
+FMP05041,"Flathead Lake, Midlake Deep",2006-04-11,5.00,5.73,0
+FMP05048,"Flathead Lake, Midlake Deep",2006-04-25,4.93,5.96,0
+FMP05063,"Flathead Lake, Midlake Deep",2006-05-10,4.90,7.49,0
+FMP05077,Roys Creek @ Springhead,2006-05-16,16.33,14.47,0
+FMP05096A,"Flathead Lake, Midlake Deep",2006-05-30,4.83,5.44,0
+FMP05096B,"Flathead Lake, Midlake Deep",2006-05-30,4.81,6.19,0
+FMP05117,"Flathead Lake, Midlake Deep",2006-06-22,4.52,5.67,0
+FMP05133,"Flathead Lake, Midlake Deep",2006-07-17,4.77,4.22,0
+FMP05141,"Flathead Lake, Midlake Deep",2006-08-08,4.38,4.19,0
+FMP05165,"Flathead Lake, Midlake Deep",2006-09-05,4.48,4.08,0
+FMP05182,"Flathead Lake, Midlake Deep",2006-10-03,4.54,4.19,0
+FMP05197,"Flathead Lake, Midlake Deep",2006-11-01,4.68,6.02,0
+FMP05212A,"Flathead Lake, Midlake Deep",2006-12-11,5.36,5.16,0
+FMP05212B,"Flathead Lake, Midlake Deep",2006-12-11,5.02,4.88,0
+FMP05233,"Flathead Lake, Midlake Deep",2007-01-25,5.09,4.74,0
+FMP05242,"Flathead Lake, Midlake Deep",2007-02-28,5.09,4.53,0
+FMP05263,"Flathead Lake, Midlake Deep",2007-03-23,5.30,5.82,0
+FMP05278A,"Flathead Lake, Midlake Deep",2007-04-05,5.34,6.29,0
+FMP05278B,"Flathead Lake, Midlake Deep",2007-04-05,5.07,6.63,0
+FMP05286,"Flathead Lake, Midlake Deep",2007-04-16,5.63,5.44,0
+FMP05300,Roys Creek @ Springhead,2007-04-21,15.65,15.07,0
+FMP05302,"Flathead Lake, Midlake Deep",2007-04-28,5.46,5.03,0
+FMP05324,"Flathead Lake, Midlake Deep",2007-05-18,4.82,10.20,0
+FMP05340,Roys Creek @ Springhead,2007-05-30,15.17,13.49,0
+FMP05341,"Flathead Lake, Midlake Deep",2007-06-04,4.91,3.70,0
+FMP05357,Roys Creek @ Springhead,2007-06-15,15.20,12.18,0
+FMP05364,"Flathead Lake, Midlake Deep",2007-06-18,4.64,5.87,0
+FMP05379,Roys Creek @ Springhead,2007-07-09,15.11,12.54,0
+FMP05386A,"Flathead Lake, Midlake Deep",2007-07-13,4.36,3.47,0
+FMP05386B,"Flathead Lake, Midlake Deep",2007-07-13,3.55,3.05,0
+FMP05395A,"Flathead Lake, Midlake Deep",2007-08-03,4.33,4.16,0
+FMP05395B,"Flathead Lake, Midlake Deep",2007-08-03,4.31,3.32,0
+FMP05407,Roys Creek @ Springhead,2007-08-06,11.91,11.85,0
+FMP05411,"Flathead Lake, Midlake Deep",2007-08-29,5.49,3.13,0
+FMP05419,Roys Creek @ Springhead,2007-09-08,16.45,11.39,0
+FMP05427,"Flathead Lake, Midlake Deep",2007-09-21,4.82,4.16,0
+FMP05443,Roys Creek @ Springhead,2007-10-10,16.73,11.85,0
+FMP05445,"Flathead Lake, Midlake Deep",2007-10-23,4.70,4.59,0
+FMP05453,Roys Creek @ Springhead,2007-11-19,16.63,12.80,0
+FMP05462,"Flathead Lake, Midlake Deep",2007-11-26,4.95,4.85,0
+FMP05480,Roys Creek @ Springhead,2007-12-07,16.94,11.72,0
+FMP05482,"Flathead Lake, Midlake Deep",2008-01-03,4.84,3.81,0
+FMP05492,Roys Creek @ Springhead,2008-01-16,16.39,13.13,0
+FMP05501,"Flathead Lake, Midlake Deep",2008-02-04,4.98,4.90,0
+FMP05511,Roys Creek @ Springhead,2008-02-12,15.93,13.06,0
+FMP05520A,"Flathead Lake, Midlake Deep",2008-03-05,4.99,4.03,0
+FMP05520B,"Flathead Lake, Midlake Deep",2008-03-05,4.96,4.33,0
+FMP05534,Roys Creek @ Springhead,2008-03-12,15.11,12.13,0
+FMP05543,"Flathead Lake, Midlake Deep",2008-04-07,5.89,4.52,0
+FMP05557,Roys Creek @ Springhead,2008-04-14,14.83,14.14,0
+FMP05560,"Flathead Lake, Midlake Deep",2008-04-22,5.07,4.68,0
+FMP05572,Roys Creek @ Springhead,2008-05-01,15.10,13.78,0
+FMP05577,"Flathead Lake, Midlake Deep",2008-05-05,5.05,6.15,0
+FMP05590,Roys Creek @ Springhead,2008-05-15,14.95,14.73,0
+FMP05599,Roys Creek @ Springhead,2008-05-21,14.95,15.38,0
+FMP05604,"Flathead Lake, Midlake Deep",2008-05-28,5.23,6.17,0
+FMP05617,Roys Creek @ Springhead,2008-06-03,15.27,15.39,0
+FMP05620,"Flathead Lake, Midlake Deep",2008-06-05,4.90,9.47,0
+FMP05633,Roys Creek @ Springhead,2008-06-12,15.00,15.31,0
+FMP05637,"Flathead Lake, Midlake Deep",2008-06-16,4.87,7.22,0
+FMP05659A,Roys Creek @ Springhead,2008-07-07,15.34,14.72,0
+FMP05659B,Roys Creek @ Springhead,2008-07-07,15.43,18.10,0
+FMP05661,"Flathead Lake, Midlake Deep",2008-07-08,4.64,4.81,0
+FMP05673,"Flathead Lake, Midlake Deep",2008-07-28,4.90,5.01,0
+FMP05691,Roys Creek @ Springhead,2008-08-08,16.20,13.96,0
+FMP05695,"Flathead Lake, Midlake Deep",2008-08-25,4.80,6.04,0
+FMP05712,Roys Creek @ Springhead,2008-09-03,7.94,13.92,0
+FMP05723A,"Flathead Lake, Midlake Deep",2008-09-30,4.87,4.81,0
+FMP05723B,"Flathead Lake, Midlake Deep",2008-09-30,4.56,5.76,0
+FMP05741,Roys Creek @ Springhead,2008-10-10,15.66,10.50,0
+FMP05743,"Flathead Lake, Midlake Deep",2008-10-22,4.87,3.59,0
+FMP05764,Roys Creek @ Springhead,2008-11-13,15.82,10.54,0
+FMP05766,"Flathead Lake, Midlake Deep",2008-11-17,5.32,2.93,0
+FMP05777,"Flathead Lake, Midlake Deep",2008-12-11,5.01,4.95,0
+FMP05791,Roys Creek @ Springhead,2008-12-16,15.37,9.60,0
+FMP05803,Roys Creek @ Springhead,2009-01-08,15.52,15.96,0
+FMP05806,"Flathead Lake, Midlake Deep",2009-01-12,5.20,4.39,0
+FMP05820,"Flathead Lake, Midlake Deep",2009-02-19,5.10,5.43,0
+FMP05848,Roys Creek @ Springhead,2009-03-24,15.44,13.68,0
+FMP05850,"Flathead Lake, Midlake Deep",2009-03-26,5.21,6.12,0
+FMP05864,Roys Creek @ Springhead,2009-04-09,15.26,18.31,0
+FMP05871,"Flathead Lake, Midlake Deep",2009-04-10,5.30,6.41,0
+FMP05888,Roys Creek @ Springhead,2009-04-23,15.18,13.15,0
+FMP05892,"Flathead Lake, Midlake Deep",2009-05-01,4.97,6.37,0
+FMP05909,"Flathead Lake, Midlake Deep",2009-05-18,5.33,7.61,0
+FMP05928A,"Flathead Lake, Midlake Deep",2009-06-03,4.77,6.39,0
+FMP05928B,"Flathead Lake, Midlake Deep",2009-06-03,4.77,6.04,0
+FMP05946,"Flathead Lake, Midlake Deep",2009-06-23,4.66,3.94,0
+FMP05962,"Flathead Lake, Midlake Deep",2009-07-14,4.78,2.98,0
+FMP05975,"Flathead Lake, Midlake Deep",2009-08-03,4.80,3.55,0
+FMP05992,"Flathead Lake, Midlake Deep",2009-08-25,4.75,3.35,0
+FMP06006,"Flathead Lake, Midlake Deep",2009-09-14,4.61,5.36,0
+FMP06022,"Flathead Lake, Midlake Deep",2009-10-08,4.90,4.18,0
+FMP06035,"Flathead Lake, Midlake Deep",2009-11-05,4.99,4.03,0
+FMP06052,"Flathead Lake, Midlake Deep",2009-12-04,5.29,6.87,0
+FMP06077,"Flathead Lake, Midlake Deep",2010-01-14,5.03,6.48,0
+FMP06087,Roys Creek @ Springhead,2010-01-15,16.22,14.36,0
+FMP06093A,"Flathead Lake, Midlake Deep",2010-02-03,5.16,6.90,0
+FMP06093B,"Flathead Lake, Midlake Deep",2010-02-03,5.19,5.13,0
+FMP06106,Roys Creek @ Springhead,2010-02-08,15.43,13.87,0
+FMP06116,Roys Creek @ Springhead,2010-03-03,15.28,11.92,0
+FMP06119,"Flathead Lake, Midlake Deep",2010-03-05,5.54,4.29,0
+FMP06133,Roys Creek @ Springhead,2010-03-30,15.64,11.69,0
+FMP06135,"Flathead Lake, Midlake Deep",2010-04-01,5.88,4.40,0
+FMP06148,Roys Creek @ Springhead,2010-04-14,15.46,11.88,0
+FMP06154A,Roys Creek @ Springhead,2010-04-22,15.58,13.06,0
+FMP06154B,Roys Creek @ Springhead,2010-04-22,15.55,12.98,0
+FMP06159A,"Flathead Lake, Midlake Deep",2010-04-23,5.01,6.82,0
+FMP06159B,"Flathead Lake, Midlake Deep",2010-04-23,5.20,9.14,0
+FMP06170,"Flathead Lake, Midlake Deep",2010-05-10,5.65,6.83,0
+FMP06182,Roys Creek @ Springhead,2010-05-14,14.84,13.32,0
+FMP06189,Roys Creek @ Springhead,2010-05-20,14.54,13.06,0
+FMP06193,"Flathead Lake, Midlake Deep",2010-05-28,5.13,5.86,0
+FMP06207,Roys Creek @ Springhead,2010-06-18,14.19,15.39,0
+FMP06213,"Flathead Lake, Midlake Deep",2010-06-24,4.45,4.87,0
+FMP06224,Roys Creek @ Springhead,2010-07-07,14.01,13.13,0
+FMP06227,"Flathead Lake, Midlake Deep",2010-07-14,4.40,5.27,0
+FMP06244,Roys Creek @ Springhead,2010-08-05,14.24,17.70,0
+FMP06246,"Flathead Lake, Midlake Deep",2010-08-06,4.43,5.13,0
+FMP06256,"Flathead Lake, Midlake Deep",2010-08-20,4.52,11.26,0
+FMP06270,"Flathead Lake, Midlake Deep",2010-09-21,4.58,3.31,0
+FMP06282,Roys Creek @ Springhead,2010-09-23,14.24,12.03,0
+FMP06292,Roys Creek @ Springhead,2010-10-15,14.91,11.99,0
+FMP06294,"Flathead Lake, Midlake Deep",2010-10-19,4.78,8.87,0
+FMP06308,"Flathead Lake, Midlake Deep",2010-11-10,4.84,4.26,0
+FMP06318,Roys Creek @ Springhead,2010-11-12,14.99,11.10,0
+FMP06329,Roys Creek @ Springhead,2010-12-13,15.75,12.91,0
+FMP06333A,"Flathead Lake, Midlake Deep",2010-12-16,5.07,3.48,0
+FMP06333B,"Flathead Lake, Midlake Deep",2010-12-16,5.19,3.67,0
+FMP06349,Roys Creek @ Springhead,2011-01-18,14.46,13.33,0
+FMP06352A,"Flathead Lake, Midlake Deep",2011-01-25,5.15,6.92,0
+FMP06352B,"Flathead Lake, Midlake Deep",2011-01-25,5.08,16.86,0
+FMP06371,Roys Creek @ Springhead,2011-03-03,14.22,10.13,0
+FMP06375,"Flathead Lake, Midlake Deep",2011-03-08,5.19,3.42,0
+FMP06388,"Flathead Lake, Midlake Deep",2011-04-12,5.13,2.92,0
+FMP06400,Roys Creek @ Springhead,2011-04-18,14.70,12.10,0
+FMP06407,"Flathead Lake, Midlake Deep",2011-05-04,5.15,4.65,0
+FMP06420,Roys Creek @ Springhead,2011-05-16,14.96,14.61,0
+FMP06425,"Flathead Lake, Midlake Deep",2011-05-19,5.29,5.82,0
+FMP06437,"Flathead Lake, Midlake Deep",2011-06-10,5.17,5.73,0
+FMP06448,Roys Creek @ Springhead,2011-06-13,14.12,17.01,0
+FMP06457A,Roys Creek @ Springhead,2011-06-24,15.04,14.59,0
+FMP06457B,Roys Creek @ Springhead,2011-06-24,14.91,17.75,0
+FMP06462,"Flathead Lake, Midlake Deep",2011-07-07,4.89,9.45,0
+FMP06470,Roys Creek @ Springhead,2011-07-08,13.88,14.49,0
+FMP06483,Roys Creek @ Springhead,2011-07-27,14.53,14.89,0
+FMP06485,"Flathead Lake, Midlake Deep",2011-07-28,4.82,6.78,0
+FMP06506,Roys Creek @ Springhead,2011-08-16,15.14,4.10,0
+FMP06509,"Flathead Lake, Midlake Deep",2011-08-21,4.35,3.84,0
+FMP06523,Roys Creek @ Springhead,2011-09-07,9.86,14.22,0
+FMP06527,"Flathead Lake, Midlake Deep",2011-09-21,4.69,3.59,0
+FMP06542,Roys Creek @ Springhead,2011-10-08,14.70,10.97,0
+FMP06547A,"Flathead Lake, Midlake Deep",2011-10-19,4.59,3.07,0
+FMP06547B,"Flathead Lake, Midlake Deep",2011-10-19,4.60,3.60,0
+FMP06559,"Flathead Lake, Midlake Deep",2011-11-16,4.92,9.02,0
+FMP06570,Roys Creek @ Springhead,2011-11-23,15.07,13.36,0
+FMP06578,Roys Creek @ Springhead,2011-12-12,14.62,12.21,0
+FMP06580,"Flathead Lake, Midlake Deep",2011-12-15,5.16,5.90,0
+FMP06594,Roys Creek @ Springhead,2012-01-19,7.15,12.39,0
+FMP06599,"Flathead Lake, Midlake Deep",2012-02-02,5.23,4.77,0
+FMP06614,Roys Creek @ Springhead,2012-02-16,6.92,10.52,0
+FMP06620,"Flathead Lake, Midlake Deep",2012-03-08,5.12,2.36,0
+FMP06632,Roys Creek @ Springhead,2012-03-14,14.37,11.52,0
+FMP06642,Roys Creek @ Springhead,2012-04-02,14.19,15.80,0
+FMP06644,"Flathead Lake, Midlake Deep",2012-04-03,5.31,4.80,0
+FMP06660,Roys Creek @ Springhead,2012-04-13,14.25,16.90,0
+FMP06669,Roys Creek @ Springhead,2012-04-26,14.29,21.70,0
+FMP06814,"Flathead Lake, Midlake Deep",2012-06-25,4.77,6.70,0
+FMP06825A,"Flathead Lake, Midlake Deep",2012-07-10,4.50,4.30,0
+FMP06825B,"Flathead Lake, Midlake Deep",2012-07-10,4.90,5.00,0
+FMP06842,Roys Creek @ Springhead,2012-07-20,14.39,15.10,0
+FMP06853,"Flathead Lake, Midlake Deep",2012-07-27,4.81,3.80,0
+FMP06871,Roys Creek @ Springhead,2012-08-09,15.05,14.60,0
+FMP06874,"Flathead Lake, Midlake Deep",2012-08-14,4.39,3.60,0
+FMP06958,"Flathead Lake, Midlake Deep",2012-08-27,4.36,5.30,0
+FMP06970,Roys Creek @ Springhead,2012-08-28,14.75,12.10,0
+FMP06984,"Flathead Lake, Midlake Deep",2012-09-13,4.47,7.40,0
+FMP06994,"Flathead Lake, Midlake Deep",2012-09-24,4.49,5.30,0
+FMP07005,Roys Creek @ Springhead,2012-09-25,14.90,16.20,0
+FMP07170,Roys Creek @ Springhead,2013-03-15,14.22,15.90,0
+FMP07023,"Flathead Lake, Midlake Deep",2012-10-09,4.59,4.20,0
+FMP07114,Roys Creek @ Springhead,2012-12-03,15.32,12.70,0
+FMP07117,"Flathead Lake, Midlake Deep",2012-12-10,5.06,3.40,0
+FMP07151,Roys Creek @ Springhead,2013-02-14,14.86,14.00,0
+FMP07154A,"Flathead Lake, Midlake Deep",2013-02-27,4.86,4.70,0
+FMP07154B,"Flathead Lake, Midlake Deep",2013-02-27,4.84,5.60,0
+FMP06776A,Roys Creek @ Springhead,2012-05-31,14.12,12.40,0
+FMP06776B,Roys Creek @ Springhead,2012-05-31,14.74,15.20,0
+FMP07096,Roys Creek @ Springhead,2012-10-31,16.02,13.90,0
+FMP07099,"Flathead Lake, Midlake Deep",2012-11-02,5.05,4.30,0
+FMP07191B,Roys Creek @ Springhead,2013-04-05,13.85,8.90,0
+FMP06759,Roys Creek @ Springhead,2012-05-17,14.53,11.30,1
+FMP06764,"Flathead Lake, Midlake Deep",2012-05-30,5.07,4.70,1
+FMP06810,Roys Creek @ Springhead,2012-06-20,13.83,13.60,1
+FMP07193,"Flathead Lake, Midlake Deep",2013-04-10,4.81,6.90,1
+FMP07339,"Flathead Lake, Midlake Deep",2013-06-10,4.48,6.20,1
+FMP07367A,"Flathead Lake, Midlake Deep",2013-06-27,4.39,6.60,1
+FMP07367B,"Flathead Lake, Midlake Deep",2013-06-27,4.26,6.10,1
+FMP07382,"Flathead Lake, Midlake Deep",2013-07-10,4.15,4.60,1
+FMP06705,"Flathead Lake, Midlake Deep",2012-05-08,0.00,6.90,1
+FMP06784,Roys Creek @ Springhead,2012-06-07,14.26,10.10,1
+FMP06796,"Flathead Lake, Midlake Deep",2012-06-12,4.99,4.00,1
+FMP07191A,Roys Creek @ Springhead,2013-04-05,14.07,8.70,1
+FMP07211,Roys Creek @ Springhead,2013-04-26,13.43,11.40,1
+FMP07213,"Flathead Lake, Midlake Deep",2013-04-30,4.77,3.80,1
+FMP07361,Roys Creek @ Springhead,2013-06-19,14.39,9.90,1
+FMP07392,"Flathead Lake, Midlake Deep",2013-07-21,4.02,1.80,1
+FMP07523,Roys Creek @ Springhead,2013-08-26,14.42,9.80,1
+FMP07134,"Flathead Lake, Midlake Deep",2013-01-10,5.14,4.30,1
+FMP07178,"Flathead Lake, Midlake Deep",2013-03-27,4.88,5.60,1
+FMP07565,"Flathead Lake, Midlake Deep",2013-10-07,4.57,4.60,1
+FMP07132,Roys Creek @ Springhead,2013-01-09,15.23,10.90,1
+FMP07320,Roys Creek @ Springhead,2013-05-22,14.65,8.90,1
+FMP07322,"Flathead Lake, Midlake Deep",2013-05-29,4.85,6.10,1
+FMP07298,Roys Creek @ Springhead,2013-05-10,14.42,9.80,1
+FMP07303,Roys Creek @ Springhead,2013-05-14,14.65,9.60,1
+FMP07337,Roys Creek @ Springhead,2013-06-05,14.56,10.40,1
+FMP07380,Roys Creek @ Springhead,2013-07-09,13.89,9.90,1
+FMP07305,"Flathead Lake, Midlake Deep",2013-05-16,4.90,4.20,1
+FMP07483,Roys Creek @ Springhead,2013-08-02,14.61,8.30,1
+FMP07499,"Flathead Lake, Midlake Deep",2013-08-20,4.15,2.50,1
+FMP07533,Roys Creek @ Springhead,2013-09-09,16.51,7.30,1
+FMP07561,Roys Creek @ Springhead,2013-09-26,15.08,8.60,1
+FMP07489,"Flathead Lake, Midlake Deep",2013-08-08,4.28,2.80,1
+FMP07538,"Flathead Lake, Midlake Deep",2013-09-10,4.34,4.40,1
+FMP07650,Roys Creek @ Springhead,2013-10-15,15.37,6.80,1
+FMP07662,Roys Creek @ Springhead,2013-11-12,15.45,6.50,1
+FMP07664A,"Flathead Lake, Midlake Deep",2013-11-13,4.73,2.10,1
+FMP07664B,"Flathead Lake, Midlake Deep",2013-11-13,4.74,2.40,1
+FMP07680,"Flathead Lake, Midlake Deep",2013-12-13,4.96,2.60,1
+FMP07691,Roys Creek @ Springhead,2013-12-17,15.59,6.80,1
+14093003-04,Roys Creek @ Springhead,2014-01-14,15.71,10.90,1
+14093009-05,Roys Creek @ Springhead,2014-02-13,15.10,3.30,1
+14093011-01,"Flathead Lake, Midlake Deep",2014-02-27,n/a,n/a,1
+14093011-02,"Flathead Lake, Midlake Deep",2014-02-27,4.95,5.30,1
+14102801-05,Roys Creek @ Springhead,2014-03-06,16.11,8.90,1
+14102902-01,"Flathead Lake, Midlake Deep",2014-03-25,4.78,2.90,1
+14102905-04,Roys Creek @ Springhead,2014-04-10,15.54,8.70,1
+14102905-05,Roys Creek @ Springhead,2014-04-10,15.68,9.40,1
+14102907-01,"Flathead Lake, Midlake Deep",2014-04-14,5.07,3.50,1
+14102910-01,"Flathead Lake, Midlake Deep",2014-05-01,4.97,8.70,1
+14102910-02,"Flathead Lake, Midlake Deep",2014-05-01,4.94,4.30,1
+14102912-04,Roys Creek @ Springhead,2014-05-05,15.68,9.50,1
+14103004-05,Roys Creek @ Springhead,2014-05-19,15.02,8.90,1
+14103007-01,"Flathead Lake, Midlake Deep",2014-05-22,4.79,20.40,1
+14103009-03,Roys Creek @ Springhead,2014-05-27,15.03,9.50,1
+14103012-05,Roys Creek @ Springhead,2014-06-04,15.33,9.40,1
+14103015-01,"Flathead Lake, Midlake Deep",2014-06-10,4.61,4.00,1
+14103015-02,"Flathead Lake, Midlake Deep",2014-06-10,4.57,3.50,1
+14103017-04,Roys Creek @ Springhead,2014-06-18,14.90,7.70,1
+14111401-01,"Flathead Lake, Midlake Deep",2014-07-07,4.24,8.90,1
+14111402-05,Roys Creek @ Springhead,2014-07-08,15.11,8.80,1
+14111408-05,Roys Creek @ Springhead,2014-07-29,15.12,9.30,1
+14111412-01,"Flathead Lake, Midlake Deep",2014-07-31,3.99,< 1.5,1
+14111416-01,"Flathead Lake, Midlake Deep",2014-08-13,3.96,< 1.5,1
+14111420-01,"Flathead Lake, Midlake Deep",2014-08-29,4.12,1.90,1
+14111422-04,Roys Creek @ Springhead,2014-09-02,15.54,9.10,1
+14111427-01,"Flathead Lake, Midlake Deep",2014-09-15,4.21,2.40,1
+14111427-02,"Flathead Lake, Midlake Deep",2014-09-15,4.79,2.30,1
+14111431-04,Roys Creek @ Springhead,2014-09-29,15.66,8.70,1
+14111701-01,"Flathead Lake, Midlake Deep",2014-10-03,4.29,3.00,1
+14120201-01,"Flathead Lake, Midlake Deep",2014-10-22,4.30,2.50,1
+14120213-04,Roys Creek @ Springhead,2014-11-03,16.25,12.10,1
+14120303-01,"Flathead Lake, Midlake Deep",2014-11-26,4.93,2.60,1
+14120901-04,Roys Creek @ Springhead,2014-12-09,16.05,9.20,1
+15011202-01,"Flathead Lake, Midlake Deep",2015-01-12,5.00,3.10,1
+15012002-04,Roys Creek @ Springhead,2015-01-20,16.20,9.60,1
+15022701-04,Roys Creek @ Springhead,2015-02-27,15.96,9.90,1
+15030601-01,"Flathead Lake, Midlake Deep",2015-03-09,5.12,2.30,1
+15031601-04,Roys Creek @ Springhead,2015-03-16,15.95,10.00,1
+15041301-01,"Flathead Lake, Midlake Deep",2015-04-13,5.05,2.80,1
+15041301-02,"Flathead Lake, Midlake Deep",2015-04-13,5.05,3.10,1
+15041601-04,Roys Creek @ Springhead,2015-04-16,15.39,10.00,1
+15051402-05,Roys Creek @ Springhead,2015-05-14,15.67,10.60,1
+15052102-01,"Flathead Lake, Midlake Deep",2015-05-21,5.05,2.30,1
+15052802-05,Roys Creek @ Springhead,2015-05-28,15.62,12.70,1
+15060301-04,Roys Creek @ Springhead,2015-06-03,15.77,10.80,1
+15060301-05,Roys Creek @ Springhead,2015-06-03,15.47,9.40,1
+15061001-01,"Flathead Lake, Midlake Deep",2015-06-10,4.49,2.20,1
+15061803-05,Roys Creek @ Springhead,2015-06-18,15.63,8.30,1
+15062501-01,"Flathead Lake, Midlake Deep",2015-06-25,4.47,2.70,1
+15070701-04,Roys Creek @ Springhead,2015-07-07,15.16,10.10,1
+15070902-01,"Flathead Lake, Midlake Deep",2015-07-10,4.17,2.50,1
+15072801-01,"Flathead Lake, Midlake Deep",2015-07-28,4.31,3.30,1
+15072801-02,"Flathead Lake, Midlake Deep",2015-07-28,4.22,4.30,1
+15081001-01,"Flathead Lake, Midlake Deep",2015-08-11,4.24,1.80,1
+15081701-05,Roys Creek @ Springhead,2015-08-17,16.06,8.90,1
+15082802-01,"Flathead Lake, Midlake Deep",2015-08-31,4.32,2.20,1
+15091801-04,Roys Creek @ Springhead,2015-09-18,15.86,9.20,1
+15091803-01,"Flathead Lake, Midlake Deep",2015-09-25,4.48,2.70,1
+15101201-01,"Flathead Lake, Midlake Deep",2015-10-13,4.53,2.10,1
+15101202-04,Roys Creek @ Springhead,2015-10-14,15.97,9.40,1
+15110401-04,Roys Creek @ Springhead,2015-11-04,17.23,10.70,1
+15111901-01,"Flathead Lake, Midlake Deep",2015-11-19,5.45,4.10,1
+15111901-02,"Flathead Lake, Midlake Deep",2015-11-19,4.95,3.70,1
+15120801-04,Roys Creek @ Springhead,2015-12-09,15.71,9.20,1
+15121401-01,"Flathead Lake, Midlake Deep",2015-12-14,5.21,4.30,1
+16011502-04,Roys Creek @ Springhead,2016-01-15,16.00,8.90,1
+16012001-01,"Flathead Lake, Midlake Deep",2016-01-21,5.00,3.70,1
+16021601-04,Roys Creek @ Springhead,2016-02-16,16.24,9.20,1
+16021902-01,"Flathead Lake, Midlake Deep",2016-02-23,4.99,< 1.5,1
+16032801-04,Roys Creek @ Springhead,2016-03-28,15.81,8.30,1
+16032901-01,"Flathead Lake, Midlake Deep",2016-03-30,5.07,3.00,1
+16040601-04,Roys Creek @ Springhead,2016-04-06,15.71,9.10,1
+16041101-04,Roys Creek @ Springhead,2016-04-11,15.36,8.80,1
+16041801-01,"Flathead Lake, Midlake Deep",2016-04-19,4.87,2.40,1
+16042501-04,Roys Creek @ Springhead,2016-04-25,15.46,9.00,1
+16051001-05,Roys Creek @ Springhead,2016-05-10,14.97,9.10,1
+16051003-01,"Flathead Lake, Midlake Deep",2016-05-11,4.58,2.40,1
+16052401-01,"Flathead Lake, Midlake Deep",2016-05-24,4.47,2.00,1
+16052501-05,Roys Creek @ Springhead,2016-05-25,15.36,11.70,1
+16060804-04,Roys Creek @ Springhead,2016-06-08,14.75,10.70,1
+16060804-05,Roys Creek @ Springhead,2016-06-08,14.83,8.60,1
+16061502-01,"Flathead Lake, Midlake Deep",2016-06-16,4.23,2.30,1
+16062401-04,Roys Creek @ Springhead,2016-06-24,14.56,12.90,1
+16070701-01,"Flathead Lake, Midlake Deep",2016-07-07,4.12,2.20,1
+16072201-05,Roys Creek @ Springhead,2016-07-22,15.47,9.50,1
+16072701-01,"Flathead Lake, Midlake Deep",2016-07-27,3.92,2.20,1
+16081601-01,"Flathead Lake, Midlake Deep",2016-08-23,4.00,1.50,1
+16083002-04,Roys Creek @ Springhead,2016-08-30,15.38,8.70,1
+16090602-01,"Flathead Lake, Midlake Deep",2016-09-09,4.10,1.90,1
+16090602-02,"Flathead Lake, Midlake Deep",2016-09-09,4.09,1.90,1
+16092601-01,"Flathead Lake, Midlake Deep",2016-09-27,4.32,2.00,1
+16100702-04,Roys Creek @ Springhead,2016-10-07,15.97,8.70,1
+16102502-01,"Flathead Lake, Midlake Deep",2016-10-26,4.45,1.80,1
+16111701-04,Roys Creek @ Springhead,2016-11-17,16.48,9.60,1
+16111703-01,"Flathead Lake, Midlake Deep",2016-11-18,4.78,1.80,1
+16122101-04,Roys Creek @ Springhead,2016-12-21,16.66,8.90,1
+16122103-01,"Flathead Lake, Midlake Deep",2016-12-22,5.17,2.80,1
+17011301-01,"Flathead Lake, Midlake Deep",2017-01-20,5.64,2.50,1
+17012301-04,Roys Creek @ Springhead,2017-01-23,17.82,9.40,1
+17021302-04,Roys Creek @ Springhead,2017-02-14,15.90,9.10,1
+17021303-01,"Flathead Lake, Midlake Deep",2017-02-21,5.14,3.00,1
+17031401-04,Roys Creek @ Springhead,2017-03-15,16.59,8.50,1
+17031001-01,"Flathead Lake, Midlake Deep",2017-03-22,6.36,2.30,1
+17040701-01,"Flathead Lake, Midlake Deep",2017-04-11,5.34,2.00,1
+17042001-04,Roys Creek @ Springhead,2017-04-21,16.89,11.80,1
+17042001-05,Roys Creek @ Springhead,2017-04-21,16.55,10.00,1
+17042003-01,"Flathead Lake, Midlake Deep",2017-04-24,5.31,2.10,1
+17051101-01,"Flathead Lake, Midlake Deep",2017-05-15,5.02,8.40,1
+17060102-05,Roys Creek @ Springhead,2017-06-01,16.11,10.50,1
+17060601-01,"Flathead Lake, Midlake Deep",2017-06-07,4.79,3.10,1
+17061504-04,Roys Creek @ Springhead,2017-06-15,16.01,9.20,1
+17062803-01,"Flathead Lake, Midlake Deep",2017-06-30,4.73,2.30,1
+17070502-04,Roys Creek @ Springhead,2017-07-06,16.41,9.30,1
+17071303-01,"Flathead Lake, Midlake Deep",2017-07-18,4.40,< 1.5,1
+17072502-04,Roys Creek @ Springhead,2017-07-26,16.85,11.90,1
+17080501-01,"Flathead Lake, Midlake Deep",2017-08-07,4.38,1.50,1
+17082202-04,Roys Creek @ Springhead,2017-08-22,17.73,9.00,1
+17082401-01,"Flathead Lake, Midlake Deep",2017-08-28,4.45,< 1.5,1
+17092101-04,Roys Creek @ Springhead,2017-09-21,16.55,9.60,1
+17091502-01,"Flathead Lake, Midlake Deep",2017-09-25,4.58,8.90,1
+17100901-04,Roys Creek @ Springhead,2017-10-09,16.66,9.90,1
+17101302-01,"Flathead Lake, Midlake Deep",2017-10-16,4.63,< 1.5,1
+17101302-02,"Flathead Lake, Midlake Deep",2017-10-16,4.48,1.80,1
+17102701-04,Roys Creek @ Springhead,2017-10-30,16.46,8.20,1
+17110302-01,"Flathead Lake, Midlake Deep",2017-11-07,5.03,3.50,1
+17112002-04,Roys Creek @ Springhead,2017-11-21,17.51,9.10,1
+17120402-01,"Flathead Lake, Midlake Deep",2017-12-05,5.12,2.10,1
+17121401-04,Roys Creek @ Springhead,2017-12-14,16.77,10.30,1
+18010501-01,"Flathead Lake, Midlake Deep",2018-01-08,4.94,2.60,1
+18011002-04,Roys Creek @ Springhead,2018-01-10,15.62,9.70,1
+18022102-04,Roys Creek @ Springhead,2018-02-22,16.70,7.50,1
+18020901-01,"Flathead Lake, Midlake Deep",2018-03-06,5.15,1.80,1
+18032101-04,Roys Creek @ Springhead,2018-03-21,17.05,8.90,1
+18032301-01,"Flathead Lake, Midlake Deep",2018-03-26,5.31,1.80,1
+18032301-02,"Flathead Lake, Midlake Deep",2018-03-26,5.01,2.60,1
+18040602-01,"Flathead Lake, Midlake Deep",2018-04-09,4.94,11.20,1
+18041802-04,Roys Creek @ Springhead,2018-04-19,16.99,8.50,1
+18043001-05,Roys Creek @ Springhead,2018-04-30,16.89,8.60,1
+18042601-01,"Flathead Lake, Midlake Deep",2018-05-02,4.92,2.50,1
+18050901-05,Roys Creek @ Springhead,2018-05-09,17.19,9.90,1
+18051701-01,"Flathead Lake, Midlake Deep",2018-05-21,4.91,3.80,1
+18051602-04,Roys Creek @ Springhead,2018-05-22,16.72,8.90,1
+18051602-05,Roys Creek @ Springhead,2018-05-22,16.90,8.40,1
+18060401-05,Roys Creek @ Springhead,2018-06-04,16.51,9.10,1
+18060801-01,"Flathead Lake, Midlake Deep",2018-06-15,4.95,2.80,1
+18062801-04,Roys Creek @ Springhead,2018-06-29,16.26,11.40,1
+18062803-01,"Flathead Lake, Midlake Deep",2018-07-05,4.56,< 1.5,1
+18062803-02,"Flathead Lake, Midlake Deep",2018-07-05,4.55,2.70,1
+18071701-04,Roys Creek @ Springhead,2018-07-17,16.15,44.80,1
+18072301-01,"Flathead Lake, Midlake Deep",2018-07-25,4.38,< 1.5,1
+18081002-01,"Flathead Lake, Midlake Deep",2018-08-13,4.33,< 1.5,1
+18082702-04,Roys Creek @ Springhead,2018-08-28,16.41,11.40,1
+18083102-01,"Flathead Lake, Midlake Deep",2018-09-06,4.28,< 1.5,1
+18092102-01,"Flathead Lake, Midlake Deep",2018-09-24,4.18,< 1.5,1
+18092601-04,Roys Creek @ Springhead,2018-09-27,17.15,7.80,1
+18101202-01,"Flathead Lake, Midlake Deep",2018-10-15,4.49,< 1.5,1
+18102201-04,Roys Creek @ Springhead,2018-10-22,20.75,10.60,1
+18110901-01,"Flathead Lake, Midlake Deep",2018-11-13,4.57,4.40,1
+18112001-04,Roys Creek @ Springhead,2018-11-21,21.35,9.70,1
+18120701-01,"Flathead Lake, Midlake Deep",2018-12-10,4.75,2.10,1
+18121801-04,Roys Creek @ Springhead,2018-12-19,17.10,8.90,1
+19010701-01,"Flathead Lake, Midlake Deep",2019-01-09,5.01,1.80,1
+19012401-04,Roys Creek @ Springhead,2019-01-24,16.25,9.50,1
+19022802-04,Roys Creek @ Springhead,2019-02-28,15.90,9.00,1
+19021301-01,"Flathead Lake, Midlake Deep",2019-03-25,5.27,5.00,1
+19032701-04,Roys Creek @ Springhead,2019-03-28,15.76,9.00,1
+19040801-01,"Flathead Lake, Midlake Deep",2019-04-15,4.98,1.90,1
+19041901-04,Roys Creek @ Springhead,2019-04-19,15.61,8.80,1
+19050302-01,"Flathead Lake, Midlake Deep",2019-05-06,5.14,2.60,1
+19051301-05,Roys Creek @ Springhead,2019-05-13,16.42,9.80,1
+19052001-01,"Flathead Lake, Midlake Deep",2019-05-29,5.36,4.70,1
+19060701-04,Roys Creek @ Springhead,2019-06-07,16.15,10.50,1
+19060701-05,Roys Creek @ Springhead,2019-06-07,15.75,8.40,1
+19061001-01,"Flathead Lake, Midlake Deep",2019-06-11,4.69,4.50,1
+19061701-05,Roys Creek @ Springhead,2019-06-17,15.73,9.20,1
+19062702-01,"Flathead Lake, Midlake Deep",2019-07-01,4.14,< 1.5,1
+19071101-04,Roys Creek @ Springhead,2019-07-11,17.07,8.60,1
+19071804-01,"Flathead Lake, Midlake Deep",2019-07-23,4.32,25.50,1
+19080601-04,Roys Creek @ Springhead,2019-08-06,15.60,8.70,1
+19080901-01,"Flathead Lake, Midlake Deep",2019-08-12,4.00,1.80,1
+19083003-01,"Flathead Lake, Midlake Deep",2019-09-03,4.18,3.60,1
+19090501-04,Roys Creek @ Springhead,2019-09-05,16.45,10.10,1
+19091702-01,"Flathead Lake, Midlake Deep",2019-09-25,4.26,3.80,1
+19100201-04,Roys Creek @ Springhead,2019-10-02,16.65,9.00,1
+19101802-01,"Flathead Lake, Midlake Deep",2019-10-24,4.67,3.00,1
+19102801-04,Roys Creek @ Springhead,2019-10-30,17.30,10.80,1
+19111201-01,"Flathead Lake, Midlake Deep",2019-11-14,4.90,2.10,1
+19112502-04,Roys Creek @ Springhead,2019-11-25,17.37,6.20,1
+19120902-01,"Flathead Lake, Midlake Deep",2019-12-17,4.72,3.10,1
+19122001-04,Roys Creek @ Springhead,2019-12-20,16.08,9.70,1
+20010702-01,"Flathead Lake, Midlake Deep",2020-01-10,4.78,2.60,1
+20012101-04,Roys Creek @ Springhead,2020-01-21,16.25,9.60,1
+20021402-01,"Flathead Lake, Midlake Deep",2020-02-18,4.79,3.30,1
+20022401-04,Roys Creek @ Springhead,2020-02-24,15.96,8.40,1
+20031901-05,Roys Creek @ Springhead,2020-03-19,16.30,8.60,1
+20031601-01,"Flathead Lake, Midlake Deep",2020-03-20,5.22,2.50,1
+20041002-01,"Flathead Lake, Midlake Deep",2020-04-13,4.93,2.80,1
+20041401-04,Roys Creek @ Springhead,2020-04-14,16.10,8.60,1
+20042401-05,Roys Creek @ Springhead,2020-04-24,16.00,8.30,1
+20050101-04,Roys Creek @ Springhead,2020-05-01,15.65,10.40,1
+20050202-01,"Flathead Lake, Midlake Deep",2020-05-14,4.48,2.20,1
+20052001-05,Roys Creek @ Springhead,2020-05-21,16.40,8.30,1
+20053101-04,Roys Creek @ Springhead,2020-05-31,16.25,9.10,1
+20053101-05,Roys Creek @ Springhead,2020-05-31,16.15,9.20,1
+20052703-01,"Flathead Lake, Midlake Deep",2020-06-01,4.90,6.90,1
+20060803-04,Roys Creek @ Springhead,2020-06-09,16.10,9.40,1
+20061702-01,"Flathead Lake, Midlake Deep",2020-06-22,4.37,8.20,1
+20062901-05,Roys Creek @ Springhead,2020-06-29,16.65,8.40,1
+20071003-01,"Flathead Lake, Midlake Deep",2020-07-13,4.41,5.00,1
+20072001-04,Roys Creek @ Springhead,2020-07-20,16.50,9.30,1
+20080202-01,"Flathead Lake, Midlake Deep",2020-08-04,4.08,1.90,1
+20081401-04,Roys Creek @ Springhead,2020-08-14,16.25,10.30,1
+20082101-01,"Flathead Lake, Midlake Deep",2020-08-24,4.12,1.70,1
+20090803-05,Roys Creek @ Springhead,2020-09-10,16.50,7.80,1
+20091101-01,"Flathead Lake, Midlake Deep",2020-09-14,4.24,< 1.5,1
+20100502-01,"Flathead Lake, Midlake Deep",2020-10-06,4.35,1.50,1
+20101302-04,Roys Creek @ Springhead,2020-10-14,17.05,8.80,1
+20101502-01,"Flathead Lake, Midlake Deep",2020-11-02,4.96,2.00,1
+FLS03844,Swan River @ Bigfork Steel Bridge (Electric Ave...,1977-11-17,5.60,NA,0
+FLS03845,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1977-11-17,4.10,NA,0
+FLS04128,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1977-12-20,NA,6.10,0
+FLS04130,Swan River @ Bigfork Steel Bridge (Electric Ave...,1977-12-20,NA,5.30,0
+FLS04290,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-01-25,NA,3.40,0
+FLS04737,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-03-01,5.60,3.00,0
+FLS04739,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-03-01,8.70,2.00,0
+FLS04742,"Flathead River, Lower, @ Polson",1978-03-01,4.10,3.00,0
+FLS04738,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-03-15,6.10,3.00,0
+FLS04740,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-03-15,8.90,5.00,0
+FLS04741,"Flathead River, Lower, @ Polson",1978-03-15,4.00,3.00,0
+FLS04971,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-04-18,5.60,15.00,0
+FLS04974,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-04-18,7.90,5.00,0
+FLS04989,"Flathead River, Lower, @ Polson",1978-04-18,4.10,7.00,0
+FLS04992,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-05-24,5.30,9.00,0
+FLS04994,"Flathead River, Lower, @ Polson",1978-05-24,4.00,12.00,0
+FLS04997,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-05-24,6.50,10.00,0
+FLS05198,"Flathead River, Lower, @ Polson",1978-06-15,5.20,11.00,0
+FLS05199,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-06-15,5.90,11.00,0
+FLS05200,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-06-15,6.80,10.00,0
+FLS05177,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-06-30,5.00,9.00,0
+FLS05178,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-06-30,5.20,15.00,0
+FLS05179,"Flathead River, Lower, @ Polson",1978-06-30,5.50,12.00,0
+FLS05282,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-07-15,5.60,14.00,0
+FLS05283,"Flathead River, Lower, @ Polson",1978-07-15,4.20,7.00,0
+FLS05284,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-07-15,7.00,15.00,0
+FLS05312,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-07-30,6.10,8.00,0
+FLS05313,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-07-30,5.70,8.00,0
+FLS05314,"Flathead River, Lower, @ Polson",1978-07-30,6.10,16.00,0
+FLS05336,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-08-15,5.50,9.00,0
+FLS05337,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-08-15,4.40,8.00,0
+FLS05338,"Flathead River, Lower, @ Polson",1978-08-15,4.00,9.00,0
+FLS05371,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-08-30,5.30,12.00,0
+FLS05372,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-08-30,7.10,8.00,0
+FLS05373,"Flathead River, Lower, @ Polson",1978-08-30,6.90,6.00,0
+FLS05387,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-09-30,3.90,8.00,0
+FLS05388,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-09-30,5.40,9.00,0
+FLS05389,"Flathead River, Lower, @ Polson",1978-09-30,3.80,8.00,0
+FLS05421,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-10-30,4.40,8.00,0
+FLS05422,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-10-30,6.00,10.00,0
+FLS05423,"Flathead River, Lower, @ Polson",1978-10-30,4.00,11.00,0
+FLS05455,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-11-30,1.90,8.00,0
+FLS05456,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-11-30,6.70,7.00,0
+FLS05457,"Flathead River, Lower, @ Polson",1978-11-30,4.80,8.00,0
+FLS05489,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1978-12-18,4.10,12.00,0
+FLS05490,Swan River @ Bigfork Steel Bridge (Electric Ave...,1978-12-18,6.40,11.00,0
+FLS05491,"Flathead River, Lower, @ Polson",1978-12-18,4.10,8.00,0
+FLS05536,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-02-28,4.80,8.00,0
+FLS05537,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-02-28,5.10,10.00,0
+FLS05538,"Flathead River, Lower, @ Polson",1979-02-28,5.70,12.00,0
+FLS05539,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-03-31,5.20,10.00,0
+FLS05540,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-03-31,6.60,10.00,0
+FLS05541,"Flathead River, Lower, @ Polson",1979-03-31,4.40,8.00,0
+FLS05573,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-05-08,NA,72.00,0
+FLS05574,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-05-08,NA,7.40,0
+FLS05575,"Flathead River, Lower, @ Polson",1979-05-09,NA,2.90,0
+FLS05607,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-06-10,NA,14.20,0
+FLS05609,"Flathead River, Lower, @ Polson",1979-06-10,NA,3.50,0
+FLS05656,"Flathead River, Lower, @ Polson",1979-06-27,NA,5.40,0
+FLS05654,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-06-28,NA,13.50,0
+FLS05655,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-06-28,NA,10.50,0
+FLS05688,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-07-12,NA,6.50,0
+FLS05689,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-07-12,NA,4.30,0
+FLS05690,"Flathead River, Lower, @ Polson",1979-07-12,NA,5.60,0
+FLS05722,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-08-30,NA,3.70,0
+FLS05723,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-08-30,NA,5.90,0
+FLS05724,"Flathead River, Lower, @ Polson",1979-08-30,NA,5.20,0
+FLS05760,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-09-28,NA,11.20,0
+FLS05761,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-09-28,NA,12.10,0
+FLS05762,"Flathead River, Lower, @ Polson",1979-09-28,NA,53.00,0
+FLS05763,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-10-29,NA,4.60,0
+FLS05764,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-10-29,NA,6.90,0
+FLS05765,"Flathead River, Lower, @ Polson",1979-10-29,NA,3.60,0
+FLS05766,Swan River @ Bigfork Steel Bridge (Electric Ave...,1979-11-29,NA,5.90,0
+FLS05767,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1979-11-29,NA,9.00,0
+FLS05768,"Flathead River, Lower, @ Polson",1979-11-29,NA,4.80,0
+FLS05769,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-01-05,NA,3.20,0
+FLS05770,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1980-01-05,NA,11.10,0
+FLS05771,"Flathead River, Lower, @ Polson",1980-01-05,NA,4.80,0
+FLS05774,"Flathead River, Lower, @ Polson",1980-01-25,NA,4.60,0
+FLS05773,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1980-01-29,NA,10.90,0
+FLS05775,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-03-07,NA,3.90,0
+FLS05776,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1980-03-07,NA,17.20,0
+FLS05777,"Flathead River, Lower, @ Polson",1980-03-07,NA,4.10,0
+FRS03056,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-04-17,NA,6.00,0
+FLS05781,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-04-29,NA,35.00,0
+FLS05782,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1980-04-29,NA,25.00,0
+FLS05783,"Flathead River, Lower, @ Polson",1980-04-29,NA,3.40,0
+FLS05793,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1980-05-05,NA,36.50,0
+FLS05799,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1980-05-12,NA,14.30,0
+FLS05800,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-05-12,NA,4.90,0
+FRS03071,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-05-15,NA,9.20,0
+FLS05827,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1980-05-27,NA,276.00,0
+FLS05828,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-05-27,NA,22.00,0
+FLS05829,"Flathead River, Lower, @ Polson",1980-05-27,NA,14.00,0
+FRS03077,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-06-05,NA,8.20,0
+FLS05841,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-06-25,NA,5.00,0
+FLS05842,"Flathead River, Lower, @ Polson",1980-06-25,NA,6.00,0
+FRS03086,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-06-25,NA,5.80,0
+FLS05840,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1980-06-26,NA,7.00,0
+FRS03092,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-07-30,NA,4.40,0
+FRS03104,Swan River @ Bigfork Steel Bridge (Electric Ave...,1980-10-15,NA,4.70,0
+FRS03133,"Flathead River, Lower, @ Polson",1981-04-09,NA,7.70,0
+FRS03134,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1981-04-09,NA,19.50,0
+FRS03135,Swan River @ Bigfork Steel Bridge (Electric Ave...,1981-04-09,NA,7.30,0
+FLS05972,Swan River @ Bigfork Steel Bridge (Electric Ave...,1981-05-08,NA,7.90,0
+FLS05973,"Flathead River, Lower, @ Polson",1981-05-08,NA,5.30,0
+FLS05974,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1981-05-08,NA,16.90,0
+FLS05981,Swan River @ Bigfork Steel Bridge (Electric Ave...,1981-05-25,NA,9.10,0
+FLS05996,"Flathead River, Lower, @ Polson",1981-05-29,NA,7.00,0
+FLS06002,"Flathead River, Lower, @ Polson",1981-06-16,NA,6.40,0
+FLS06003,Swan River @ Bigfork Steel Bridge (Electric Ave...,1981-06-16,NA,6.60,0
+FLS06005,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1981-06-16,NA,22.90,0
+FLS06006,Swan River @ Bigfork Steel Bridge (Electric Ave...,1981-07-28,NA,7.00,0
+FLS06007,"Flathead River, Lower, @ Polson",1981-07-28,NA,3.70,0
+FLS06011,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1981-07-28,NA,6.35,0
+FLS06014,"Flathead River, Lower, @ Polson",1981-10-06,NA,4.90,0
+FLS06016,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1981-10-06,NA,5.20,0
+FLS06017,Swan River @ Bigfork Steel Bridge (Electric Ave...,1981-10-06,NA,4.20,0
+FLS06018,Swan River @ Bigfork Steel Bridge (Electric Ave...,1981-11-11,NA,4.30,0
+FLS06021,"Flathead River, Lower, @ Polson",1981-11-11,NA,4.10,0
+FLS06024,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1981-11-11,NA,7.55,0
+FLS06025,"Flathead River, Lower, @ Polson",1981-12-09,NA,4.10,0
+FLS06026,Swan River @ Bigfork Steel Bridge (Electric Ave...,1981-12-09,NA,4.30,0
+FLS06027,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1981-12-09,NA,7.85,0
+FLS06028,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-01-26,NA,4.20,0
+FLS06029,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-01-26,NA,9.30,0
+FLS06034,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-02-08,NA,5.00,0
+FLS06035,"Flathead River, Lower, @ Polson",1982-02-08,NA,3.80,0
+FLS06036,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-02-08,NA,3.45,0
+FLS06037,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-03-18,NA,6.40,0
+FLS06038,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-03-18,NA,9.10,0
+FLS06039,"Flathead River, Lower, @ Polson",1982-03-18,NA,23.60,0
+FLS06042,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-04-20,NA,14.70,0
+FLS06045,"Flathead River, Lower, @ Polson",1982-04-20,NA,5.00,0
+FLS06046,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-04-20,NA,6.20,0
+FLS06047,"Flathead River, Lower, @ Polson",1982-05-04,NA,3.50,0
+FLS06048,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-05-04,NA,48.20,0
+FLS06050,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-05-04,NA,5.50,0
+FLS06052,"Flathead River, Lower, @ Polson",1982-05-25,NA,7.90,0
+FLS06056,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-05-25,NA,121.00,0
+FLS06057,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-05-25,NA,7.70,0
+FLS06058,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-06-10,NA,18.20,0
+FLS06062,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-06-10,NA,6.45,0
+FLS06064,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-07-13,NA,7.40,0
+FLS06065,"Flathead River, Lower, @ Polson",1982-07-13,NA,5.00,0
+FLS06066,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-07-13,NA,6.70,0
+FLS06070,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-08-09,NA,8.00,0
+FLS06071,"Flathead River, Lower, @ Polson",1982-08-09,NA,9.00,0
+FLS06072,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-08-09,NA,5.80,0
+FLS06075,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-09-07,NA,7.65,0
+FLS06076,"Flathead River, Lower, @ Polson",1982-09-07,NA,3.70,0
+FLS06077,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-09-07,NA,8.70,0
+FLS06080,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-11-01,4.70,7.30,0
+FLS06081,"Flathead River, Lower, @ Polson",1982-11-01,4.72,5.45,0
+FLS06082,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-11-01,6.30,4.30,0
+FLS06086,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1982-12-06,4.50,6.66,0
+FLS06087,"Flathead River, Lower, @ Polson",1982-12-06,4.20,4.16,0
+FLS06088,Swan River @ Bigfork Steel Bridge (Electric Ave...,1982-12-06,6.50,7.63,0
+FLS06094A,"Flathead River, Lower, @ Polson",1983-01-26,5.79,6.01,0
+FLS06094B,"Flathead River, Lower, @ Polson",1983-01-26,5.91,5.56,0
+FLS06095,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1983-01-27,5.91,7.12,0
+FLS06096,Swan River @ Bigfork Steel Bridge (Electric Ave...,1983-01-27,7.80,9.41,0
+FLS06101,Swan River @ Bigfork Steel Bridge (Electric Ave...,1983-03-02,6.98,10.60,0
+FLS06102,"Flathead River, Lower, @ Polson",1983-03-02,4.58,12.75,0
+FLS06103,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1983-03-02,4.77,17.48,0
+FLS06107,Swan River @ Bigfork Steel Bridge (Electric Ave...,1983-04-13,6.46,8.32,0
+FLS06108,"Flathead River, Lower, @ Polson",1983-04-13,4.05,6.50,0
+FLS06109,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1983-04-13,4.33,15.97,0
+FLS06113,Swan River @ Bigfork Steel Bridge (Electric Ave...,1983-05-04,6.78,9.56,0
+FLS06114,"Flathead River, Lower, @ Polson",1983-05-04,4.30,7.17,0
+FLS06115A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1983-05-04,4.97,12.17,0
+FLS06115B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1983-05-04,5.05,11.30,0
+FLS06118,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1983-05-31,4.21,102.18,0
+FLS06119,Swan River @ Bigfork Steel Bridge (Electric Ave...,1983-05-31,5.98,11.63,0
+FLS06138,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1983-05-31,NA,72.92,0
+FLS06130,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1983-06-06,NA,16.49,0
+FMP00004,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-01-31,5.46,15.71,0
+FMP00005,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-01-31,7.58,4.90,0
+FMP00006,"Flathead River, Lower, @ Polson",1984-01-31,5.31,4.07,0
+FMP00014,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-03-05,4.18,6.85,0
+FMP00015,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-03-05,7.02,4.82,0
+FMP00016,"Flathead River, Lower, @ Polson",1984-03-06,4.74,3.37,0
+FMP00024,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-04-02,5.09,7.21,0
+FMP00025,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-04-02,6.88,2.80,0
+FMP00026,"Flathead River, Lower, @ Polson",1984-04-02,4.77,3.03,0
+FMP00042,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-04-29,5.67,9.82,0
+FMP00043,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-04-29,5.55,6.23,0
+FMP00044,"Flathead River, Lower, @ Polson",1984-04-29,4.41,5.53,0
+FMP00052,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-05-14,4.83,8.20,0
+FMP00053,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-05-14,6.48,4.82,0
+FMP00054,"Flathead River, Lower, @ Polson",1984-05-14,4.67,3.22,0
+FMP00062,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-05-20,5.18,16.69,0
+FMP00063,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-05-20,6.79,5.55,0
+FMP00064,"Flathead River, Lower, @ Polson",1984-05-20,4.87,7.11,0
+FMP00072,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-06-25,4.34,13.06,0
+FMP00073,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-06-25,5.71,5.35,0
+FMP00074,"Flathead River, Lower, @ Polson",1984-06-25,4.50,6.01,0
+FMP00079,"Flathead River, Lower, @ Polson",1984-07-25,5.16,5.32,0
+FMP00080,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-07-25,5.86,5.92,0
+FMP00081,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-07-25,4.77,7.32,0
+FMP00089,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-08-06,5.00,7.13,0
+FMP00090,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-08-06,6.34,3.91,0
+FMP00095,"Flathead River, Lower, @ Polson",1984-08-06,5.36,4.10,0
+FMP00099,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-09-04,4.28,4.42,0
+FMP00100,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-09-04,6.07,5.69,0
+FMP00101,"Flathead River, Lower, @ Polson",1984-09-05,4.87,4.63,0
+FMP00110,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-10-03,4.51,3.99,0
+FMP00111,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-10-03,6.37,4.53,0
+FMP00112,"Flathead River, Lower, @ Polson",1984-10-04,4.91,4.35,0
+FMP00120,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-11-12,5.27,8.94,0
+FMP00121,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-11-12,6.95,5.82,0
+FMP00122,"Flathead River, Lower, @ Polson",1984-11-12,5.05,4.84,0
+FMP00131,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1984-12-09,5.08,7.32,0
+FMP00132,Swan River @ Bigfork Steel Bridge (Electric Ave...,1984-12-09,6.88,5.04,0
+FMP00133,"Flathead River, Lower, @ Polson",1984-12-09,5.24,4.50,0
+FMP00142,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-01-06,4.62,5.50,0
+FMP00143,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-01-06,7.30,3.01,0
+FMP00144,"Flathead River, Lower, @ Polson",1985-01-06,5.56,2.60,0
+FMP00154,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-02-10,3.33,7.63,0
+FMP00155,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-02-10,5.94,5.33,0
+FMP00156,"Flathead River, Lower, @ Polson",1985-02-10,4.39,5.54,0
+FMP00165,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-03-04,4.45,8.77,0
+FMP00166,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-03-04,7.26,4.07,0
+FMP00167,"Flathead River, Lower, @ Polson",1985-03-04,5.01,5.55,0
+BIO00204,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-04-01,NA,42.30,0
+BIO00205,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-04-01,NA,22.08,0
+BIO00215,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-04-01,NA,47.54,0
+BIO00216,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-04-01,NA,26.21,0
+FMP00185,"Flathead River, Lower, @ Polson",1985-04-01,4.91,6.83,0
+FMP00192,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-04-01,4.80,13.16,0
+FMP00193,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-04-01,7.29,5.71,0
+FMP00196,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-04-24,6.25,20.83,0
+FMP00197,"Flathead River, Lower, @ Polson",1985-04-24,4.84,7.83,0
+FMP00198,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-04-24,7.24,9.67,0
+FMP00207,"Flathead River, Lower, @ Polson",1985-05-12,5.32,6.89,0
+FMP00208,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-05-12,7.50,7.31,0
+FMP00209,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-05-12,6.01,19.56,0
+BIO00225,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-05-27,NA,32.23,0
+BIO00236,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-05-27,NA,31.03,0
+FMP00225,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-05-27,6.22,10.36,0
+BIO00227,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-05-28,NA,147.50,0
+BIO00238,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-05-28,NA,122.63,0
+FMP00229,"Flathead River, Lower, @ Polson",1985-05-28,4.46,6.35,0
+FMP00231,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-05-28,4.29,52.80,0
+FMP00235,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-06-11,5.73,33.62,0
+FMP00236,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-06-11,5.78,11.59,0
+FMP00237,"Flathead River, Lower, @ Polson",1985-06-11,5.69,10.32,0
+FMP00252,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-06-30,4.52,7.41,0
+FMP00253,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-06-30,5.44,6.38,0
+FMP00254,"Flathead River, Lower, @ Polson",1985-06-30,4.14,5.56,0
+FMP00263,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-07-29,4.81,6.42,0
+FMP00264,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-07-29,7.23,9.97,0
+FMP00265,"Flathead River, Lower, @ Polson",1985-07-29,4.21,7.18,0
+FMP00274,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-08-26,4.37,6.05,0
+FMP00275,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-08-26,6.56,17.90,0
+FMP00276,"Flathead River, Lower, @ Polson",1985-08-26,4.41,4.08,0
+BIO00239,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-09-09,NA,21.60,0
+BIO00250,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-09-09,NA,18.92,0
+BIO00259,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-09-09,NA,16.99,0
+BIO00262,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-09-09,NA,16.32,0
+FMP00285,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-09-09,3.65,5.35,0
+FMP00286,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-09-09,5.44,4.83,0
+FMP00287,"Flathead River, Lower, @ Polson",1985-09-09,4.37,4.52,0
+FMP00301,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-10-06,2.83,4.89,0
+FMP00302,"Flathead River, Lower, @ Polson",1985-10-06,3.75,4.23,0
+FMP00303,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-10-06,2.46,8.81,0
+FMP00315,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-11-11,5.05,5.76,0
+FMP00316,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-11-11,6.39,4.64,0
+FMP00322,"Flathead River, Lower, @ Polson",1985-11-11,4.07,3.73,0
+FMP00327,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1985-12-09,5.18,12.05,0
+FMP00328,Swan River @ Bigfork Steel Bridge (Electric Ave...,1985-12-09,6.72,4.89,0
+FMP00329,"Flathead River, Lower, @ Polson",1985-12-09,4.89,4.68,0
+FMP00338,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-01-06,4.37,5.71,0
+FMP00339,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-01-06,6.91,4.46,0
+FMP00340,"Flathead River, Lower, @ Polson",1986-01-06,4.92,3.62,0
+FMP00351,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-02-03,5.34,13.77,0
+FMP00352,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-02-03,7.44,4.34,0
+FMP00353,"Flathead River, Lower, @ Polson",1986-02-04,5.13,5.85,0
+FMP00367,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-03-03,6.32,21.70,0
+FMP00368,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-03-03,8.70,7.67,0
+FMP00369,"Flathead River, Lower, @ Polson",1986-03-03,5.37,5.76,0
+FMP00380,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-03-31,6.52,16.80,0
+FMP00381,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-04-01,7.59,6.41,0
+FMP00382,"Flathead River, Lower, @ Polson",1986-04-01,5.09,4.95,0
+FMP00392,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-04-14,5.27,11.32,0
+FMP00393,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-04-14,7.02,6.70,0
+FMP00394,"Flathead River, Lower, @ Polson",1986-04-14,4.86,6.47,0
+FMP00404,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-04-28,5.98,11.13,0
+FMP00405,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-04-28,7.28,5.34,0
+FMP00406,"Flathead River, Lower, @ Polson",1986-04-29,5.29,4.10,0
+FMP00418,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-05-12,5.97,11.05,0
+FMP00419,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-05-12,7.63,5.92,0
+FMP00420,"Flathead River, Lower, @ Polson",1986-05-13,5.34,6.23,0
+FMP00430,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-06-03,5.03,76.24,0
+FMP00431,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-06-03,6.69,12.29,0
+FMP00432,"Flathead River, Lower, @ Polson",1986-06-03,5.74,3.24,0
+FMP00448,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-06-16,4.80,11.51,0
+FMP00449,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-06-16,5.54,7.30,0
+FMP00450,"Flathead River, Lower, @ Polson",1986-06-17,4.63,6.01,0
+FMP00459,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-06-30,4.54,7.71,0
+FMP00460,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-06-30,6.01,5.33,0
+FMP00461,"Flathead River, Lower, @ Polson",1986-07-01,5.05,5.92,0
+FMP00470,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-07-28,6.41,7.60,0
+FMP00471,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-07-28,8.38,5.92,0
+FMP00472,"Flathead River, Lower, @ Polson",1986-07-29,6.09,5.72,0
+FMP00487,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-09-02,5.60,7.12,0
+FMP00488,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-09-02,7.06,5.08,0
+FMP00489,"Flathead River, Lower, @ Polson",1986-09-02,5.21,3.86,0
+FMP00505,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-10-06,4.71,5.93,0
+FMP00506,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-10-06,6.90,5.10,0
+FMP00507,"Flathead River, Lower, @ Polson",1986-10-06,4.83,5.52,0
+FMP00525,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-11-04,4.44,8.12,0
+FMP00526,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-11-04,7.21,4.36,0
+FMP00527,"Flathead River, Lower, @ Polson",1986-11-05,4.55,4.36,0
+FMP00540,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1986-12-09,5.31,7.09,0
+FMP00541,Swan River @ Bigfork Steel Bridge (Electric Ave...,1986-12-09,7.34,6.28,0
+FMP00547,"Flathead River, Lower, @ Polson",1986-12-10,5.38,3.84,0
+FMP00551,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-01-19,4.33,6.68,0
+FMP00552,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-01-19,7.66,4.90,0
+FMP00553,"Flathead River, Lower, @ Polson",1987-01-20,5.16,4.27,0
+FMP00565,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-03-02,5.24,9.88,0
+FMP00566,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-03-02,7.28,3.90,0
+FMP00567,"Flathead River, Lower, @ Polson",1987-03-02,5.17,4.30,0
+FMP00578,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-03-23,6.28,13.88,0
+FMP00579,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-03-23,7.01,4.47,0
+FMP00580,"Flathead River, Lower, @ Polson",1987-03-24,4.88,4.47,0
+FMP00589,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-04-13,6.41,14.62,0
+FMP00590,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-04-13,7.61,5.89,0
+FMP00591,"Flathead River, Lower, @ Polson",1987-04-14,5.41,5.03,0
+FMP00608,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-05-04,5.15,22.16,0
+FMP00609,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-05-04,6.66,7.25,0
+FMP00610,"Flathead River, Lower, @ Polson",1987-05-05,5.42,5.23,0
+FMP00620,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-05-18,4.82,17.45,0
+FMP00621A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-05-18,6.22,8.47,0
+FMP00621B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-05-18,5.95,7.66,0
+FMP00622,"Flathead River, Lower, @ Polson",1987-05-19,5.52,6.44,0
+FMP00632A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-06-03,5.57,10.75,0
+FMP00632B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-06-03,4.83,10.21,0
+FMP00633,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-06-03,6.36,8.80,0
+FMP00634,"Flathead River, Lower, @ Polson",1987-06-04,5.10,7.72,0
+FMP00644A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-06-16,4.42,8.30,0
+FMP00644B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-06-16,4.24,6.56,0
+FMP00645,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-06-16,5.75,5.90,0
+FMP00646,"Flathead River, Lower, @ Polson",1987-06-17,4.67,7.21,0
+FMP00663,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-06-28,4.74,6.26,0
+FMP00664,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-06-28,6.19,5.66,0
+FMP00665,"Flathead River, Lower, @ Polson",1987-06-28,5.57,5.45,0
+FMP00683,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-08-12,4.68,8.26,0
+FMP00684,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-08-12,7.08,5.06,0
+FMP00685,"Flathead River, Lower, @ Polson",1987-08-12,5.09,5.92,0
+FMP00697,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-08-31,4.34,4.32,0
+FMP00698,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-08-31,6.79,5.55,0
+FMP00699,"Flathead River, Lower, @ Polson",1987-08-31,4.96,5.55,0
+FMP00708,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-09-21,4.10,5.96,0
+FMP00709,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-09-21,6.59,6.17,0
+FMP00714,"Flathead River, Lower, @ Polson",1987-09-22,5.07,6.17,0
+FMP00731,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-10-29,4.11,3.22,0
+FMP00732,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-10-29,6.38,4.72,0
+FMP00735,"Flathead River, Lower, @ Polson",1987-10-30,4.47,2.74,0
+FMP00747,"Flathead River, Lower, @ Polson",1987-11-24,4.48,3.84,0
+FMP00753,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-11-25,4.44,4.87,0
+FMP00754,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-11-25,6.61,2.59,0
+FMP00764,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1987-12-21,4.39,5.37,0
+FMP00765,Swan River @ Bigfork Steel Bridge (Electric Ave...,1987-12-21,6.66,0.00,0
+FMP00777,"Flathead River, Lower, @ Polson",1987-12-23,5.26,12.17,0
+FMP00790,"Flathead River, Lower, @ Polson",1988-01-19,4.76,5.77,0
+FMP00801,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-01-21,6.71,4.89,0
+FMP00802,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-01-21,4.34,8.29,0
+FMP00835,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-02-22,4.06,9.07,0
+FMP00840,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-02-22,6.82,6.16,0
+FMP00841,"Flathead River, Lower, @ Polson",1988-02-22,4.90,7.73,0
+FMP00870,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-03-22,3.98,28.16,0
+FMP00874,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-03-22,6.61,20.54,0
+FMP00875,"Flathead River, Lower, @ Polson",1988-03-22,4.72,18.25,0
+FMP00914,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-04-12,5.22,10.02,0
+FMP00918,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-04-12,6.60,4.49,0
+FMP00919,"Flathead River, Lower, @ Polson",1988-04-12,4.57,5.18,0
+FMP00925,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-04-18,4.97,19.82,0
+FMP00928,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-04-18,6.56,5.00,0
+FMP00931,"Flathead River, Lower, @ Polson",1988-04-19,4.31,4.34,0
+FMP00950,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-05-09,5.18,6.14,0
+FMP00954,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-05-09,6.69,3.93,0
+FMP00955,"Flathead River, Lower, @ Polson",1988-05-09,4.41,3.71,0
+FMP00981,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-05-15,4.59,30.22,0
+FMP00990,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-05-19,6.33,5.39,0
+FMP00991,"Flathead River, Lower, @ Polson",1988-05-19,4.44,4.67,0
+FMP01005,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-05-31,4.06,9.01,0
+FMP01009,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-05-31,5.85,3.57,0
+FMP01012,"Flathead River, Lower, @ Polson",1988-05-31,4.41,4.12,0
+FMP01044,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-06-15,4.19,3.46,0
+FMP01048,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-06-15,5.39,3.27,0
+FMP01049,"Flathead River, Lower, @ Polson",1988-06-15,4.41,2.83,0
+FMP01066,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-07-06,4.21,7.08,0
+FMP01070,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-07-06,5.28,5.05,0
+FMP01071,"Flathead River, Lower, @ Polson",1988-07-07,4.51,4.29,0
+FMP01088,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-07-27,6.13,5.41,0
+FMP01093,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-07-27,4.42,5.02,0
+FMP01096,"Flathead River, Lower, @ Polson",1988-07-29,4.57,12.57,0
+FMP01107,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-08-18,6.58,5.86,0
+FMP01108,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-08-18,4.13,3.70,0
+FMP01113,"Flathead River, Lower, @ Polson",1988-08-18,4.73,5.70,0
+FMP01122,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-09-12,6.37,7.39,0
+FMP01125,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-09-13,4.33,10.34,0
+FMP01128,"Flathead River, Lower, @ Polson",1988-09-13,5.19,9.07,0
+FMP01156,Swan River @ Bigfork Steel Bridge (Electric Ave...,1988-11-17,6.19,8.36,0
+FMP01161,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1988-11-17,4.51,14.69,0
+FMP01166,"Flathead River, Lower, @ Polson",1988-11-18,4.78,5.06,0
+FMP01183,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-02-22,6.61,16.26,0
+FMP01184,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-02-22,4.33,8.92,0
+FMP01188,"Flathead River, Lower, @ Polson",1989-02-22,5.06,9.59,0
+FMP01197,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-03-14,6.55,12.84,0
+FMP01198,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-03-14,4.58,26.65,0
+FMP01203,"Flathead River, Lower, @ Polson",1989-03-14,4.90,7.92,0
+FMP01207,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-04-17,6.72,5.39,0
+FMP01208,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-04-17,6.04,23.34,0
+FMP01213,"Flathead River, Lower, @ Polson",1989-04-17,4.62,6.62,0
+FMP01225,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-04-30,6.97,5.30,0
+FMP01226,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-04-30,6.07,14.14,0
+FMP01231,"Flathead River, Lower, @ Polson",1989-04-30,4.62,6.29,0
+FMP01240,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-05-17,6.94,17.00,0
+FMP01241,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-05-17,5.36,10.81,0
+FMP01246,"Flathead River, Lower, @ Polson",1989-05-17,4.65,7.64,0
+FMP01262,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-06-07,6.33,9.44,0
+FMP01263,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-06-07,4.49,20.28,0
+FMP01268,"Flathead River, Lower, @ Polson",1989-06-07,4.65,3.38,0
+FMP01279,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-07-10,5.44,4.70,0
+FMP01280,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-07-10,4.24,7.11,0
+FMP01285,"Flathead River, Lower, @ Polson",1989-07-10,4.44,4.98,0
+FMP01298,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-08-15,6.22,8.33,0
+FMP01299,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-08-15,4.26,6.52,0
+FMP01304,"Flathead River, Lower, @ Polson",1989-08-15,4.44,4.17,0
+FMP01310,"Flathead River, Lower, @ Polson",1989-09-18,4.94,10.86,0
+FMP01311,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-09-18,6.16,8.32,0
+FMP01312,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-09-18,4.69,5.40,0
+FMP01324,"Flathead River, Lower, @ Polson",1989-10-30,4.85,4.51,0
+FMP01325,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-10-30,6.78,3.67,0
+FMP01326,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-10-30,4.98,6.49,0
+FMP01338,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-11-13,5.08,399.18,0
+FMP01345,"Flathead River, Lower, @ Polson",1989-12-04,5.86,7.49,0
+FMP01346,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-12-04,4.89,3.06,0
+FMP01347,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-12-04,6.47,9.06,0
+FMP01357,"Flathead River, Lower, @ Polson",1989-12-27,4.82,7.01,0
+FMP01358,Swan River @ Bigfork Steel Bridge (Electric Ave...,1989-12-27,7.04,10.05,0
+FMP01363,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1989-12-27,5.75,8.74,0
+FMP01377,"Flathead River, Lower, @ Polson",1990-02-22,4.81,8.44,0
+FMP01378,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-02-22,6.89,13.30,0
+FMP01379,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-02-22,5.56,11.89,0
+FMP01391,"Flathead River, Lower, @ Polson",1990-03-20,4.71,3.89,0
+FMP01392,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-03-20,7.22,9.22,0
+FMP01393,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-03-20,4.77,7.18,0
+FMP01400,"Flathead River, Lower, @ Polson",1990-04-04,4.74,7.56,0
+FMP01401,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-04-04,7.25,6.20,0
+FMP01402,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-04-04,5.69,17.98,0
+FMP01414,"Flathead River, Lower, @ Polson",1990-04-17,4.74,14.10,0
+FMP01415,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-04-17,7.37,2.55,0
+FMP01416,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-04-17,5.68,12.65,0
+FMP01433,"Flathead River, Lower, @ Polson",1990-05-02,4.77,5.62,0
+FMP01434,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-05-02,7.17,7.28,0
+FMP01435,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-05-02,5.69,11.16,0
+FMP01453,"Flathead River, Lower, @ Polson",1990-05-23,6.84,13.41,0
+FMP01454,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-05-23,4.66,4.10,0
+FMP01455,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-05-23,5.49,13.78,0
+FMP01469,"Flathead River, Lower, @ Polson",1990-05-31,4.79,2.58,0
+FMP01470,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-05-31,6.69,11.69,0
+FMP01471,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-05-31,4.90,177.09,0
+FMP01486,"Flathead River, Lower, @ Polson",1990-06-18,4.92,2.79,0
+FMP01487,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-06-18,6.42,5.65,0
+FMP01488A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-06-18,5.17,12.85,0
+FMP01488B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-06-18,5.17,17.53,0
+FMP01505,"Flathead River, Lower, @ Polson",1990-07-19,5.03,8.21,0
+FMP01506,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-07-19,5.66,6.26,0
+FMP01507,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-07-19,4.57,11.85,0
+FMP01516A,"Flathead River, Lower, @ Polson",1990-08-13,4.93,8.30,0
+FMP01516B,"Flathead River, Lower, @ Polson",1990-08-13,5.30,9.88,0
+FMP01518,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-08-13,6.29,8.07,0
+FMP01519,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-08-13,4.78,6.71,0
+FMP01546,"Flathead River, Lower, @ Polson",1990-09-25,5.10,6.09,0
+FMP01547,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-09-25,6.09,3.81,0
+FMP01548,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-09-25,4.63,11.36,0
+FMP01564,"Flathead River, Lower, @ Polson",1990-10-24,4.90,9.82,0
+FMP01565,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-10-24,6.46,6.95,0
+FMP01566,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-10-24,4.79,6.22,0
+FMP01581,Swan River @ Bigfork Steel Bridge (Electric Ave...,1990-11-29,6.82,7.40,0
+FMP01582,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1990-11-29,6.55,10.14,0
+FMP01583,"Flathead River, Lower, @ Polson",1990-11-29,5.44,3.98,0
+FMP01594,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-01-14,7.37,6.71,0
+FMP01595,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-01-14,4.95,8.47,0
+FMP01599,"Flathead River, Lower, @ Polson",1991-01-14,5.34,4.77,0
+FMP01623,"Flathead River, Lower, @ Polson",1991-03-18,4.98,11.55,0
+FMP01624A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-03-19,7.28,3.40,0
+FMP01624B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-03-19,7.58,3.44,0
+FMP01626,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-03-19,4.71,8.60,0
+FMP01642,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-04-30,7.73,2.57,0
+FMP01643,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-04-30,5.98,13.93,0
+FMP01649,"Flathead River, Lower, @ Polson",1991-04-30,4.88,10.82,0
+FMP01661,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-05-20,7.55,8.77,0
+FMP01662,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-05-20,5.34,649.86,0
+FMP01667,"Flathead River, Lower, @ Polson",1991-05-20,4.69,8.54,0
+FMP01683,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-06-13,6.26,7.09,0
+FMP01684,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-06-13,4.70,128.67,0
+FMP01687,"Flathead River, Lower, @ Polson",1991-06-13,4.87,8.76,0
+FMP01704,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-07-03,5.49,5.91,0
+FMP01705A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-07-03,4.46,20.99,0
+FMP01705B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-07-03,4.54,25.10,0
+FMP01711,"Flathead River, Lower, @ Polson",1991-07-03,4.71,13.15,0
+FMP01720,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-07-31,5.76,5.77,0
+FMP01721,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-07-31,4.53,7.45,0
+FMP01726,"Flathead River, Lower, @ Polson",1991-08-01,4.73,9.97,0
+FMP01732,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-08-28,6.06,5.44,0
+FMP01733,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-08-28,4.88,6.07,0
+FMP01739,"Flathead River, Lower, @ Polson",1991-08-28,4.97,4.72,0
+FMP01759,"Flathead River, Lower, @ Polson",1991-09-26,4.85,10.31,0
+FMP01760,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-09-26,6.27,8.91,0
+FMP01761,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-09-26,4.74,6.67,0
+FMP01766,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-10-16,6.45,5.89,0
+FMP01767,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-10-16,4.69,6.85,0
+FMP01774,"Flathead River, Lower, @ Polson",1991-10-18,4.72,8.55,0
+FMP01785,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-11-24,6.70,4.67,0
+FMP01786,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-11-24,4.91,6.70,0
+FMP01791,"Flathead River, Lower, @ Polson",1991-11-24,5.03,3.78,0
+FMP01804,"Flathead River, Lower, @ Polson",1991-12-20,5.29,4.39,0
+FMP01805,Swan River @ Bigfork Steel Bridge (Electric Ave...,1991-12-20,6.85,5.35,0
+FMP01806,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1991-12-20,4.88,6.13,0
+FMP01812,"Flathead River, Lower, @ Polson",1992-01-24,4.93,4.63,0
+FMP01817,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-01-24,4.93,9.93,0
+FMP01818,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-01-24,7.00,5.62,0
+FMP01835,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-02-20,6.80,5.70,0
+FMP01836,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-02-20,4.90,10.38,0
+FMP01841A,"Flathead River, Lower, @ Polson",1992-02-20,5.10,5.74,0
+FMP01841B,"Flathead River, Lower, @ Polson",1992-02-20,100.04,6.53,0
+FMP01845A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-03-16,6.87,5.08,0
+FMP01845B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-03-16,7.52,4.62,0
+FMP01847,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-03-16,5.24,7.77,0
+FMP01852,"Flathead River, Lower, @ Polson",1992-03-16,4.83,7.61,0
+FMP01863,"Flathead River, Lower, @ Polson",1992-04-13,4.80,5.88,0
+FMP01869,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-04-13,5.08,9.36,0
+FMP01870,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-04-13,7.09,6.74,0
+FMP01881,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-05-11,6.42,6.46,0
+FMP01882A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-05-11,4.39,22.72,0
+FMP01882B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-05-11,4.43,25.35,0
+FMP01888,"Flathead River, Lower, @ Polson",1992-05-11,4.59,7.20,0
+FMP01900,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-06-01,5.73,6.32,0
+FMP01901,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-06-01,3.92,8.84,0
+FMP01906,"Flathead River, Lower, @ Polson",1992-06-01,4.47,8.50,0
+FMP01929,"Flathead River, Lower, @ Polson",1992-07-17,4.44,10.07,0
+FMP01930,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-07-18,5.50,7.85,0
+FMP01931,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-07-18,4.50,9.88,0
+FMP01944,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-08-20,6.60,5.95,0
+FMP01945,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-08-20,4.36,4.77,0
+FMP01951,"Flathead River, Lower, @ Polson",1992-08-21,5.03,6.31,0
+FMP01960,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-09-11,6.01,6.19,0
+FMP01961,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-09-11,4.32,4.74,0
+FMP01967,"Flathead River, Lower, @ Polson",1992-09-11,4.64,5.37,0
+FMP01980,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-10-23,4.45,6.63,0
+FMP01981,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-10-23,6.33,4.51,0
+FMP01982,"Flathead River, Lower, @ Polson",1992-10-23,4.56,6.66,0
+FMP02052,Swan River @ Bigfork Steel Bridge (Electric Ave...,1992-11-13,6.51,5.34,0
+FMP02053,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1992-11-13,4.58,4.66,0
+FMP02059,"Flathead River, Lower, @ Polson",1992-11-13,15.52,4.16,0
+FMP02064,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-01-22,NA,6.10,0
+FMP02065,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-01-22,NA,6.35,0
+FMP02070,"Flathead River, Lower, @ Polson",1993-01-22,NA,6.80,0
+FMP02097,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-03-25,7.10,8.29,0
+FMP02098,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-03-25,4.99,10.26,0
+FMP02102,"Flathead River, Lower, @ Polson",1993-03-25,4.85,7.32,0
+FMP02112,"Flathead River, Lower, @ Polson",1993-04-21,4.74,4.06,0
+FMP02117,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-04-21,6.36,11.76,0
+FMP02118,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-04-21,7.42,8.42,0
+FMP02121,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-05-09,7.16,8.18,0
+FMP02122A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-05-09,5.39,16.70,0
+FMP02122B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-05-09,100.07,17.31,0
+FMP02127,"Flathead River, Lower, @ Polson",1993-05-09,4.62,8.24,0
+FMP02136,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-05-19,6.82,8.54,0
+FMP02137,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-05-19,4.75,33.02,0
+FMP02142,"Flathead River, Lower, @ Polson",1993-05-19,4.64,6.76,0
+FMP02146,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-06-01,6.11,8.85,0
+FMP02149,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-06-01,4.62,17.43,0
+FMP02157,"Flathead River, Lower, @ Polson",1993-06-08,4.74,7.36,0
+FMP02158A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-06-08,5.97,6.67,0
+FMP02158B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-06-08,5.81,6.83,0
+FMP02159,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-06-08,5.01,9.06,0
+FMP02168,"Flathead River, Lower, @ Polson",1993-06-29,4.55,4.24,0
+FMP02169,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-06-29,5.50,5.28,0
+FMP02175,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-06-29,4.38,6.54,0
+FMP02194,"Flathead River, Lower, @ Polson",1993-07-27,4.27,3.80,0
+FMP02195A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-07-27,5.99,5.21,0
+FMP02195B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-07-27,6.18,5.73,0
+FMP02200,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-07-27,5.58,7.63,0
+FMP02208,"Flathead River, Lower, @ Polson",1993-09-06,5.03,4.47,0
+FMP02209,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-09-06,6.74,3.51,0
+FMP02210,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-09-06,6.35,5.69,0
+FMP02224,"Flathead River, Lower, @ Polson",1993-10-24,4.66,4.22,0
+FMP02225A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-10-24,6.72,4.32,0
+FMP02225B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-10-24,6.75,4.48,0
+FMP02230,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-10-24,5.18,5.58,0
+FMP02247,Swan River @ Bigfork Steel Bridge (Electric Ave...,1993-12-15,6.76,6.15,0
+FMP02248,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1993-12-15,4.46,5.60,0
+FMP02253,"Flathead River, Lower, @ Polson",1993-12-15,4.76,4.82,0
+FMP02263,"Flathead River, Lower, @ Polson",1994-02-03,4.99,5.54,0
+FMP02264,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-02-03,6.98,4.99,0
+FMP02265,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-02-03,4.48,6.92,0
+FMP02278,"Flathead River, Lower, @ Polson",1994-03-10,4.69,4.94,0
+FMP02279,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-03-10,6.83,4.79,0
+FMP02280,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-03-10,5.51,8.73,0
+FMP02293,"Flathead River, Lower, @ Polson",1994-04-13,4.10,4.22,0
+FMP02294,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-04-13,6.64,5.29,0
+FMP02295,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-04-13,5.98,12.20,0
+FMP02303,"Flathead River, Lower, @ Polson",1994-05-11,4.35,4.98,0
+FMP02304,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-05-11,6.40,7.41,0
+FMP02305A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-05-11,4.35,38.47,0
+FMP02305B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-05-11,4.51,41.90,0
+FMP02321,"Flathead River, Lower, @ Polson",1994-06-02,4.32,5.29,0
+FMP02322,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-06-02,6.06,5.56,0
+FMP02323,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-06-02,4.25,7.13,0
+FMP02336,"Flathead River, Lower, @ Polson",1994-06-16,4.95,4.79,0
+FMP02337,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-06-16,5.77,4.92,0
+FMP02338,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-06-16,4.78,6.58,0
+FMP02357,"Flathead River, Lower, @ Polson",1994-06-30,4.12,4.87,0
+FMP02358,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-06-30,5.27,7.09,0
+FMP02359A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-06-30,3.85,5.73,0
+FMP02359B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-06-30,3.49,5.63,0
+FMP02372,"Flathead River, Lower, @ Polson",1994-07-27,4.53,4.88,0
+FMP02373A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-07-27,5.87,6.25,0
+FMP02373B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-07-27,6.02,6.19,0
+FMP02374,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-07-27,3.74,5.92,0
+FMP02381,"Flathead River, Lower, @ Polson",1994-08-23,5.20,5.17,0
+FMP02382,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-08-23,6.97,5.20,0
+FMP02383,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-08-23,4.17,5.87,0
+FMP02404,"Flathead River, Lower, @ Polson",1994-09-23,4.75,4.40,0
+FMP02405,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-09-23,5.31,4.54,0
+FMP02406,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-09-23,3.77,4.90,0
+FMP02471,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-10-21,5.42,4.72,0
+FMP02472,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-10-21,3.97,4.50,0
+FMP02477,"Flathead River, Lower, @ Polson",1994-10-21,4.29,11.66,0
+FMP02513,"Flathead River, Lower, @ Polson",1994-11-23,4.15,4.47,0
+FMP02514,Swan River @ Bigfork Steel Bridge (Electric Ave...,1994-11-23,5.97,4.54,0
+FMP02515,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1994-11-23,4.10,5.69,0
+FMP02532,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-01-20,6.42,3.89,0
+FMP02533,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-01-20,4.58,4.69,0
+FMP02538A,"Flathead River, Lower, @ Polson",1995-01-20,4.82,2.79,0
+FMP02538B,"Flathead River, Lower, @ Polson",1995-01-20,4.03,3.71,0
+FMP02549,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-03-16,5.96,4.63,0
+FMP02550,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-03-16,4.78,10.02,0
+FMP02555,"Flathead River, Lower, @ Polson",1995-03-16,4.31,4.76,0
+FMP02566,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-04-13,6.00,0.00,0
+FMP02567,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-04-13,5.14,9.60,0
+FMP02572,"Flathead River, Lower, @ Polson",1995-04-13,4.00,6.21,0
+FMP02582,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-05-06,5.93,12.11,0
+FMP02583,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-05-06,4.48,6.71,0
+FMP02588,"Flathead River, Lower, @ Polson",1995-05-06,3.63,8.09,0
+FMP02591A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-05-22,5.80,11.85,0
+FMP02591B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-05-22,5.72,7.35,0
+FMP02592,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-05-22,4.21,22.04,0
+FMP02598,"Flathead River, Lower, @ Polson",1995-05-23,3.97,6.02,0
+FMP02605,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-06-02,3.61,98.25,0
+HMP00059,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-06-08,NA,2231.43,0
+FMP02609,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-06-14,4.84,7.49,0
+FMP02610A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-06-14,3.90,42.80,0
+FMP02610B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-06-14,3.91,36.20,0
+FMP02615,"Flathead River, Lower, @ Polson",1995-06-14,4.13,5.33,0
+FMP02632,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-07-07,4.33,5.57,0
+FMP02633,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-07-07,3.92,12.76,0
+FMP02638,"Flathead River, Lower, @ Polson",1995-07-07,3.81,6.11,0
+FMP02651,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-08-11,4.76,4.66,0
+FMP02652,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-08-11,4.00,5.36,0
+FMP02657,"Flathead River, Lower, @ Polson",1995-08-11,3.85,4.51,0
+FMP02669,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-09-13,5.09,6.24,0
+FMP02670,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-09-13,3.99,7.61,0
+FMP02675,"Flathead River, Lower, @ Polson",1995-09-13,4.26,5.55,0
+FMP02685,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-10-14,6.17,5.84,0
+FMP02686,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-10-14,3.77,12.02,0
+FMP02692,"Flathead River, Lower, @ Polson",1995-10-16,5.11,5.51,0
+FMP02705,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-11-21,5.69,12.37,0
+FMP02706,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-11-21,5.32,8.74,0
+FMP02711,"Flathead River, Lower, @ Polson",1995-11-21,4.32,5.59,0
+FMP02715,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-12-03,5.17,16.88,0
+FMP02723,Swan River @ Bigfork Steel Bridge (Electric Ave...,1995-12-28,6.05,4.47,0
+FMP02724,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1995-12-28,4.39,5.09,0
+FMP02730,"Flathead River, Lower, @ Polson",1995-12-29,4.57,4.47,0
+FMP02733,Swan River @ Bigfork Steel Bridge (Electric Ave...,1996-02-07,6.89,4.78,0
+FMP02734,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1996-02-07,4.50,5.21,0
+FMP02740,"Flathead River, Lower, @ Polson",1996-02-09,4.80,3.41,0
+FMP02750,Swan River @ Bigfork Steel Bridge (Electric Ave...,1996-03-22,6.80,5.24,0
+FMP02751,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1996-03-22,4.27,10.28,0
+FMP02756,"Flathead River, Lower, @ Polson",1996-03-22,4.54,5.03,0
+FMP02765,"Flathead River, Lower, @ Polson",1996-04-11,4.38,5.12,0
+FMP02766,Swan River @ Bigfork Steel Bridge (Electric Ave...,1996-04-11,6.95,6.57,0
+FMP02767,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1996-04-11,5.22,35.63,0
+FMP02785,Swan River @ Bigfork Steel Bridge (Electric Ave...,1996-06-10,6.04,11.06,0
+FMP02786,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1996-06-10,4.48,338.31,0
+FMP02791,"Flathead River, Lower, @ Polson",1996-06-10,4.87,6.76,0
+FMP02807,"Flathead River, Lower, @ Polson",1996-09-10,5.54,5.30,0
+FMP02809,Swan River @ Bigfork Steel Bridge (Electric Ave...,1996-09-11,7.12,5.98,0
+FMP02810,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1996-09-11,5.17,8.81,0
+FMP02828,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1996-10-24,4.83,6.56,0
+FMP02829,Swan River @ Bigfork Steel Bridge (Electric Ave...,1996-10-24,7.59,7.79,0
+FMP02831,"Flathead River, Lower, @ Polson",1996-10-25,6.15,5.95,0
+FMP02842,Swan River @ Bigfork Steel Bridge (Electric Ave...,1996-12-05,7.64,4.90,0
+FMP02843,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1996-12-05,5.78,7.26,0
+FMP02848,"Flathead River, Lower, @ Polson",1996-12-05,5.59,4.52,0
+FMP02852,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-01-29,7.87,6.53,0
+FMP02857,"Flathead River, Lower, @ Polson",1997-01-29,5.64,6.53,0
+FMP02859,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-01-30,5.35,6.05,0
+FMP02869,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-03-20,5.38,8.10,0
+FMP02883,"Flathead River, Lower, @ Polson",1997-04-29,5.52,5.34,0
+FMP02886,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-04-29,7.11,28.74,0
+FMP02887,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-04-29,9.13,7.64,0
+FMP02900,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-05-16,8.40,11.14,0
+FMP02901,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-05-16,6.06,257.24,0
+FMP02906,"Flathead River, Lower, @ Polson",1997-05-16,5.52,6.25,0
+FMP02908,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-05-22,7.94,13.08,0
+FMP02910,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-05-28,7.27,10.48,0
+FMP02911,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-05-28,6.02,40.38,0
+FMP02916,"Flathead River, Lower, @ Polson",1997-05-28,6.21,7.30,0
+FMP02919,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-06-12,6.41,9.05,0
+FMP02928,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-06-27,5.87,7.21,0
+FMP02929,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-06-27,5.10,10.70,0
+FMP02934,"Flathead River, Lower, @ Polson",1997-06-27,5.64,6.00,0
+FMP02944,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-07-23,5.77,7.33,0
+FMP02945,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-07-23,5.42,5.64,0
+FMP02950,"Flathead River, Lower, @ Polson",1997-07-23,5.31,4.83,0
+FMP02959,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-08-20,6.21,4.47,0
+FMP02960,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-08-20,4.37,5.23,0
+FMP02965,"Flathead River, Lower, @ Polson",1997-08-20,5.12,4.00,0
+FMP02969,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-09-16,7.34,5.82,0
+FMP02970,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-09-16,4.91,5.65,0
+FMP02975,"Flathead River, Lower, @ Polson",1997-09-16,5.44,5.79,0
+FMP03146A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-10-30,7.56,7.00,0
+FMP03146B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-10-30,7.88,7.79,0
+FMP03147,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-10-30,5.52,7.12,0
+FMP03152,"Flathead River, Lower, @ Polson",1997-10-30,7.91,6.26,0
+FMP03175,Swan River @ Bigfork Steel Bridge (Electric Ave...,1997-12-12,7.21,6.04,0
+FMP03176,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1997-12-12,5.32,6.59,0
+FMP03181,"Flathead River, Lower, @ Polson",1997-12-12,8.08,5.35,0
+FMP03191,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-01-26,7.83,6.06,0
+FMP03192,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-01-26,5.88,6.42,0
+FMP03197,"Flathead River, Lower, @ Polson",1998-01-26,5.77,4.84,0
+FMP03208,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-03-18,NA,5.14,0
+FMP03209,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-03-18,NA,10.77,0
+FMP03214,"Flathead River, Lower, @ Polson",1998-03-18,NA,5.42,0
+FMP03218,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-04-08,NA,4.86,0
+FMP03219,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-04-08,NA,8.57,0
+FMP03224,"Flathead River, Lower, @ Polson",1998-04-08,NA,5.22,0
+FMP03234,"Flathead River, Lower, @ Polson",1998-04-24,NA,6.61,0
+FMP03239,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-04-24,NA,16.04,0
+FMP03240,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-04-24,NA,6.13,0
+FMP03242,"Flathead River, Lower, @ Polson",1998-05-04,NA,5.18,0
+FMP03247,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-05-04,NA,28.76,0
+FMP03248,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-05-04,NA,6.84,0
+FMP03256,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-05-12,NA,5.99,0
+FMP03257,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-05-12,NA,19.56,0
+FMP03262,"Flathead River, Lower, @ Polson",1998-05-12,NA,4.36,0
+FMP03267,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-05-26,NA,7.83,0
+FMP03268,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-05-26,NA,14.12,0
+FMP03273,"Flathead River, Lower, @ Polson",1998-05-26,NA,6.91,0
+FMP03281,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-05-29,NA,6.06,0
+FMP03282,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-05-29,NA,56.11,0
+FMP03289,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-06-15,NA,5.66,0
+FMP03290,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-06-15,NA,9.11,0
+FMP03295,"Flathead River, Lower, @ Polson",1998-06-15,NA,5.64,0
+FMP03307,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-07-21,NA,6.80,0
+FMP03308,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-07-21,NA,5.98,0
+FMP03313,"Flathead River, Lower, @ Polson",1998-07-21,NA,5.74,0
+FMP03329,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-08-25,NA,5.82,0
+FMP03330,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-08-25,NA,6.55,0
+FMP03335A,"Flathead River, Lower, @ Polson",1998-08-25,NA,5.00,0
+FMP03335B,"Flathead River, Lower, @ Polson",1998-08-25,NA,5.23,0
+FMP03347A,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-09-23,NA,6.49,0
+FMP03347B,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-09-23,NA,6.21,0
+FMP03348,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-09-23,NA,6.88,0
+FMP03354,"Flathead River, Lower, @ Polson",1998-09-24,NA,8.52,0
+FMP03364,"Flathead River, Lower, @ Polson",1998-10-22,NA,6.92,0
+FMP03365,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-11-02,NA,6.82,0
+FMP03366,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-11-02,NA,6.99,0
+FMP03380,Swan River @ Bigfork Steel Bridge (Electric Ave...,1998-12-14,NA,5.49,0
+FMP03381,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1998-12-14,NA,6.84,0
+FMP03389,"Flathead River, Lower, @ Polson",1998-12-28,NA,4.37,0
+FMP03399,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-02-05,NA,5.60,0
+FMP03400,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-02-05,NA,7.92,0
+FMP03408,"Flathead River, Lower, @ Polson",1999-02-22,NA,7.68,0
+FMP03417,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-03-17,NA,5.50,0
+FMP03418,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-03-17,NA,8.03,0
+FMP03424,"Flathead River, Lower, @ Polson",1999-03-18,NA,4.06,0
+FMP03432,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-04-16,NA,5.42,0
+FMP03433,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-04-16,NA,7.41,0
+FMP03439,"Flathead River, Lower, @ Polson",1999-04-16,NA,6.12,0
+FMP03440,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-04-22,NA,6.02,0
+FMP03441,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-04-22,NA,22.89,0
+FMP03456,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-05-21,NA,6.58,0
+FMP03457,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-05-21,NA,14.06,0
+FMP03463,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-05-25,NA,6.07,0
+FMP03464,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-05-25,NA,88.34,0
+FMP03476,"Flathead River, Lower, @ Polson",1999-05-26,NA,6.56,0
+FMP03478,"Flathead River, Lower, @ Polson",1999-06-04,NA,7.12,0
+FMP03479,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-06-06,NA,6.54,0
+FMP03480,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-06-06,NA,65.16,0
+FMP03493,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-06-16,NA,4.14,0
+FMP03494,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-06-16,NA,48.83,0
+FMP03500,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-06-26,NA,5.82,0
+FMP03501,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-06-26,NA,18.39,0
+FMP03508,"Flathead River, Lower, @ Polson",1999-07-01,NA,5.06,0
+FMP03516,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-07-15,0.00,8.04,0
+FMP03517,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-07-15,0.00,9.59,0
+FMP03523,"Flathead River, Lower, @ Polson",1999-07-16,4.40,8.41,0
+FMP03536,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-08-08,5.66,8.65,0
+FMP03537,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-08-08,4.03,7.94,0
+FMP03543,"Flathead River, Lower, @ Polson",1999-08-10,4.56,5.68,0
+FMP03544,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-08-12,5.63,6.36,0
+FMP03545,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-08-12,4.12,5.60,0
+FMP03558,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-09-14,5.90,5.49,0
+FMP03559,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-09-14,4.03,7.00,0
+FMP03564,"Flathead River, Lower, @ Polson",1999-09-14,4.75,6.58,0
+FMP03574,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-10-14,6.04,0.95,0
+FMP03575,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-10-14,4.23,0.70,0
+FMP03581,"Flathead River, Lower, @ Polson",1999-10-15,4.79,0.70,0
+FMP03588,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-10-28,6.03,5.26,0
+FMP03589,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-10-28,4.32,5.02,0
+FMP03594,"Flathead River, Lower, @ Polson",1999-10-28,4.74,5.74,0
+FMP03605,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-11-19,6.32,5.73,0
+FMP03606,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-11-19,4.55,9.40,0
+FMP03611,"Flathead River, Lower, @ Polson",1999-11-19,4.93,5.02,0
+FMP03621,Swan River @ Bigfork Steel Bridge (Electric Ave...,1999-12-22,6.79,4.25,0
+FMP03622,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",1999-12-22,5.00,5.40,0
+FMP03627,"Flathead River, Lower, @ Polson",1999-12-22,5.24,5.19,0
+FMP03639,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-02-02,4.92,5.72,0
+FMP03646A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-02-02,6.74,103.37,0
+FMP03646B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-02-02,6.91,4.46,0
+FMP03647,"Flathead River, Lower, @ Polson",2000-02-03,5.10,5.77,0
+FMP03650,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-02-28,6.93,4.92,0
+FMP03651,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-02-28,4.65,7.79,0
+FMP03657,"Flathead River, Lower, @ Polson",2000-02-28,5.17,4.65,0
+FMP03670,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-03-25,6.77,4.02,0
+FMP03671,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-03-25,4.71,5.13,0
+FMP03684,"Flathead River, Lower, @ Polson",2000-03-29,5.12,4.28,0
+FMP03686,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-04-07,7.04,5.81,0
+FMP03687,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-04-07,5.84,9.93,0
+FMP03693,"Flathead River, Lower, @ Polson",2000-04-10,5.07,6.21,0
+FMP03701,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-04-20,7.43,4.88,0
+FMP03702A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-04-20,5.57,13.28,0
+FMP03702B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-04-20,5.80,14.94,0
+FMP03709,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-05-02,7.72,4.62,0
+FMP03710,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-05-02,6.03,12.54,0
+FMP03716,"Flathead River, Lower, @ Polson",2000-05-02,5.60,9.09,0
+FMP03727,"Flathead River, Lower, @ Polson",2000-05-25,5.44,3.64,0
+FMP03735,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-06-11,6.44,5.96,0
+FMP03736,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-06-11,5.16,10.74,0
+FMP03743,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-06-15,4.45,11.07,0
+FMP03753,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-06-23,5.97,19.95,0
+FMP03754,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-06-29,6.12,3.60,0
+FMP03755,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-06-29,4.57,6.45,0
+FMP03762,"Flathead River, Lower, @ Polson",2000-06-29,5.16,3.85,0
+FMP03771,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-07-19,6.16,4.27,0
+FMP03772,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-07-19,4.39,4.27,0
+FMP03778,"Flathead River, Lower, @ Polson",2000-07-19,5.74,3.64,0
+FMP03785,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-08-04,6.42,4.12,0
+FMP03786,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-08-04,4.40,6.66,0
+FMP03791,"Flathead River, Lower, @ Polson",2000-08-04,5.36,3.96,0
+FMP03802,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-09-04,6.66,6.78,0
+FMP03803,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-09-04,4.46,4.91,0
+FMP03808,"Flathead River, Lower, @ Polson",2000-09-04,5.80,5.68,0
+FMP03818,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-10-05,6.22,4.28,0
+FMP03819,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-10-05,5.54,6.73,0
+FMP03824,"Flathead River, Lower, @ Polson",2000-10-05,5.14,6.83,0
+FMP03842,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-11-20,7.18,4.35,0
+FMP03843,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-11-20,5.30,4.83,0
+FMP03849,"Flathead River, Lower, @ Polson",2000-11-21,6.96,4.72,0
+FMP03859,Swan River @ Bigfork Steel Bridge (Electric Ave...,2000-12-29,7.68,6.66,0
+FMP03860,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2000-12-29,4.93,5.28,0
+FMP03865,"Flathead River, Lower, @ Polson",2000-12-29,5.39,5.54,0
+FMP03875,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-02-06,5.82,5.46,0
+FMP03876,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-02-06,4.32,5.45,0
+FMP03883,"Flathead River, Lower, @ Polson",2001-02-12,5.72,3.94,0
+FMP03892,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-03-06,5.84,4.58,0
+FMP03893,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-03-06,4.55,4.95,0
+FMP03898,"Flathead River, Lower, @ Polson",2001-03-06,4.81,4.21,0
+FMP03911,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-04-14,7.10,7.02,0
+FMP03912,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-04-14,5.37,6.23,0
+FMP03917A,"Flathead River, Lower, @ Polson",2001-04-14,4.45,6.23,0
+FMP03917B,"Flathead River, Lower, @ Polson",2001-04-14,4.83,89.63,0
+FMP03926,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-04-27,7.26,6.86,0
+FMP03927,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-04-27,4.98,6.89,0
+FMP03933,"Flathead River, Lower, @ Polson",2001-04-29,4.92,7.08,0
+FMP03935,"Flathead River, Lower, @ Polson",2001-05-03,5.07,5.46,0
+FMP03936,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-05-03,5.83,12.65,0
+FMP03937A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-05-03,6.83,6.75,0
+FMP03937B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-05-03,6.78,7.59,0
+FMP03943,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-05-15,6.81,5.19,0
+FMP03944A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-05-15,10.02,28.63,0
+FMP03944B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-05-15,4.94,30.50,0
+FMP03949,"Flathead River, Lower, @ Polson",2001-05-15,5.21,5.28,0
+FMP03957,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-05-27,6.31,7.60,0
+FMP03958,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-05-27,4.60,37.72,0
+FMP03963,"Flathead River, Lower, @ Polson",2001-05-29,5.04,9.54,0
+FMP03971,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-06-04,7.02,6.83,0
+FMP03972,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-06-04,4.43,8.66,0
+FMP03977,"Flathead River, Lower, @ Polson",2001-06-04,4.91,4.14,0
+FMP03982,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-06-13,6.14,12.83,0
+FMP03983,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-06-13,5.01,22.10,0
+FMP03988,"Flathead River, Lower, @ Polson",2001-06-13,5.24,6.47,0
+FMP04006,Swan River @ Bigfork Steel Bridge (Electric Ave...,2001-07-24,5.77,NA,0
+FMP04007,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2001-07-24,4.37,NA,0
+FMP04012,"Flathead River, Lower, @ Polson",2001-07-24,4.58,NA,0
+FMP04167,Swan River @ Bigfork Steel Bridge (Electric Ave...,2002-09-12,NA,5.05,0
+FMP04168,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2002-09-12,NA,6.10,0
+FMP04172,"Flathead River, Lower, @ Polson",2002-09-12,NA,6.16,0
+FMP04181,Swan River @ Bigfork Steel Bridge (Electric Ave...,2002-10-03,NA,6.79,0
+FMP04182,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2002-10-03,NA,5.69,0
+FMP04186,"Flathead River, Lower, @ Polson",2002-10-03,NA,6.60,0
+FMP04194,Swan River @ Bigfork Steel Bridge (Electric Ave...,2002-10-30,NA,5.01,0
+FMP04195,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2002-10-30,NA,5.24,0
+FMP04200,"Flathead River, Lower, @ Polson",2002-10-30,NA,5.39,0
+FMP04210,Swan River @ Bigfork Steel Bridge (Electric Ave...,2002-11-18,NA,7.96,0
+FMP04211,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2002-11-18,NA,4.81,0
+FMP04216,"Flathead River, Lower, @ Polson",2002-11-18,NA,7.31,0
+FMP04218,Swan River @ Bigfork Steel Bridge (Electric Ave...,2002-12-06,NA,6.47,0
+FMP04219,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2002-12-06,NA,19.03,0
+FMP04224,"Flathead River, Lower, @ Polson",2002-12-06,NA,5.39,0
+FMP04234,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-01-02,NA,7.00,0
+FMP04235,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-01-02,NA,7.04,0
+FMP04240,"Flathead River, Lower, @ Polson",2003-01-02,NA,5.89,0
+FMP04259,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-02-10,NA,5.18,0
+FMP04262,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-02-11,NA,7.01,0
+FMP04266,"Flathead River, Lower, @ Polson",2003-02-12,NA,6.30,0
+FMP04269,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-03-12,NA,4.70,0
+FMP04270,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-03-12,NA,11.44,0
+FMP04275,"Flathead River, Lower, @ Polson",2003-03-12,NA,5.52,0
+FMP04285,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-04-02,NA,5.95,0
+FMP04286,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-04-02,NA,9.34,0
+FMP04291,"Flathead River, Lower, @ Polson",2003-04-02,NA,8.01,0
+FMP04300A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-04-14,NA,7.20,0
+FMP04300B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-04-14,NA,6.10,0
+FMP04301,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-04-14,NA,4.69,0
+FMP04306,"Flathead River, Lower, @ Polson",2003-04-14,NA,7.20,0
+FMP04317,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-05-06,NA,26.08,0
+FMP04318,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-05-06,NA,9.80,0
+FMP04323,"Flathead River, Lower, @ Polson",2003-05-06,NA,6.03,0
+FMP04332,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-05-25,NA,6.96,0
+FMP04333,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-05-25,NA,8.10,0
+FMP04339,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-05-30,NA,7.52,0
+FMP04340A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-05-30,NA,82.78,0
+FMP04340B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-05-30,NA,75.13,0
+FMP04346,"Flathead River, Lower, @ Polson",2003-05-30,NA,4.47,0
+FMP04356,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-06-09,NA,9.29,0
+FMP04357,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-06-09,NA,12.20,0
+FMP04362B,"Flathead River, Lower, @ Polson",2003-06-09,NA,102.02,0
+FMP04367,"Flathead River, Lower, @ Polson",2003-06-18,NA,4.09,0
+FMP04368,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-06-23,NA,5.87,0
+FMP04369,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-06-23,NA,6.87,0
+FMP04374,"Flathead River, Lower, @ Polson",2003-06-23,NA,6.45,0
+FMP04391,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-07-16,NA,9.40,0
+FMP04392,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-07-16,NA,6.49,0
+FMP04398,"Flathead River, Lower, @ Polson",2003-07-17,NA,6.87,0
+FMP04411,"Flathead River, Lower, @ Polson",2003-08-11,4.89,3.72,0
+FMP04412,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-08-12,6.25,6.18,0
+FMP04413,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-08-12,4.19,8.52,0
+FMP04434,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-09-09,5.88,7.76,0
+FMP04435,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-09-09,4.21,6.15,0
+FMP04439,"Flathead River, Lower, @ Polson",2003-09-09,4.92,7.26,0
+FMP04449,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-10-07,5.86,7.04,0
+FMP04450,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-10-07,4.14,5.34,0
+FMP04455,"Flathead River, Lower, @ Polson",2003-10-07,4.59,5.35,0
+FMP04465,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-11-03,6.15,6.14,0
+FMP04466,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-11-03,4.55,7.38,0
+FMP04471,"Flathead River, Lower, @ Polson",2003-11-03,4.68,5.73,0
+FMP04483,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-12-02,6.48,5.77,0
+FMP04484,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-12-02,4.87,5.32,0
+FMP04489,"Flathead River, Lower, @ Polson",2003-12-02,5.18,7.50,0
+FMP04492,Swan River @ Bigfork Steel Bridge (Electric Ave...,2003-12-29,6.79,4.85,0
+FMP04493,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2003-12-29,4.77,5.76,0
+FMP04498,"Flathead River, Lower, @ Polson",2003-12-29,5.12,6.77,0
+FMP04509,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-01-30,6.72,9.65,0
+FMP04510,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-01-30,4.77,6.43,0
+FMP04516,"Flathead River, Lower, @ Polson",2004-02-01,4.91,5.74,0
+FMP04536,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-03-11,6.37,6.66,0
+FMP04537,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-03-11,4.69,9.93,0
+FMP04543,"Flathead River, Lower, @ Polson",2004-03-12,4.96,6.96,0
+FMP04546,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-03-31,6.49,6.13,0
+FMP04547,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-03-31,5.15,10.00,0
+FMP04552,"Flathead River, Lower, @ Polson",2004-03-31,4.51,9.21,0
+FMP04562,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-04-09,6.35,6.60,0
+FMP04563,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-04-09,5.20,18.13,0
+FMP04567,"Flathead River, Lower, @ Polson",2004-04-12,4.56,6.60,0
+FMP04576,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-05-05,6.77,18.83,0
+FMP04577,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-05-05,4.62,35.64,0
+FMP04582,"Flathead River, Lower, @ Polson",2004-05-05,4.87,3.95,0
+FMP04593,"Flathead River, Lower, @ Polson",2004-05-26,4.66,7.65,0
+FMP04594,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-05-27,5.82,7.17,0
+FMP04595A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-05-27,4.37,7.85,0
+FMP04595B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-05-27,4.26,7.89,0
+FMP04604,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-06-06,3.85,10.47,0
+FMP04606A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-06-08,5.45,6.12,0
+FMP04606B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-06-08,5.71,6.23,0
+FMP04609A,"Flathead River, Lower, @ Polson",2004-06-14,4.47,5.33,0
+FMP04609B,"Flathead River, Lower, @ Polson",2004-06-14,4.09,4.28,0
+FMP04616,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-06-24,5.31,6.91,0
+FMP04617,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-06-24,3.95,6.81,0
+FMP04623,"Flathead River, Lower, @ Polson",2004-06-24,4.45,4.84,0
+FMP04640,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-07-19,4.89,6.52,0
+FMP04641,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-07-19,3.93,7.47,0
+FMP04647,"Flathead River, Lower, @ Polson",2004-07-20,4.45,6.11,0
+FMP04666,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-08-23,5.46,6.53,0
+FMP04667,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-08-23,4.07,6.67,0
+FMP04672,"Flathead River, Lower, @ Polson",2004-08-23,5.02,5.90,0
+FMP04685,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-09-15,5.64,6.93,0
+FMP04686,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-09-15,4.50,7.96,0
+FMP04690,"Flathead River, Lower, @ Polson",2004-09-15,4.81,8.82,0
+FMP04707,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-10-20,6.18,12.25,0
+FMP04708,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-10-20,4.68,7.80,0
+FMP04713,"Flathead River, Lower, @ Polson",2004-10-20,4.79,7.99,0
+FMP04723,Swan River @ Bigfork Steel Bridge (Electric Ave...,2004-11-29,6.61,5.95,0
+FMP04724,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2004-11-29,5.50,8.27,0
+FMP04730,"Flathead River, Lower, @ Polson",2004-11-30,4.93,5.12,0
+FMP04737,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-01-05,6.36,4.63,0
+FMP04738,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-01-05,5.17,4.91,0
+FMP04744,"Flathead River, Lower, @ Polson",2005-01-05,5.02,5.23,0
+FMP04747,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-01-19,6.44,8.83,0
+FMP04748,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-01-19,5.14,4.59,0
+FMP04754,"Flathead River, Lower, @ Polson",2005-01-20,5.19,4.78,0
+FMP04755,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-01-24,5.06,17.61,0
+FMP04768,"Flathead River, Lower, @ Polson",2005-03-01,4.91,3.92,0
+FMP04769,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-03-02,6.34,5.52,0
+FMP04770,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-03-02,4.92,4.96,0
+FMP04777,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-03-28,6.28,6.52,0
+FMP04778,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-03-28,5.16,7.34,0
+FMP04784A,"Flathead River, Lower, @ Polson",2005-03-29,5.03,7.20,0
+FMP04784B,"Flathead River, Lower, @ Polson",2005-03-29,5.66,16.63,0
+FMP04800,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-04-22,6.38,4.05,0
+FMP04801,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-04-22,4.89,7.26,0
+FMP04806,"Flathead River, Lower, @ Polson",2005-04-22,4.85,27.27,0
+FMP04808,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-04-27,6.12,4.79,0
+FMP04809,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-04-27,4.78,17.15,0
+FMP04814,"Flathead River, Lower, @ Polson",2005-04-27,4.76,7.47,0
+FMP04817,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-05-09,6.22,7.27,0
+FMP04818A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-05-09,4.58,19.12,0
+FMP04818B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-05-09,4.58,19.12,0
+FMP04823,"Flathead River, Lower, @ Polson",2005-05-09,4.69,5.65,0
+FMP04825,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-05-17,5.97,6.38,0
+FMP04826,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-05-17,4.54,31.33,0
+FMP04838,"Flathead River, Lower, @ Polson",2005-05-19,4.67,5.53,0
+FMP04846A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-06-01,5.78,7.55,0
+FMP04846B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-06-01,5.59,10.03,0
+FMP04847,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-06-01,4.22,10.07,0
+FMP04852,"Flathead River, Lower, @ Polson",2005-06-01,4.58,8.81,0
+FMP04855,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-06-03,5.69,8.87,0
+FMP04856,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-06-03,5.08,14.95,0
+FMP04869,"Flathead River, Lower, @ Polson",2005-06-15,4.77,7.66,0
+FMP04880,"Flathead River, Lower, @ Polson",2005-07-15,4.51,6.52,0
+FMP04881,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-07-18,5.31,4.85,0
+FMP04882,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-07-18,4.24,4.83,0
+FMP04901,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-08-18,5.75,7.84,0
+FMP04902,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-08-18,4.09,5.35,0
+FMP04908,"Flathead River, Lower, @ Polson",2005-08-18,4.89,5.73,0
+FMP04918,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-09-12,5.86,7.05,0
+FMP04919,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-09-12,4.31,3.19,0
+FMP04924,"Flathead River, Lower, @ Polson",2005-09-12,4.89,5.69,0
+FMP04937,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-10-01,6.23,5.49,0
+FMP04938,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-10-01,4.42,7.16,0
+FMP04944,"Flathead River, Lower, @ Polson",2005-10-06,4.77,7.77,0
+FMP04956,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-11-10,6.29,7.95,0
+FMP04957,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-11-10,4.62,5.06,0
+FMP04962,"Flathead River, Lower, @ Polson",2005-11-10,4.76,5.40,0
+FMP04973,Swan River @ Bigfork Steel Bridge (Electric Ave...,2005-12-22,7.05,5.56,0
+FMP04974,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2005-12-22,4.99,3.92,0
+FMP04980,"Flathead River, Lower, @ Polson",2005-12-23,5.04,5.19,0
+FMP04983,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-01-05,7.11,5.56,0
+FMP04984,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-01-05,5.28,5.30,0
+FMP04989,"Flathead River, Lower, @ Polson",2006-01-05,5.05,7.35,0
+FMP05006,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-02-20,7.35,5.02,0
+FMP05007,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-02-20,4.70,5.01,0
+FMP05012,"Flathead River, Lower, @ Polson",2006-02-20,5.30,11.69,0
+FMP05015,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-03-17,4.86,6.68,0
+FMP05016,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-03-17,4.17,10.02,0
+FMP05021,"Flathead River, Lower, @ Polson",2006-03-17,5.21,5.02,0
+FMP05033,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-04-07,6.89,17.54,0
+FMP05034,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-04-07,5.40,14.46,0
+FMP05039,"Flathead River, Lower, @ Polson",2006-04-07,4.94,6.12,0
+FMP05054,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-04-26,7.41,5.85,0
+FMP05055,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-04-26,5.08,28.09,0
+FMP05060A,"Flathead River, Lower, @ Polson",2006-04-26,99.90,3.71,0
+FMP05060B,"Flathead River, Lower, @ Polson",2006-04-26,5.03,3.71,0
+FMP05069,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-05-15,6.86,8.85,0
+FMP05070,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-05-15,4.97,9.21,0
+FMP05075,"Flathead River, Lower, @ Polson",2006-05-15,5.15,4.43,0
+FMP05078,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-05-19,7.17,6.90,0
+FMP05079,"Flathead River, Lower, @ Polson",2006-05-19,4.87,4.62,0
+FMP05081A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-05-20,4.72,203.43,0
+FMP05081B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-05-20,4.69,194.32,0
+FMP05089,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-05-28,6.08,8.42,0
+FMP05090,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-05-28,3.91,32.26,0
+FMP05102,"Flathead River, Lower, @ Polson",2006-05-31,4.69,8.54,0
+FMP05107A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-06-14,5.27,10.84,0
+FMP05107B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-06-14,5.20,8.97,0
+FMP05108,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-06-14,4.40,11.59,0
+FMP05115,"Flathead River, Lower, @ Polson",2006-06-16,4.52,5.40,0
+FMP05116,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-06-16,3.95,176.38,0
+FMP05124,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-07-06,5.51,7.16,0
+FMP05125,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-07-06,4.51,7.44,0
+FMP05130,"Flathead River, Lower, @ Polson",2006-07-06,3.90,4.59,0
+FMP05147,"Flathead River, Lower, @ Polson",2006-08-09,5.11,4.95,0
+FMP05150,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-08-11,5.88,6.50,0
+FMP05151,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-08-11,4.38,5.79,0
+FMP05158,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-09-04,5.76,6.14,0
+FMP05159,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-09-04,4.38,6.05,0
+FMP05171,"Flathead River, Lower, @ Polson",2006-09-08,4.76,9.31,0
+FMP05172,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-09-15,5.92,7.16,0
+FMP05173,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-09-15,4.30,5.72,0
+FMP05179,"Flathead River, Lower, @ Polson",2006-09-18,4.97,6.05,0
+FMP05188,"Flathead River, Lower, @ Polson",2006-10-10,4.80,5.57,0
+FMP05189,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-10-10,6.35,6.43,0
+FMP05190,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-10-10,4.33,5.14,0
+FMP05203,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-11-08,6.32,6.88,0
+FMP05204,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-11-08,4.31,151.03,0
+FMP05209,"Flathead River, Lower, @ Polson",2006-11-08,5.55,5.07,0
+FMP05218,Swan River @ Bigfork Steel Bridge (Electric Ave...,2006-12-14,6.78,6.52,0
+FMP05219,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2006-12-14,5.31,10.79,0
+FMP05223,"Flathead River, Lower, @ Polson",2006-12-14,5.31,5.20,0
+FMP05226,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-01-24,6.87,5.48,0
+FMP05227,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-01-24,5.01,5.16,0
+FMP05231,"Flathead River, Lower, @ Polson",2007-01-24,5.03,7.06,0
+FMP05249,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-03-06,6.66,4.10,0
+FMP05250,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-03-06,5.11,10.90,0
+FMP05254A,"Flathead River, Lower, @ Polson",2007-03-06,5.03,4.10,0
+FMP05254B,"Flathead River, Lower, @ Polson",2007-03-06,5.35,4.40,0
+FMP05256,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-03-13,6.78,10.54,0
+FMP05257,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-03-13,5.21,13.67,0
+FMP05261,"Flathead River, Lower, @ Polson",2007-03-13,4.98,5.95,0
+FMP05270,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-03-26,7.01,5.95,0
+FMP05271,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-03-26,5.89,24.61,0
+FMP05276,"Flathead River, Lower, @ Polson",2007-03-28,5.20,9.98,0
+FMP05292,"Flathead River, Lower, @ Polson",2007-04-20,4.98,5.33,0
+FMP05293A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-04-20,100.62,6.17,0
+FMP05293B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-04-20,7.12,5.73,0
+FMP05294,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-04-20,4.88,7.73,0
+FMP05308,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-05-04,6.78,9.63,0
+FMP05309,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-05-04,4.89,54.83,0
+FMP05313,"Flathead River, Lower, @ Polson",2007-05-04,4.88,6.43,0
+FMP05316,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-05-12,6.49,8.37,0
+FMP05317A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-05-12,5.22,21.96,0
+FMP05317B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-05-12,4.78,25.22,0
+FMP05321,"Flathead River, Lower, @ Polson",2007-05-12,4.87,5.56,0
+FMP05331,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-05-24,7.51,5.47,0
+FMP05332,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-05-24,4.79,12.07,0
+FMP05337,"Flathead River, Lower, @ Polson",2007-05-25,4.75,6.60,0
+FMP05348,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-06-06,5.44,5.32,0
+FMP05349,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-06-06,4.17,24.47,0
+FMP05353,"Flathead River, Lower, @ Polson",2007-06-06,4.54,5.16,0
+FMP05356,"Flathead River, Lower, @ Polson",2007-06-15,4.50,6.42,0
+FMP05358,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-06-16,5.39,5.07,0
+FMP05359,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-06-16,4.84,8.68,0
+FMP05378,"Flathead River, Lower, @ Polson",2007-07-09,4.30,5.55,0
+FMP05380,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-07-09,5.43,5.20,0
+FMP05381,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-07-09,4.07,4.78,0
+FMP05401,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-08-06,5.96,9.81,0
+FMP05402,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-08-06,4.16,5.28,0
+FMP05406,"Flathead River, Lower, @ Polson",2007-08-06,5.07,4.93,0
+FMP05420,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-09-08,6.41,6.66,0
+FMP05421,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-09-08,4.09,5.62,0
+FMP05425,"Flathead River, Lower, @ Polson",2007-09-08,5.09,4.89,0
+FMP05436,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-10-08,5.49,7.51,0
+FMP05437,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-10-08,4.58,4.55,0
+FMP05441,"Flathead River, Lower, @ Polson",2007-10-08,5.15,4.59,0
+FMP05454,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-11-19,6.51,5.18,0
+FMP05455,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-11-19,4.90,3.73,0
+FMP05460,"Flathead River, Lower, @ Polson",2007-11-20,4.80,4.14,0
+FMP05473,Swan River @ Bigfork Steel Bridge (Electric Ave...,2007-12-06,6.65,13.88,0
+FMP05474,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2007-12-06,4.67,3.44,0
+FMP05478,"Flathead River, Lower, @ Polson",2007-12-06,4.98,7.04,0
+FMP05493,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-01-16,6.66,5.96,0
+FMP05494,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-01-16,4.89,5.96,0
+FMP05499,"Flathead River, Lower, @ Polson",2008-01-17,5.13,4.96,0
+FMP05512,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-02-12,6.83,4.14,0
+FMP05513,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-02-12,4.67,6.30,0
+FMP05517,"Flathead River, Lower, @ Polson",2008-02-12,5.12,4.14,0
+FMP05531,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-03-12,4.79,6.78,0
+FMP05532,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-03-12,6.66,5.26,0
+FMP05533,"Flathead River, Lower, @ Polson",2008-03-12,5.25,4.81,0
+FMP05551,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-04-14,6.56,5.95,0
+FMP05552,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-04-14,4.50,6.65,0
+FMP05556A,"Flathead River, Lower, @ Polson",2008-04-14,5.42,6.55,0
+FMP05556B,"Flathead River, Lower, @ Polson",2008-04-14,6.30,5.83,0
+FMP05568,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-05-01,9.65,6.07,0
+FMP05569,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-05-01,5.55,7.90,0
+FMP05574,"Flathead River, Lower, @ Polson",2008-05-01,4.96,7.34,0
+FMP05585,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-05-15,6.56,7.72,0
+FMP05586A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-05-15,5.53,14.51,0
+FMP05586B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-05-15,5.56,14.32,0
+FMP05591,"Flathead River, Lower, @ Polson",2008-05-15,4.98,6.17,0
+FMP05594,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-05-21,7.27,9.58,0
+FMP05595,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-05-21,5.51,175.73,0
+FMP05600,"Flathead River, Lower, @ Polson",2008-05-21,4.92,11.51,0
+FMP05612A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-06-03,6.38,9.47,0
+FMP05612B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-06-03,6.38,9.55,0
+FMP05613,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-06-03,4.90,34.97,0
+FMP05618,"Flathead River, Lower, @ Polson",2008-06-03,4.91,5.89,0
+FMP05628,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-06-12,6.18,7.19,0
+FMP05629,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-06-12,5.00,21.34,0
+FMP05634,"Flathead River, Lower, @ Polson",2008-06-12,4.90,7.72,0
+FMP05644,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-06-25,6.11,6.84,0
+FMP05645,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-06-25,4.73,28.19,0
+FMP05653,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-07-07,5.42,5.63,0
+FMP05654,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-07-07,8.27,20.89,0
+FMP05658,"Flathead River, Lower, @ Polson",2008-07-07,4.76,6.60,0
+FMP05683,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-08-06,5.46,6.52,0
+FMP05684,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-08-06,4.35,7.35,0
+FMP05688,"Flathead River, Lower, @ Polson",2008-08-06,4.55,5.40,0
+FMP05705,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-09-02,5.89,6.24,0
+FMP05706,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-09-02,4.22,5.37,0
+FMP05711,"Flathead River, Lower, @ Polson",2008-09-03,4.75,6.32,0
+FMP05734,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-10-09,6.05,4.58,0
+FMP05735,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-10-09,4.32,3.38,0
+FMP05740,"Flathead River, Lower, @ Polson",2008-10-10,4.70,10.54,0
+FMP05758,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-11-13,6.13,3.84,0
+FMP05759,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-11-13,4.81,3.38,0
+FMP05763,"Flathead River, Lower, @ Polson",2008-11-13,5.41,7.38,0
+FMP05785,Swan River @ Bigfork Steel Bridge (Electric Ave...,2008-12-16,6.76,4.58,0
+FMP05786,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2008-12-16,5.10,4.99,0
+FMP05790,"Flathead River, Lower, @ Polson",2008-12-16,5.32,3.92,0
+FMP05797,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-01-08,6.59,4.74,0
+FMP05798,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-01-08,5.10,3.71,0
+FMP05802,"Flathead River, Lower, @ Polson",2009-01-08,5.10,3.67,0
+FMP05828,"Flathead River, Lower, @ Polson",2009-02-24,5.07,7.75,0
+FMP05829,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-02-24,6.57,4.87,0
+FMP05830,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-02-24,4.93,7.69,0
+FMP05842,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-03-24,6.74,8.59,0
+FMP05843,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-03-24,5.16,16.32,0
+FMP05847,"Flathead River, Lower, @ Polson",2009-03-24,5.52,6.51,0
+FMP05863,"Flathead River, Lower, @ Polson",2009-04-09,5.30,8.04,0
+FMP05865,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-04-09,6.96,6.51,0
+FMP05866,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-04-09,5.21,8.57,0
+FMP05882,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-04-23,6.77,6.02,0
+FMP05883,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-04-23,5.99,33.13,0
+FMP05887,"Flathead River, Lower, @ Polson",2009-04-23,5.06,20.01,0
+FMP05899,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-05-07,6.71,8.15,0
+FMP05900,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-05-07,5.22,12.41,0
+FMP05901A,"Flathead River, Lower, @ Polson",2009-05-07,4.86,8.57,0
+FMP05901B,"Flathead River, Lower, @ Polson",2009-05-07,4.85,5.77,0
+FMP05916,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-05-20,6.58,7.38,0
+FMP05917A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-05-20,5.03,109.31,0
+FMP05917B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-05-20,5.00,95.32,0
+FMP05918,"Flathead River, Lower, @ Polson",2009-05-20,4.86,6.87,0
+FMP05924,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-05-29,6.42,9.01,0
+FMP05925,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-05-29,4.72,57.25,0
+FMP05926,"Flathead River, Lower, @ Polson",2009-05-29,4.83,5.65,0
+FMP05939,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-06-17,5.74,8.26,0
+FMP05940,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-06-17,4.37,10.97,0
+FMP05941,"Flathead River, Lower, @ Polson",2009-06-17,4.60,5.12,0
+FMP05957,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-07-08,4.62,3.78,0
+FMP05958,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-07-08,5.46,2.91,0
+FMP05959,"Flathead River, Lower, @ Polson",2009-07-08,4.69,3.57,0
+FMP05983,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-08-11,5.89,2.63,0
+FMP05984,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-08-11,4.80,4.67,0
+FMP05985,"Flathead River, Lower, @ Polson",2009-08-11,5.59,6.67,0
+FMP06001,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-09-08,6.05,5.05,0
+FMP06002,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-09-08,4.60,5.25,0
+FMP06003,"Flathead River, Lower, @ Polson",2009-09-08,4.93,4.20,0
+FMP06018,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-10-07,6.46,6.08,0
+FMP06019,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-10-07,4.74,4.48,0
+FMP06020,"Flathead River, Lower, @ Polson",2009-10-07,5.05,7.14,0
+FMP06043,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-11-10,6.45,8.83,0
+FMP06044,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-11-10,4.84,9.87,0
+FMP06045,"Flathead River, Lower, @ Polson",2009-11-10,4.96,8.08,0
+FMP06063,Swan River @ Bigfork Steel Bridge (Electric Ave...,2009-12-18,6.88,6.81,0
+FMP06064,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2009-12-18,5.10,8.06,0
+FMP06065,"Flathead River, Lower, @ Polson",2009-12-18,5.19,11.53,0
+FMP06084,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-01-15,6.74,6.37,0
+FMP06085,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-01-15,4.90,6.08,0
+FMP06086,"Flathead River, Lower, @ Polson",2010-01-15,5.19,4.99,0
+FMP06103,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-02-08,6.65,6.39,0
+FMP06104,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-02-08,4.84,5.26,0
+FMP06105,"Flathead River, Lower, @ Polson",2010-02-08,5.02,4.26,0
+FMP06113,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-03-03,6.55,5.56,0
+FMP06114,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-03-03,4.86,5.18,0
+FMP06115,"Flathead River, Lower, @ Polson",2010-03-03,5.05,4.72,0
+FMP06130,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-03-30,6.66,5.70,0
+FMP06131,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-03-30,4.82,7.27,0
+FMP06132,"Flathead River, Lower, @ Polson",2010-03-30,4.87,7.59,0
+FMP06145,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-04-14,6.47,6.01,0
+FMP06146,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-04-14,5.47,8.16,0
+FMP06147,"Flathead River, Lower, @ Polson",2010-04-14,5.47,5.62,0
+FMP06155,"Flathead River, Lower, @ Polson",2010-04-22,4.71,5.64,0
+FMP06156,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-04-22,5.13,11.87,0
+FMP06157,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-04-22,6.65,6.11,0
+FMP06179,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-05-14,6.76,6.57,0
+FMP06180,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-05-14,5.09,6.14,0
+FMP06181,"Flathead River, Lower, @ Polson",2010-05-14,6.12,8.78,0
+FMP06186A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-05-20,6.65,7.60,0
+FMP06186B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-05-20,6.65,7.33,0
+FMP06187A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-05-20,4.87,68.44,0
+FMP06187B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-05-20,4.92,82.16,0
+FMP06188,"Flathead River, Lower, @ Polson",2010-05-20,5.12,8.14,0
+FMP06204,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-06-18,6.10,9.33,0
+FMP06205,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-06-18,4.40,11.80,0
+FMP06206A,"Flathead River, Lower, @ Polson",2010-06-18,4.60,5.39,0
+FMP06206B,"Flathead River, Lower, @ Polson",2010-06-18,4.64,6.24,0
+FMP06221,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-07-07,5.88,6.09,0
+FMP06222,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-07-07,4.62,6.13,0
+FMP06223,"Flathead River, Lower, @ Polson",2010-07-07,4.34,3.75,0
+FMP06241,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-08-05,6.04,6.87,0
+FMP06242,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-08-05,4.59,6.51,0
+FMP06243,"Flathead River, Lower, @ Polson",2010-08-05,4.80,12.48,0
+FMP06279,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-09-23,6.18,3.23,0
+FMP06280,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-09-23,4.26,3.93,0
+FMP06281,"Flathead River, Lower, @ Polson",2010-09-23,4.67,3.60,0
+FMP06289,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-10-15,6.28,4.19,0
+FMP06290,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-10-15,4.55,3.77,0
+FMP06291,"Flathead River, Lower, @ Polson",2010-10-15,4.98,4.49,0
+FMP06315,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-11-12,6.71,4.66,0
+FMP06316,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-11-12,4.74,3.87,0
+FMP06317,"Flathead River, Lower, @ Polson",2010-11-12,5.03,4.70,0
+FMP06326,Swan River @ Bigfork Steel Bridge (Electric Ave...,2010-12-13,6.93,4.70,0
+FMP06327,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2010-12-13,5.09,5.09,0
+FMP06328,"Flathead River, Lower, @ Polson",2010-12-13,5.29,5.44,0
+FMP06345,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-01-17,6.94,8.73,0
+FMP06346,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-01-17,5.79,8.61,0
+FMP06348,"Flathead River, Lower, @ Polson",2011-01-18,5.16,5.42,0
+FMP06368,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-03-03,7.09,3.54,0
+FMP06369,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-03-03,4.74,4.67,0
+FMP06370,"Flathead River, Lower, @ Polson",2011-03-03,5.26,2.64,0
+FMP06397,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-04-18,5.50,9.42,0
+FMP06398,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-04-18,7.55,6.70,0
+FMP06399,"Flathead River, Lower, @ Polson",2011-04-18,5.15,4.30,0
+FMP06416,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-05-11,6.15,19.63,0
+FMP06417A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-05-16,7.87,8.49,0
+FMP06417B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-05-16,8.49,7.59,0
+FMP06418,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-05-16,5.99,33.31,0
+FMP06419,"Flathead River, Lower, @ Polson",2011-05-16,5.00,4.56,0
+FMP06435,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-06-08,7.05,7.00,0
+FMP06436A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-06-08,5.27,220.80,0
+FMP06436B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-06-08,5.33,170.99,0
+FMP06447,"Flathead River, Lower, @ Polson",2011-06-13,2.57,8.13,0
+FMP06454,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-06-24,6.42,7.64,0
+FMP06455,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-06-24,4.89,41.54,0
+FMP06456A,"Flathead River, Lower, @ Polson",2011-06-24,5.34,6.97,0
+FMP06456B,"Flathead River, Lower, @ Polson",2011-06-24,6.54,7.33,0
+FMP06469,"Flathead River, Lower, @ Polson",2011-07-08,4.99,7.72,0
+FMP06471,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-07-08,5.39,9.41,0
+FMP06472,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-07-08,4.59,25.58,0
+FMP06479,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-07-27,5.24,10.66,0
+FMP06480,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-07-27,4.52,7.72,0
+FMP06482,"Flathead River, Lower, @ Polson",2011-07-27,4.65,10.61,0
+FMP06503,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-08-16,4.77,5.93,0
+FMP06504,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-08-16,5.75,11.46,0
+FMP06505,"Flathead River, Lower, @ Polson",2011-08-16,4.79,4.56,0
+FMP06520,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-09-07,4.57,6.27,0
+FMP06521,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-09-07,6.00,4.69,0
+FMP06522,"Flathead River, Lower, @ Polson",2011-09-07,4.78,7.63,0
+FMP06539,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-10-08,6.43,3.56,0
+FMP06540,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-10-08,4.79,2.94,0
+FMP06544,"Flathead River, Lower, @ Polson",2011-10-10,4.93,3.19,0
+FMP06567,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-11-23,6.74,5.15,0
+FMP06568,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-11-23,5.07,3.96,0
+FMP06569,"Flathead River, Lower, @ Polson",2011-11-23,5.27,4.00,0
+FMP06575,"Flathead River, Lower, @ Polson",2011-12-12,5.07,3.08,0
+FMP06576,Swan River @ Bigfork Steel Bridge (Electric Ave...,2011-12-12,6.63,3.32,0
+FMP06577,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2011-12-12,4.97,9.42,0
+FMP06591,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-01-19,6.70,6.25,0
+FMP06592,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-01-19,5.14,5.43,0
+FMP06593,"Flathead River, Lower, @ Polson",2012-01-19,5.72,10.01,0
+FMP06611,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-02-16,7.09,4.49,0
+FMP06612,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-02-16,5.22,5.41,0
+FMP06613,"Flathead River, Lower, @ Polson",2012-02-16,5.14,3.78,0
+FMP06629,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-03-14,5.09,8.96,0
+FMP06630,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-03-14,6.77,5.20,0
+FMP06631,"Flathead River, Lower, @ Polson",2012-03-14,36.04,5.98,0
+FMP06638,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-04-02,6.69,6.80,0
+FMP06639,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-04-02,5.38,11.90,0
+FMP06641,"Flathead River, Lower, @ Polson",2012-04-02,5.07,5.80,0
+FMP06655A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-04-13,6.77,5.60,0
+FMP06655B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-04-13,6.73,6.80,0
+FMP06657,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-04-13,5.10,13.40,0
+FMP06659,"Flathead River, Lower, @ Polson",2012-04-13,5.04,5.80,0
+FMP06664,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-04-25,6.93,8.20,0
+FMP06665A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-04-25,5.25,69.40,0
+FMP06665B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-04-25,5.23,51.30,0
+FMP06668,"Flathead River, Lower, @ Polson",2012-04-26,5.07,9.50,0
+FMP06806,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-06-20,5.98,6.30,0
+FMP06807,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-06-20,4.68,39.50,0
+FMP06841,"Flathead River, Lower, @ Polson",2012-07-20,4.59,4.10,0
+FMP06838,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-07-20,5.96,5.20,0
+FMP06839,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-07-20,4.63,10.70,0
+FMP06867,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-08-09,5.86,6.30,0
+FMP06868,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-08-09,4.73,5.40,0
+FMP06870,"Flathead River, Lower, @ Polson",2012-08-09,4.71,4.50,0
+FMP06966,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-08-28,7.16,5.40,0
+FMP06967,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-08-28,4.89,4.00,0
+FMP06969,"Flathead River, Lower, @ Polson",2012-08-28,5.18,4.20,0
+FMP07003,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-09-25,4.53,8.70,0
+FMP07004,"Flathead River, Lower, @ Polson",2012-09-25,4.78,8.70,0
+FMP07166,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-03-15,6.46,6.70,0
+FMP07167,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-03-15,4.79,10.60,0
+FMP07169,"Flathead River, Lower, @ Polson",2013-03-15,4.85,6.70,0
+FMP07111,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-12-03,6.54,5.20,0
+FMP07112,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-12-03,4.74,5.40,0
+FMP07113,"Flathead River, Lower, @ Polson",2012-12-03,4.96,4.80,0
+FMP07147,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-02-14,6.80,5.90,0
+FMP07148,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-02-14,5.21,7.90,0
+FMP07150,"Flathead River, Lower, @ Polson",2013-02-14,5.07,7.40,0
+FMP07172,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-03-17,5.04,13.40,0
+FMP07002,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-09-25,6.27,7.10,0
+FMP07093,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-10-31,6.60,8.60,0
+FMP07094,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-10-31,5.05,12.00,0
+FMP07095,"Flathead River, Lower, @ Polson",2012-10-31,4.86,6.00,0
+FMP06756,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-05-17,6.83,10.60,1
+FMP06757,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-05-17,5.06,38.80,1
+FMP06760,"Flathead River, Lower, @ Polson",2012-05-17,5.12,6.20,1
+FMP06772,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-05-31,6.64,8.80,1
+FMP06775,"Flathead River, Lower, @ Polson",2012-05-31,5.05,6.90,1
+FMP06809,"Flathead River, Lower, @ Polson",2012-06-20,4.92,7.30,1
+FMP07208,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-04-26,4.89,8.40,1
+FMP07210,"Flathead River, Lower, @ Polson",2013-04-26,4.66,6.00,1
+FMP07363,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-06-21,4.21,131.70,1
+FMP06780,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-06-07,4.45,102.40,1
+FMP06781,Swan River @ Bigfork Steel Bridge (Electric Ave...,2012-06-07,6.31,7.60,1
+FMP06783A,"Flathead River, Lower, @ Polson",2012-06-07,5.05,5.00,1
+FMP06783B,"Flathead River, Lower, @ Polson",2012-06-07,5.01,5.40,1
+FMP07187,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-04-05,6.42,9.80,1
+FMP07188,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-04-05,5.51,14.60,1
+FMP07207,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-04-26,6.73,14.90,1
+FMP07334,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-06-05,5.17,9.40,1
+FMP07357,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-06-19,4.78,5.50,1
+FMP07358,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-06-19,4.24,7.80,1
+FMP07377,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-07-09,4.10,5.70,1
+FMP07379,"Flathead River, Lower, @ Polson",2013-07-09,4.29,3.40,1
+FMP07518,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-08-26,6.15,7.00,1
+FMP07519,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-08-26,4.62,5.80,1
+FMP07521,"Flathead River, Lower, @ Polson",2013-08-26,4.90,4.50,1
+FMP07529,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-09-09,6.30,5.50,1
+FMP06773,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2012-05-31,5.11,10.40,1
+FMP07190,"Flathead River, Lower, @ Polson",2013-04-05,4.69,3.60,1
+FMP07128,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-01-09,6.77,3.60,1
+FMP07129,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-01-09,5.02,4.00,1
+FMP07131,"Flathead River, Lower, @ Polson",2013-01-09,5.08,3.60,1
+FMP07316,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-05-22,6.19,8.60,1
+FMP07317,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-05-22,4.80,32.80,1
+FMP07319,"Flathead River, Lower, @ Polson",2013-05-22,4.77,5.70,1
+FMP07295,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-05-10,6.62,5.00,1
+FMP07296A,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-05-10,4.91,70.90,1
+FMP07296B,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-05-10,4.87,72.10,1
+FMP07299,"Flathead River, Lower, @ Polson",2013-05-10,4.85,5.10,1
+FMP07301A,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-05-14,6.60,6.40,1
+FMP07301B,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-05-14,6.67,6.80,1
+FMP07302,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-05-14,4.72,151.10,1
+FMP07333,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-06-05,5.86,7.80,1
+FMP07336A,"Flathead River, Lower, @ Polson",2013-06-05,4.79,4.50,1
+FMP07336B,"Flathead River, Lower, @ Polson",2013-06-05,4.70,4.50,1
+FMP07360,"Flathead River, Lower, @ Polson",2013-06-19,4.52,7.50,1
+FMP07376,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-07-09,4.98,5.80,1
+FMP07479,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-08-02,5.87,7.40,1
+FMP07480,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-08-02,4.57,3.80,1
+FMP07482,"Flathead River, Lower, @ Polson",2013-08-02,4.74,2.90,1
+FMP07530,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-09-09,4.65,3.70,1
+FMP07532,"Flathead River, Lower, @ Polson",2013-09-09,4.93,3.00,1
+FMP07558,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-09-26,5.89,32.80,1
+FMP07559,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-09-26,4.49,4.10,1
+FMP07560,"Flathead River, Lower, @ Polson",2013-09-26,4.79,4.30,1
+FMP07646,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-10-15,6.08,3.40,1
+FMP07647,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-10-15,4.49,2.60,1
+FMP07649,"Flathead River, Lower, @ Polson",2013-10-15,4.58,2.60,1
+FMP07659,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-11-12,6.46,3.50,1
+FMP07660,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-11-12,4.83,3.90,1
+FMP07661,"Flathead River, Lower, @ Polson",2013-11-12,4.68,3.00,1
+FMP07688,Swan River @ Bigfork Steel Bridge (Electric Ave...,2013-12-17,6.36,2.40,1
+FMP07689,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2013-12-17,4.83,3.00,1
+FMP07690,"Flathead River, Lower, @ Polson",2013-12-17,4.84,3.80,1
+14093003-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-01-14,6.51,3.80,1
+14093003-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-01-14,4.80,5.10,1
+14093003-03,"Flathead River, Lower, @ Polson",2014-01-14,5.01,3.50,1
+14093009-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-02-13,6.50,3.70,1
+14093009-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-02-13,6.28,36.90,1
+14093009-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-02-13,4.77,4.40,1
+14093009-04,"Flathead River, Lower, @ Polson",2014-02-13,,,1
+14102801-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-03-06,6.81,3.20,1
+14102801-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-03-06,1.67,679.00,1
+14102801-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-03-06,4.93,7.60,1
+14102801-04,"Flathead River, Lower, @ Polson",2014-03-06,5.09,2.80,1
+14102905-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-04-10,6.50,3.00,1
+14102905-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-04-10,5.02,22.20,1
+14102905-03,"Flathead River, Lower, @ Polson",2014-04-10,4.90,2.80,1
+14102912-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-05-05,7.42,4.20,1
+14102912-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-05-05,5.67,34.10,1
+14102912-03,"Flathead River, Lower, @ Polson",2014-05-05,5.02,3.00,1
+14103003-01,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-05-16,5.26,26.20,1
+14103004-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-05-19,7.02,4.20,1
+14103004-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-05-19,6.95,6.00,1
+14103004-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-05-19,5.21,51.20,1
+14103004-04,"Flathead River, Lower, @ Polson",2014-05-19,4.67,4.70,1
+14103008-01,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-05-25,5.45,170.00,1
+14103009-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-05-27,6.55,5.60,1
+14103009-02,"Flathead River, Lower, @ Polson",2014-05-27,4.83,3.50,1
+14103012-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-06-04,6.05,6.30,1
+14103012-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-06-04,4.69,43.30,1
+14103012-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-06-04,4.70,45.70,1
+14103012-04,"Flathead River, Lower, @ Polson",2014-06-04,4.93,4.20,1
+14103017-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-06-18,5.66,6.10,1
+14103017-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-06-18,4.20,14.60,1
+14103017-03,"Flathead River, Lower, @ Polson",2014-06-18,4.43,2.80,1
+14103020-01,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-06-20,4.66,110.00,1
+14111402-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-07-08,5.04,3.50,1
+14111402-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-07-08,4.10,11.30,1
+14111402-03,"Flathead River, Lower, @ Polson",2014-07-08,4.32,2.60,1
+14111402-04,"Flathead River, Lower, @ Polson",2014-07-08,4.21,2.60,1
+14111408-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-07-29,5.36,3.70,1
+14111408-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-07-29,4.41,4.20,1
+14111408-03,"Flathead River, Lower, @ Polson",2014-07-29,4.04,2.10,1
+14111422-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-09-02,5.74,3.90,1
+14111422-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-09-02,4.60,3.20,1
+14111422-03,"Flathead River, Lower, @ Polson",2014-09-02,4.64,2.50,1
+14111431-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-09-29,6.09,2.90,1
+14111431-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-09-29,4.28,2.80,1
+14111431-03,"Flathead River, Lower, @ Polson",2014-09-29,4.50,2.00,1
+14120213-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-11-03,6.26,3.90,1
+14120213-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-11-03,4.63,3.70,1
+14120213-03,"Flathead River, Lower, @ Polson",2014-11-03,4.59,3.30,1
+14120901-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2014-12-09,6.38,3.80,1
+14120901-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2014-12-09,4.85,3.90,1
+14120901-03,"Flathead River, Lower, @ Polson",2014-12-09,4.90,3.30,1
+15012002-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-01-20,7.01,4.40,1
+15012002-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-01-20,4.74,4.10,1
+15012002-03,"Flathead River, Lower, @ Polson",2015-01-20,5.03,3.90,1
+15020901-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-02-09,7.65,6.20,1
+15020901-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-02-09,5.24,16.70,1
+15022701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-02-27,7.02,4.50,1
+15022701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-02-27,5.15,6.00,1
+15022701-03,"Flathead River, Lower, @ Polson",2015-02-27,5.15,2.30,1
+15031601-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-03-16,7.26,5.50,1
+15031601-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-03-16,5.17,33.50,1
+15031601-03,"Flathead River, Lower, @ Polson",2015-03-16,5.10,5.80,1
+15041601-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-04-16,7.00,4.70,1
+15041601-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-04-16,5.09,5.00,1
+15041601-03,"Flathead River, Lower, @ Polson",2015-04-16,4.91,4.80,1
+15051402-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-05-14,6.31,4.00,1
+15051402-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-05-14,6.27,4.00,1
+15051402-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-05-14,4.46,6.60,1
+15051402-04,"Flathead River, Lower, @ Polson",2015-05-14,4.80,4.50,1
+15052802-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-05-28,6.35,4.30,1
+15052802-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-05-28,4.17,7.70,1
+15052802-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-05-28,4.21,6.80,1
+15052802-04,"Flathead River, Lower, @ Polson",2015-05-28,4.76,2.80,1
+15060301-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-06-03,5.70,4.10,1
+15060301-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-06-03,4.06,10.80,1
+15060301-03,"Flathead River, Lower, @ Polson",2015-06-03,4.80,2.70,1
+15061803-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-06-18,4.94,5.10,1
+15061803-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-06-18,4.21,3.80,1
+15061803-03,"Flathead River, Lower, @ Polson",2015-06-18,4.76,4.30,1
+15061803-04,"Flathead River, Lower, @ Polson",2015-06-18,4.57,2.10,1
+15070701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-07-07,5.13,4.00,1
+15070701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-07-07,3.99,6.10,1
+15070701-03,"Flathead River, Lower, @ Polson",2015-07-07,4.52,6.80,1
+15081701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-08-17,5.98,4.80,1
+15081701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-08-17,4.18,7.90,1
+15081701-03,"Flathead River, Lower, @ Polson",2015-08-17,4.79,2.20,1
+15091801-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-09-18,5.98,4.80,1
+15091801-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-09-18,4.16,2.80,1
+15091801-03,"Flathead River, Lower, @ Polson",2015-09-18,4.76,3.20,1
+15101202-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-10-14,6.33,5.10,1
+15101202-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-10-14,4.08,2.90,1
+15101202-03,"Flathead River, Lower, @ Polson",2015-10-14,4.84,3.60,1
+15110401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-11-04,6.45,3.90,1
+15110401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-11-04,4.98,4.60,1
+15110401-03,"Flathead River, Lower, @ Polson",2015-11-04,5.23,3.60,1
+15120801-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2015-12-09,6.57,3.90,1
+15120801-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2015-12-09,4.66,3.70,1
+15120801-03,"Flathead River, Lower, @ Polson",2015-12-09,4.90,3.60,1
+16011502-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-01-15,6.61,6.00,1
+16011502-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-01-15,4.62,3.50,1
+16011502-03,"Flathead River, Lower, @ Polson",2016-01-15,4.85,2.40,1
+16021601-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-02-16,6.73,4.90,1
+16021601-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-02-16,4.84,4.00,1
+16021601-03,"Flathead River, Lower, @ Polson",2016-02-16,4.93,3.30,1
+16032801-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-03-28,6.62,2.20,1
+16032801-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-03-28,4.93,6.10,1
+16032801-03,"Flathead River, Lower, @ Polson",2016-03-28,4.94,2.80,1
+16040601-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-04-06,6.66,3.30,1
+16040601-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-04-06,5.49,18.00,1
+16040601-03,"Flathead River, Lower, @ Polson",2016-04-06,5.07,3.30,1
+16041101-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-04-11,6.34,3.00,1
+16041101-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-04-11,5.13,18.90,1
+16041101-03,"Flathead River, Lower, @ Polson",2016-04-11,4.77,10.00,1
+16042501-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-04-25,6.29,4.00,1
+16042501-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-04-25,4.68,54.80,1
+16042501-03,"Flathead River, Lower, @ Polson",2016-04-25,4.63,2.80,1
+16051001-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-05-10,5.84,3.20,1
+16051001-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-05-10,5.80,3.00,1
+16051001-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-05-10,4.15,33.40,1
+16051001-04,"Flathead River, Lower, @ Polson",2016-05-10,4.48,2.60,1
+16052501-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-05-25,5.69,8.20,1
+16052501-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-05-25,5.05,46.50,1
+16052501-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-05-25,4.83,36.20,1
+16052501-04,"Flathead River, Lower, @ Polson",2016-05-25,4.54,2.20,1
+16060804-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-06-08,5.11,4.90,1
+16060804-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-06-08,4.49,8.70,1
+16060804-03,"Flathead River, Lower, @ Polson",2016-06-08,4.72,3.90,1
+16062401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-06-24,4.78,4.00,1
+16062401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-06-24,4.07,5.00,1
+16062401-03,"Flathead River, Lower, @ Polson",2016-06-24,4.22,3.70,1
+16072201-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-07-22,4.96,3.20,1
+16072201-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-07-22,3.85,3.80,1
+16072201-03,"Flathead River, Lower, @ Polson",2016-07-22,4.09,2.70,1
+16072201-04,"Flathead River, Lower, @ Polson",2016-07-22,4.10,2.40,1
+16083002-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-08-30,5.40,3.20,1
+16083002-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-08-30,4.02,2.50,1
+16083002-03,"Flathead River, Lower, @ Polson",2016-08-30,4.44,2.30,1
+16100702-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-10-07,5.60,2.70,1
+16100702-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-10-07,4.10,2.60,1
+16100702-03,"Flathead River, Lower, @ Polson",2016-10-07,4.38,2.40,1
+16111701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-11-17,6.40,3.00,1
+16111701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-11-17,4.58,3.40,1
+16111701-03,"Flathead River, Lower, @ Polson",2016-11-17,4.58,< 1.5,1
+16122101-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2016-12-21,6.62,2.90,1
+16122101-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2016-12-21,5.51,8.90,1
+16122101-03,"Flathead River, Lower, @ Polson",2016-12-21,5.01,3.20,1
+17012301-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-01-23,6.69,2.60,1
+17012301-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-01-23,5.30,5.20,1
+17012301-03,"Flathead River, Lower, @ Polson",2017-01-23,5.07,3.50,1
+17021302-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-02-14,6.51,1.80,1
+17021302-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-02-14,5.17,4.90,1
+17021302-03,"Flathead River, Lower, @ Polson",2017-02-14,5.21,11.20,1
+17031401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-03-15,7.09,8.60,1
+17031401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-03-15,5.21,11.90,1
+17031401-03,"Flathead River, Lower, @ Polson",2017-03-15,5.18,1.70,1
+17032302-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-03-23,7.57,12.10,1
+17032302-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-03-23,7.24,8.90,1
+17032302-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-03-23,6.13,19.20,1
+17042001-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-04-21,7.49,4.30,1
+17042001-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-04-21,6.93,7.70,1
+17042001-03,"Flathead River, Lower, @ Polson",2017-04-21,5.21,2.60,1
+17042803-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-04-28,7.81,5.00,1
+17042803-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-04-28,6.15,10.30,1
+17050801-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-05-08,7.24,3.20,1
+17050801-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-05-08,5.17,173.00,1
+17050801-03,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-05-08,5.20,3.30,1
+17050801-04,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-05-08,5.02,1.80,1
+17050801-05,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-05-08,16.38,23.20,1
+17060102-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-06-01,6.20,6.10,1
+17060102-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-06-01,4.59,48.00,1
+17060102-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-06-01,4.59,56.80,1
+17060102-04,"Flathead River, Lower, @ Polson",2017-06-01,5.15,3.10,1
+17061504-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-06-15,5.44,3.90,1
+17061504-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-06-15,4.33,18.90,1
+17061504-03,"Flathead River, Lower, @ Polson",2017-06-15,4.69,2.80,1
+17070502-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-07-06,5.40,2.60,1
+17070502-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-07-06,4.31,3.00,1
+17070502-03,"Flathead River, Lower, @ Polson",2017-07-06,4.67,< 1.5,1
+17072502-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-07-26,5.96,3.00,1
+17072502-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-07-26,4.61,2.90,1
+17072502-03,"Flathead River, Lower, @ Polson",2017-07-26,4.96,1.50,1
+17082202-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-08-22,6.86,2.80,1
+17082202-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-08-22,4.54,3.40,1
+17082202-03,"Flathead River, Lower, @ Polson",2017-08-22,5.20,3.30,1
+17092101-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-09-21,6.23,2.80,1
+17092101-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-09-21,4.59,3.60,1
+17092101-03,"Flathead River, Lower, @ Polson",2017-09-21,4.79,2.50,1
+17100901-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-10-09,6.29,4.00,1
+17100901-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-10-09,4.32,2.60,1
+17100901-03,"Flathead River, Lower, @ Polson",2017-10-09,4.40,3.00,1
+17102701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-10-30,6.46,2.10,1
+17102701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-10-30,4.68,2.20,1
+17102701-03,"Flathead River, Lower, @ Polson",2017-10-30,5.22,2.20,1
+17112002-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-11-21,7.45,3.50,1
+17112002-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-11-21,4.81,3.50,1
+17112002-03,"Flathead River, Lower, @ Polson",2017-11-21,4.91,2.40,1
+17121401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2017-12-14,7.63,2.70,1
+17121401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2017-12-14,4.98,3.60,1
+17121401-03,"Flathead River, Lower, @ Polson",2017-12-14,5.19,2.10,1
+18011002-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-01-10,6.73,2.70,1
+18011002-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-01-10,5.12,2.10,1
+18011002-03,"Flathead River, Lower, @ Polson",2018-01-10,5.05,2.10,1
+18022102-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-02-22,7.08,4.00,1
+18022102-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-02-22,4.86,3.80,1
+18022102-03,"Flathead River, Lower, @ Polson",2018-02-22,5.45,2.00,1
+18032101-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-03-21,7.26,3.10,1
+18032101-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-03-21,4.77,5.70,1
+18032101-03,"Flathead River, Lower, @ Polson",2018-03-21,5.07,2.00,1
+18041802-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-04-19,7.02,3.30,1
+18041802-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-04-19,5.14,10.00,1
+18041802-03,"Flathead River, Lower, @ Polson",2018-04-19,5.48,3.70,1
+18043001-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-04-30,7.71,10.40,1
+18043001-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-04-30,7.81,4.30,1
+18043001-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-04-30,5.73,68.20,1
+18043001-04,"Flathead River, Lower, @ Polson",2018-04-30,5.12,2.80,1
+18050901-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-05-09,7.51,6.60,1
+18050901-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-05-09,5.40,88.90,1
+18050901-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-05-09,5.33,91.90,1
+18050901-04,"Flathead River, Lower, @ Polson",2018-05-09,4.95,3.20,1
+18051602-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-05-22,6.81,4.30,1
+18051602-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-05-22,5.35,34.40,1
+18051602-03,"Flathead River, Lower, @ Polson",2018-05-22,5.13,5.50,1
+18060401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-06-04,5.87,5.20,1
+18060401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-06-04,5.13,33.00,1
+18060401-03,"Flathead River, Lower, @ Polson",2018-06-04,5.25,3.40,1
+18060401-04,"Flathead River, Lower, @ Polson",2018-06-04,5.18,6.90,1
+18062801-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-06-29,5.74,4.20,1
+18062801-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-06-29,4.93,7.70,1
+18062801-03,"Flathead River, Lower, @ Polson",2018-06-29,5.76,3.10,1
+18071701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-07-17,5.19,2.10,1
+18071701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-07-17,4.06,4.60,1
+18071701-03,"Flathead River, Lower, @ Polson",2018-07-17,4.39,1.60,1
+18082702-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-08-28,5.92,4.20,1
+18082702-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-08-28,4.44,2.70,1
+18082702-03,"Flathead River, Lower, @ Polson",2018-08-28,4.79,1.90,1
+18092601-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-09-27,6.10,31.80,1
+18092601-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-09-27,4.30,< 1.5,1
+18092601-03,"Flathead River, Lower, @ Polson",2018-09-27,4.92,3.60,1
+18102201-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-10-22,6.10,4.90,1
+18102201-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-10-22,4.24,2.30,1
+18102201-03,"Flathead River, Lower, @ Polson",2018-10-22,4.65,< 1.5,1
+18112001-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-11-21,6.29,2.80,1
+18112001-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-11-21,4.47,1.70,1
+18112001-03,"Flathead River, Lower, @ Polson",2018-11-21,4.58,2.30,1
+18121801-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2018-12-19,6.74,1.90,1
+18121801-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2018-12-19,4.81,2.20,1
+18121801-03,"Flathead River, Lower, @ Polson",2018-12-19,4.83,1.70,1
+19012401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-01-24,6.48,2.40,1
+19012401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-01-24,4.67,3.70,1
+19012401-03,"Flathead River, Lower, @ Polson",2019-01-24,4.91,2.00,1
+19022802-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-02-28,6.68,2.00,1
+19022802-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-02-28,4.80,3.00,1
+19022802-03,"Flathead River, Lower, @ Polson",2019-02-28,4.95,1.70,1
+19032701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-03-28,6.58,5.50,1
+19032701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-03-28,4.82,7.30,1
+19032701-03,"Flathead River, Lower, @ Polson",2019-03-28,4.83,3.10,1
+19041901-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-04-19,6.73,2.40,1
+19041901-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-04-19,5.16,6.90,1
+19041901-03,"Flathead River, Lower, @ Polson",2019-04-19,4.66,18.00,1
+19051301-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-05-13,6.46,5.90,1
+19051301-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-05-13,6.52,2.60,1
+19051301-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-05-13,4.74,7.80,1
+19051301-04,"Flathead River, Lower, @ Polson",2019-05-13,5.02,2.10,1
+19051701-01,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-05-17,4.67,48.90,1
+19051701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-05-17,4.84,50.30,1
+19060701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-06-07,5.76,3.30,1
+19060701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-06-07,4.13,8.20,1
+19060701-03,"Flathead River, Lower, @ Polson",2019-06-07,4.47,2.90,1
+19061701-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-06-17,5.32,3.30,1
+19061701-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-06-17,4.10,3.30,1
+19061701-03,"Flathead River, Lower, @ Polson",2019-06-17,4.37,< 1.5,1
+19061701-04,"Flathead River, Lower, @ Polson",2019-06-17,4.33,1.60,1
+19071101-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-07-11,5.01,2.40,1
+19071101-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-07-11,4.05,3.20,1
+19071101-03,"Flathead River, Lower, @ Polson",2019-07-11,4.44,2.10,1
+19080601-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-08-06,5.36,5.90,1
+19080601-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-08-06,4.02,2.10,1
+19080601-03,"Flathead River, Lower, @ Polson",2019-08-06,4.16,1.70,1
+19090501-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-09-05,5.86,3.50,1
+19090501-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-09-05,4.20,3.20,1
+19090501-03,"Flathead River, Lower, @ Polson",2019-09-05,4.67,3.40,1
+19100201-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-10-02,5.94,3.00,1
+19100201-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-10-02,4.34,2.50,1
+19100201-03,"Flathead River, Lower, @ Polson",2019-10-02,4.60,5.20,1
+19102801-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-10-30,6.20,3.00,1
+19102801-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-10-30,4.45,4.60,1
+19102801-03,"Flathead River, Lower, @ Polson",2019-10-30,4.74,3.80,1
+19112502-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-11-25,6.48,2.40,1
+19112502-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-11-25,4.77,2.10,1
+19112502-03,"Flathead River, Lower, @ Polson",2019-11-25,4.83,2.10,1
+19122001-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2019-12-20,6.28,3.30,1
+19122001-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2019-12-20,4.68,3.40,1
+19122001-03,"Flathead River, Lower, @ Polson",2019-12-20,4.85,2.20,1
+20012101-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-01-21,6.27,5.10,1
+20012101-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-01-21,4.52,2.60,1
+20012101-03,"Flathead River, Lower, @ Polson",2020-01-21,4.69,2.00,1
+20022401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-02-24,6.25,2.60,1
+20022401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-02-24,4.88,1.80,1
+20022401-03,"Flathead River, Lower, @ Polson",2020-02-24,4.76,2.30,1
+20031901-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-03-19,6.48,3.30,1
+20031901-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-03-19,5.07,4.50,1
+20031901-03,"Flathead River, Lower, @ Polson",2020-03-19,5.07,7.60,1
+20041401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-04-14,6.31,3.30,1
+20041401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-04-14,5.18,7.00,1
+20041401-03,"Flathead River, Lower, @ Polson",2020-04-14,4.90,2.00,1
+20042401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-04-24,6.32,2.80,1
+20042401-02,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-04-24,6.35,2.60,1
+20042401-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-04-24,5.23,15.30,1
+20042401-04,"Flathead River, Lower, @ Polson",2020-04-24,4.60,2.10,1
+20050101-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-05-01,6.44,2.30,1
+20050101-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-05-01,4.88,28.50,1
+20050101-03,"Flathead River, Lower, @ Polson",2020-05-01,4.48,2.10,1
+20052001-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-05-21,6.14,3.30,1
+20052001-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-05-21,4.53,54.50,1
+20052001-03,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-05-21,4.59,45.40,1
+20052001-04,"Flathead River, Lower, @ Polson",2020-05-21,4.54,3.80,1
+20053101-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-05-31,6.16,5.80,1
+20053101-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-05-31,4.44,49.10,1
+20053101-03,"Flathead River, Lower, @ Polson",2020-05-31,4.47,1.90,1
+20060803-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-06-09,5.83,6.10,1
+20060803-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-06-09,4.58,16.90,1
+20060803-03,"Flathead River, Lower, @ Polson",2020-06-09,5.28,1.90,1
+20062901-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-06-29,5.31,5.60,1
+20062901-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-06-29,4.22,7.20,1
+20062901-03,"Flathead River, Lower, @ Polson",2020-06-29,4.28,2.40,1
+20062901-04,"Flathead River, Lower, @ Polson",2020-06-29,4.37,2.90,1
+20072001-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-07-20,5.27,3.20,1
+20072001-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-07-20,4.33,2.80,1
+20072001-03,"Flathead River, Lower, @ Polson",2020-07-20,4.35,1.70,1
+20081401-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-08-14,5.64,3.20,1
+20081401-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-08-14,4.34,3.10,1
+20081401-03,"Flathead River, Lower, @ Polson",2020-08-14,4.56,6.30,1
+20090803-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-09-10,5.82,1.80,1
+20090803-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-09-10,4.41,1.70,1
+20090803-03,"Flathead River, Lower, @ Polson",2020-09-10,4.75,2.30,1
+20101302-01,Swan River @ Bigfork Steel Bridge (Electric Ave...,2020-10-14,5.96,2.40,1
+20101302-02,"Flathead River, Mainstem, @ Holt (Sportsman Bri...",2020-10-14,4.42,2.00,1
+20101302-03,"Flathead River, Lower, @ Polson",2020-10-14,4.85,2.00,1
